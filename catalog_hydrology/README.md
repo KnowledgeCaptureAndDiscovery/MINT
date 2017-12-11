@@ -33,4 +33,4 @@ We are going to use two sources:
     * **Terms of use**: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
     * **Rdf link**: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Algeria&xmlmime=rdf'] 
 
-**Note_2**: The script detects all the countries listed in http://earthwise.bgs.ac.uk/index.php/Hydrogeology_by_country, and it extracts automatically the previous information for each of them. The **output.txt** contains the results of running this script and redirecting the output to file. 
+**Note_2**: The script detects all the countries listed in http://earthwise.bgs.ac.uk/index.php/Hydrogeology_by_country, and it extracts automatically the previous information for each of them. The **output.txt** file contains the results of running this script and redirecting the output to file. 
