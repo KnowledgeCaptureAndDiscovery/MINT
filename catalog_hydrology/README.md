@@ -14,7 +14,7 @@ We are going to use two sources:
 ### Africa Groundwater Atlas Scrapper
 
 ```
-   python earthwise_scrapper.py
+   python earthwise_scrapper.py > output.txt
 
 ```
 **Note_1: Tested with version Python 2.7.13**
