@@ -60,7 +60,16 @@ class ReadData:
 					cont += 1
 				else:
 		   			biblio_reference = elt.text
-					biblio= biblio_reference.split("Accessed")[0]
+					if biblio_reference.find("Accessed"):
+						biblio= biblio_reference.split("Accessed")[0]
+					else:
+						biblio = biblio_reference
+			if cont == 1:	
+					if citation.find("Accessed"):
+						biblio= citation.split("Accessed")[0]
+					else:
+						biblio = citation
+
 
 	mark = soup.find(id="Terms_and_conditions")
 	for elt in mark.parent.nextSiblingGenerator():
