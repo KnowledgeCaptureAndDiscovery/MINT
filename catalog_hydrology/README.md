@@ -4,8 +4,7 @@ We are going to use two sources:
 
 
 1. **Africa Groundwater Atlas** 
-  The successful and sustainable development of groundwater resources in Africa is critical for future safe water supplies, economic  growth and food security in the continent. Doing this successfully relies on good hydrogeological understanding - but much of the data and information that already exists about groundwater in Africa is not available to the people who could make use of it. Information freely accessible: you can access it online now by following the link below. 
-Link: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_by_country
+  The successful and sustainable development of groundwater resources in Africa is critical for future safe water supplies, economic  growth and food security in the continent. Doing this successfully relies on good hydrogeological understanding - but much of the data and information that already exists about groundwater in Africa is not available to the people who could make use of it. Information freely accessible: you can access it online now by following the link [link](http://earthwise.bgs.ac.uk/index.php/Hydrogeology_by_country) 
 
 * **"earthewise_scrapper.py"** extracts automatically the details ( authors, citation, reference, description, etc.) of this website for all the listed countries - bellow you will find the instructions for executing it. 
 
