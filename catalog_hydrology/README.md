@@ -17,7 +17,7 @@ We are going to use two sources:
    python earthwise_scrapper.py
 
 ```
-**Nota: Tested with version Python 2.7.13**
+**Note_1: Tested with version Python 2.7.13**
 
 *Output example of the scrapper:* 
   * Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Algeria ###### 
@@ -33,4 +33,4 @@ We are going to use two sources:
     * **Terms of use**: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
     * **Rdf link**: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Algeria&xmlmime=rdf'] 
 
-** Note: The script detec all the countries listed in http://earthwise.bgs.ac.uk/index.php/Hydrogeology_by_country, and it extract the previous information automatically. 
+**Note_2**: The script detec all the countries listed in http://earthwise.bgs.ac.uk/index.php/Hydrogeology_by_country, and it extract the previous information automatically. 
