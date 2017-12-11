@@ -32,3 +32,5 @@ We are going to use two sources:
     * **Citation**: Bibliographic reference: Chabour, N, Mebrouk, N, Hassani, I H, Upton, K, and Ó Dochartaigh, B É. 2016. Africa Groundwater Atlas: Hydrogeology of Algeria. British Geological Survey.  
     * **Terms of use**: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
     * **Rdf link**: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Algeria&xmlmime=rdf'] 
+
+** Note: The script detec all the countries listed in http://earthwise.bgs.ac.uk/index.php/Hydrogeology_by_country, and it extract the previous information automatically. 
