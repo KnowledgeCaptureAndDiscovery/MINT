@@ -20,10 +20,11 @@ class ReadData:
 
 	dl_data = soup.find_all('dl')
 	for dlitem in dl_data:
-		dd = dlitem.find('dd')
-        	a =dd.find('a')
-	        country = a['href']
-		country_list.append(country)
+		dd_data = dlitem.find_all('dd')
+		for dditem in dd_data: 
+        		a =dditem.find('a')
+	        	country = a['href']
+			country_list.append(country)
 	
 	return country_list	
 	
