@@ -30,9 +30,12 @@ class ReadData:
                     if "ExportRDF" in link.get("rel", [])]
         location = soup.find(
                    id="firstHeading").text.replace("Hydrogeology of ", '')
+	
         mark = soup.find(id="Authors")
         if not mark:
             mark = soup.find(id="Compilers")
+        if not mark:
+            mark = soup.find(id="Contributers")
         for elt in mark.parent.nextSiblingGenerator():
             if elt.name == "h2":
                 break
