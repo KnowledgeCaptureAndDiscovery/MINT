@@ -94,7 +94,7 @@ class WriteData:
         print("Description: %s \n" % scrapper['description'])
         print("Location: %s \n" % scrapper['location'])
         for name in scrapper['authors']:
-            print("Author %s - Institution: %s \n" % (name, scrapper['authors'][name]))
+            print("Author %s - Institution: %s \n" % (name, scrapper['authors'][name][0]))
         print ("Citation: %s \n" % scrapper['biblio'])
         print ("Terms of use: %s \n" % scrapper['terms_of_use'])
         print ("Rdf link: %s \n" % scrapper['rdf_link'])
