@@ -24,7 +24,7 @@ class ReadData:
         rdf_link = []
         cont = 0
         html = urllib.urlopen(url).read()
-        soup = BeautifulSoup(html.decode('utf-8', 'ignore'))
+        soup = BeautifulSoup(html)
         description = soup.title.string
         rdf_link = [link["href"] for link in soup.findAll("link")
                     if "ExportRDF" in link.get("rel", [])]
@@ -94,8 +94,8 @@ class WriteData:
         print("Description: %s \n" % scrapper['description'])
         print("Location: %s \n" % scrapper['location'])
         for name in scrapper['authors']:
-            print("Aut.%s - Inst:%s \n" % (name, scrapper['authors'][name][0]))
-        print ("Citation: %s \n" % scrapper['biblio'])
+            print("Aut.%s - Inst:%s \n" % (name.encode('utf-8'), scrapper['authors'][name][0].encode('utf-8')))
+        print ("Citation: %s \n" % scrapper['biblio'].encode('utf-8'))
         print ("Terms of use: %s \n" % scrapper['terms_of_use'])
         print ("Rdf link: %s \n" % scrapper['rdf_link'])
 
