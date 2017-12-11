@@ -24,7 +24,7 @@ class ReadData:
         rdf_link = []
         cont = 0
         html = urllib.urlopen(url).read()
-        soup = BeautifulSoup(html.decode('utf-8','ignore'))
+        soup = BeautifulSoup(html.decode('utf-8', 'ignore'))
         description = soup.title.string
         rdf_link = [link["href"] for link in soup.findAll("link")
                     if "ExportRDF" in link.get("rel", [])]
@@ -38,23 +38,23 @@ class ReadData:
                 break
             if hasattr(elt, "text"):
                 if elt.findChildren('b'):
-			raw = [a.string for a in elt.findAll(text = True)]
-			name = [b.string for b in elt.findAll('b')]
-                        inst = list(set(raw) - set(name))
-                        inst_name = [item for item in inst]
-			if ', ' in inst_name:
-			    inst_name.remove(', ')
-			if ' and ' in inst_name:
-			    inst_name.remove(' and ')
-			inst_value = []
-			for elem in inst_name:
-			    if elem.startswith(', '):
-				new=elem[2:]
-				inst_value.append(new)
-			    else:	
-				inst_value.append(elem)
-			for elem in name:
-			    authors[elem] = inst_value
+                    raw = [a.string for a in elt.findAll(text=True)]
+                    name = [b.string for b in elt.findAll('b')]
+                    inst = list(set(raw) - set(name))
+                    inst_name = [item for item in inst]
+                    if ', ' in inst_name:
+                        inst_name.remove(', ')
+                    if ' and ' in inst_name:
+                        inst_name.remove(' and ')
+                    inst_value = []
+                    for elem in inst_name:
+                        if elem.startswith(', '):
+                            new = elem[2:]
+                            inst_value.append(new)
+                        else:
+                            inst_value.append(elem)
+                    for elem in name:
+                        authors[elem] = inst_value
                 else:
                     if cont == 0:
                         citation = elt.text
@@ -94,7 +94,7 @@ class WriteData:
         print("Description: %s \n" % scrapper['description'])
         print("Location: %s \n" % scrapper['location'])
         for name in scrapper['authors']:
-            print("Author %s - Institution: %s \n" % (name, scrapper['authors'][name][0]))
+            print("Aut.%s - Inst:%s \n" % (name, scrapper['authors'][name][0]))
         print ("Citation: %s \n" % scrapper['biblio'])
         print ("Terms of use: %s \n" % scrapper['terms_of_use'])
         print ("Rdf link: %s \n" % scrapper['rdf_link'])
