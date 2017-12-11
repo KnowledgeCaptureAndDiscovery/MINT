@@ -17,6 +17,8 @@ We are going to use two sources:
    python earthwise_scrapper.py
 
 ```
+**Nota: Tested with version Python 2.7.13**
+
 *Output example of the scrapper:* 
   * Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Algeria ###### 
     * **Resource**: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Algeria 
@@ -29,4 +31,3 @@ We are going to use two sources:
     * **Citation**: Bibliographic reference: Chabour, N, Mebrouk, N, Hassani, I H, Upton, K, and Ó Dochartaigh, B É. 2016. Africa Groundwater Atlas: Hydrogeology of Algeria. British Geological Survey.  
     * **Terms of use**: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
     * **Rdf link**: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Algeria&xmlmime=rdf'] 
-
