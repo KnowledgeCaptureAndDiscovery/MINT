@@ -1,0 +1,1237 @@
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Algeria ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Algeria 
+
+Description: Hydrogeology of Algeria - Earthwise 
+
+Location: Algeria 
+
+Aut.Dr Nabil Chabour - Inst:Université Constantine, Algeria
+ 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Naima Mebrouk - Inst:Université d'Oran, Algeria
+ 
+
+Aut.Professor Moulay Idriss Hassani - Inst:Université de Oran, Algeria
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Chabour, Mebrouk, Hassani, Upton and Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Algeria&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Angola ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Angola 
+
+Description: Hydrogeology of Angola - Earthwise 
+
+Location: Angola 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton and Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Angola&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Benin ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Benin 
+
+Description: Hydrogeology of Benin - Earthwise 
+
+Location: Benin 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Henri Totin - Inst:Université de Parakou, Benin
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Aut.Moussa Boukari - Inst:Faculté des Sciences et Techniques, Université d’Abomey-Calavi, Benin
+ 
+
+Citation: Please cite this page as: Boukari, Totin, Upton, and Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Benin&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Botswana ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Botswana 
+
+Description: Hydrogeology of Botswana - Earthwise 
+
+Location: Botswana 
+
+Aut.John Farr - Inst:Botswana
+ 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Roger Key - Inst:UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Bibliographic reference: Upton, K, Ó Dochartaigh, B É, Key, R and Farr J. 2016. Africa Groundwater Atlas: Hydrogeology of Botswana. British Geological Survey.  
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Botswana&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Burkina_Faso ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Burkina_Faso 
+
+Description: Hydrogeology of Burkina Faso - Earthwise 
+
+Location: Burkina Faso 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Youssouf Koussoubé - Inst:Université de Ouagadougou, Burkina Faso
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Koussobé, Upton and Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Burkina_Faso&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Burundi ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Burundi 
+
+Description: Hydrogeology of Burundi - Earthwise 
+
+Location: Burundi 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton and Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Burundi&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Cameroon ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Cameroon 
+
+Description: Hydrogeology of Cameroon - Earthwise 
+
+Location: Cameroon 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Cameroon&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Central_African_Republic ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Central_African_Republic 
+
+Description: Hydrogeology of Central African Republic - Earthwise 
+
+Location: Central African Republic 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Central_African_Republic&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Chad ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Chad 
+
+Description: Hydrogeology of Chad - Earthwise 
+
+Location: Chad 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Chad&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Comoros ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Comoros 
+
+Description: Hydrogeology of Comoros - Earthwise 
+
+Location: Comoros 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Comoros&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Cote_d%27Ivoire ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Cote_d%27Ivoire 
+
+Description: Hydrogeology of Cote d'Ivoire - Earthwise 
+
+Location: Cote d'Ivoire 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Cote_d%27Ivoire&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Democratic_Republic_of_the_Congo ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Democratic_Republic_of_the_Congo 
+
+Description: Hydrogeology of Democratic Republic of the Congo - Earthwise 
+
+Location: Democratic Republic of the Congo 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Democratic_Republic_of_the_Congo&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Djibouti ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Djibouti 
+
+Description: Hydrogeology of Djibouti - Earthwise 
+
+Location: Djibouti 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Djibouti&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Egypt ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Egypt 
+
+Description: Hydrogeology of Egypt - Earthwise 
+
+Location: Egypt 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Egypt&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Equatorial_Guinea ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Equatorial_Guinea 
+
+Description: Hydrogeology of Equatorial Guinea - Earthwise 
+
+Location: Equatorial Guinea 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Equatorial_Guinea&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Eritrea ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Eritrea 
+
+Description: Hydrogeology of Eritrea - Earthwise 
+
+Location: Eritrea 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Eritrea&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Ethiopia ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Ethiopia 
+
+Description: Hydrogeology of Ethiopia - Earthwise 
+
+Location: Ethiopia 
+
+Aut.Addis Hailu - Inst:University of Gondor, Ethiopia
+ 
+
+Aut.Brighid Ó Dochartaigh - Inst: &  
+
+Aut.Dr Seifu Kebede - Inst:Addis Ababa University, Ethiopia
+ 
+
+Aut.Emily Crane - Inst: &  
+
+Citation: Please cite this page as: Kebede, Hailu, Crane & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Ethiopia&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Gabon ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Gabon 
+
+Description: Hydrogeology of Gabon - Earthwise 
+
+Location: Gabon 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Gabon&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Gambia ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Gambia 
+
+Description: Hydrogeology of Gambia - Earthwise 
+
+Location: Gambia 
+
+Aut.Giran Corr - Inst:RC Engineering / NIRAS, The Gambia
+ 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Aut.Landing Bojang - Inst:Department of Water Resources, The Gambia
+ 
+
+Citation: Please cite this page as: Bojang, Corr, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Gambia&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Ghana ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Ghana 
+
+Description: Hydrogeology of Ghana - Earthwise 
+
+Location: Ghana 
+
+Aut.Dr Emmanuel Obuobie - Inst:Water Research Institute, Ghana
+ 
+
+Aut.Dr William Agyekum - Inst:Water Research Institute, Ghana
+ 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Emmanuel Kwame Appiah-Adjei - Inst:Kwame Nkrumah University of Science and Technology, Ghana
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Obuobie, Agyekum, Appiah-Adjei, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Ghana&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Guinea ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Guinea 
+
+Description: Hydrogeology of Guinea - Earthwise 
+
+Location: Guinea 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Guinea&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Guinea_Bissau ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Guinea_Bissau 
+
+Description: Hydrogeology of Guinea Bissau - Earthwise 
+
+Location: Guinea Bissau 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Guinea_Bissau&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Kenya ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Kenya 
+
+Description: Hydrogeology of Kenya - Earthwise 
+
+Location: Kenya 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Maxwell Barasa - Inst:Rural Focus Ltd, Kenya
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Aut.Emily Crane - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Barasa, Crane, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Kenya&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Lesotho ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Lesotho 
+
+Description: Hydrogeology of Lesotho - Earthwise 
+
+Location: Lesotho 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Mr Khahliso Leketa - Inst:Department of Water Affairs, Lesotho
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Aut.Emily Crane - Inst:British Geological Survey, UK
+ 
+
+Aut.Mrs Matsolo Migwi - Inst:Department of Water Affairs, Lesotho
+ 
+
+Citation: Please cite this page as: Leketa, Migwi, Crane, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Lesotho&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Liberia ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Liberia 
+
+Description: Hydrogeology of Liberia - Earthwise 
+
+Location: Liberia 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Liberia&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Libya ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Libya 
+
+Description: Hydrogeology of Libya - Earthwise 
+
+Location: Libya 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Libya&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Madagascar ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Madagascar 
+
+Description: Hydrogeology of Madagascar - Earthwise 
+
+Location: Madagascar 
+
+Aut.Brighid Ó Dochartaigh - Inst:Bushproof, Madagascar
+ 
+
+Aut.Mathieu Monteleone - Inst:Bushproof, Madagascar
+ 
+
+Aut.Dr Kirsty Upton - Inst:Bushproof, Madagascar
+ 
+
+Citation: Please cite this page as: Upton, Ó Dochartaigh and Monteleone, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Madagascar&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Malawi ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Malawi 
+
+Description: Hydrogeology of Malawi - Earthwise 
+
+Location: Malawi 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Brighton Chunga - Inst:Mzuzu University, Malawi & Cranfield University, UK.
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton, Ó Dochartaigh & Chunga, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Malawi&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mali ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mali 
+
+Description: Hydrogeology of Mali - Earthwise 
+
+Location: Mali 
+
+Aut.Hamadoun Bokar - Inst:Ecole Nationale d'Ingénieurs Abderhamane Baba Touré, Mali
+ 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Amadou Zanga Traore - Inst:Ecole Nationale d'Ingénieurs Abderhamane Baba Touré, Mali
+ 
+
+Aut.Aboubacar Sidibe - Inst:Mali
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Traore, Bokar, Sidibe, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Mali&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mauritania ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mauritania 
+
+Description: Hydrogeology of Mauritania - Earthwise 
+
+Location: Mauritania 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Mauritania&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara) ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara) 
+
+Description: Hydrogeology of Morocco & Western Sahara (Moroccan Sahara) - Earthwise 
+
+Location: Morocco & Western Sahara (Moroccan Sahara) 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara)&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mozambique ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mozambique 
+
+Description: Hydrogeology of Mozambique - Earthwise 
+
+Location: Mozambique 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Ivo van Haren - Inst:WE Consult, Mozambique
+ 
+
+Aut.Arjen Naafs - Inst:WaterAid, UK 
+ 
+
+Aut.Lucas Chairuca - Inst:National Directorate of Water, Mozambique
+ 
+
+Citation: Please cite this page as: Chairuca, Naafs, van Haren, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Mozambique&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Namibia ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Namibia 
+
+Description: Hydrogeology of Namibia - Earthwise 
+
+Location: Namibia 
+
+Aut.Arnold Bittner - Inst:SLR Environmental Consultants, Namibia
+ 
+
+Aut.Christoph Lohe - Inst:BGR, Germany
+ 
+
+Aut.Katharina Dierkes - Inst:The Maproom, Namibia
+ 
+
+Aut.Professor Jurgen Kirchner - Inst:Groundwater Investigations, Namibia
+ 
+
+Aut.Greg Christelis - Inst:CHR Water Consultants, Namibia
+ 
+
+Aut.Martin Quinger - Inst:BGR, Germany
+ 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Aut.Brian Matengu - Inst:NamWater, Namibia
+ 
+
+Citation: Please cite this page as: Christelis, Dierkes, Quinger, Matengu, Kirchner, Lohe, Bittner, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Namibia&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Niger ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Niger 
+
+Description: Hydrogeology of Niger - Earthwise 
+
+Location: Niger 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Imogen Bellwood-Howard - Inst:Institute for Development Studies.
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton, Ó Dochartaigh and Bellwood-Howard, 2017.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Niger&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Nigeria ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Nigeria 
+
+Description: Hydrogeology of Nigeria - Earthwise 
+
+Location: Nigeria 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Professor Moshood N. Tijani - Inst:Department of Geology, University of Ibadan, Nigeria
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Aut.Emily Crane - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Tijani, Crane, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Nigeria&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Republic_of_Congo ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Republic_of_Congo 
+
+Description: Hydrogeology of Republic of Congo - Earthwise 
+
+Location: Republic of Congo 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Republic_of_Congo&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Rwanda ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Rwanda 
+
+Description: Hydrogeology of Rwanda - Earthwise 
+
+Location: Rwanda 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Rwanda&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Senegal ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Senegal 
+
+Description: Hydrogeology of Senegal - Earthwise 
+
+Location: Senegal 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Emily  Crane - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Diakher Hélène Madioune - Inst:Cheikh Anta Diop University, Senegal
+ 
+
+Aut.Ibrahima Mall - Inst:Cheikh Anta Diop University, Senegal
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Aut.Professor Serigne Faye - Inst:Cheikh Anta Diop University, Senegal
+ 
+
+Aut.Moctar Diaw - Inst:Cheikh Anta Diop University, Senegal
+ 
+
+Citation: Please cite this page as: Madioune, Mall, Diaw, Faye, Crane, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Senegal&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Sierra_Leone ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Sierra_Leone 
+
+Description: Hydrogeology of Sierra Leone - Earthwise 
+
+Location: Sierra Leone 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Mustapha Thomas - Inst:Hydrenv Consulting, Sierra Leone
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton, Ó Dochartaigh & Thomas, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Sierra_Leone&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Somalia ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Somalia 
+
+Description: Hydrogeology of Somalia - Earthwise 
+
+Location: Somalia 
+
+Citation: Hussein Gadain, Food and Agriculture Organisation of the United Nations, Kenya
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Somalia&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_South_Africa ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_South_Africa 
+
+Description: Hydrogeology of South Africa - Earthwise 
+
+Location: South Africa 
+
+Aut.Kevin Pietersen - Inst:SLR Consulting (Pty) Ltd, South Africa
+ 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Tamiru Abiye - Inst:Wits University, South Africa
+ 
+
+Aut.Ernst Bertram - Inst:Department of Water and Sanitation, South Africa
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Ó Dochartaigh, Upton, Bertram, Pietersen & Abiye, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_South_Africa&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_South_Sudan ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_South_Sudan 
+
+Description: Hydrogeology of South Sudan - Earthwise 
+
+Location: South Sudan 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_South_Sudan&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Sudan ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Sudan 
+
+Description: Hydrogeology of Sudan - Earthwise 
+
+Location: Sudan 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Abdel Hafiz Gadelmula - Inst:University of Khartoum, Sudan
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Gadelmula, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Sudan&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Swaziland ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Swaziland 
+
+Description: Hydrogeology of Swaziland - Earthwise 
+
+Location: Swaziland 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Swaziland&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Tanzania ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Tanzania 
+
+Description: Hydrogeology of Tanzania - Earthwise 
+
+Location: Tanzania 
+
+Aut.Hosea Sanga - Inst:Department of Water Resources, Ministry of Water and Irrigation, Tanzania
+ 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Citation: Please cite this page as: Sangea, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Tanzania&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Togo ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Togo 
+
+Description: Hydrogeology of Togo - Earthwise 
+
+Location: Togo 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Aut.Kpadja Agouda - Inst:Department of Water Resources, Togo
+ 
+
+Aut.Masamaéya Dadja-Toyou Gnazou - Inst:Lome University, Togo
+ 
+
+Aut.Sani M. Tairou - Inst:Lome University, Togo
+ 
+
+Aut.Edem Bawoubadi Sabi - Inst:Lome University, Togo
+ 
+
+Aut.Wohou Akakpo - Inst:Department of Water Resources, Togo
+ 
+
+Citation: Please cite this page as: Gnazou, Sabi, Tauirou, Akakpo, Agouda, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Togo&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Tunisia ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Tunisia 
+
+Description: Hydrogeology of Tunisia - Earthwise 
+
+Location: Tunisia 
+
+Aut.Amira Mekni - Inst:INAT, Tunisia
+ 
+
+Aut.Brighid Ó Dochartaigh - Inst: &  
+
+Aut.Safouan Ben Ammar - Inst:ISTEUB, Tunisia 
+ 
+
+Aut.Kirsty Upton - Inst: &  
+
+Citation: Please cite this page as: Ben Ammar, Mekni, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Tunisia&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Uganda ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Uganda 
+
+Description: Hydrogeology of Uganda - Earthwise 
+
+Location: Uganda 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Michael Owor - Inst:Makerere University, Uganda
+ 
+
+Aut.Lawrence Brown - Inst:Hafren Water, UK
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Aut.Callist Tindimugaya - Inst:Ministry of Water and Environment, Uganda
+ 
+
+Citation: Please cite this page as: Owor, Tindimugaya, Brown, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Uganda&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Zambia ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Zambia 
+
+Description: Hydrogeology of Zambia - Earthwise 
+
+Location: Zambia 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Mr Kolala C Chomba - Inst:Department of Geological Survey, Ministry of Mines, Energy and Water Development, Zambia
+ 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Aut.Mr Simon Kang’omba - Inst:Department of Water Affairs, Ministry of Mines, Energy and Water Development, Zambia
+ 
+
+Aut.Emily Crane - Inst:British Geological Survey, UK
+ 
+
+Aut.Professor Daniel CW Nkhuwa - Inst:School of Mines, University of Zambia
+ 
+
+Citation: with additions from Ms Adjoah Parker, BGR, Zambia. 
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Zambia&xmlmime=rdf'] 
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Zimbabwe ###### 
+
+Resource: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Zimbabwe 
+
+Description: Hydrogeology of Zimbabwe - Earthwise 
+
+Location: Zimbabwe 
+
+Aut.Kirsty Upton - Inst:British Geological Survey, UK
+ 
+
+Aut.Brighid Ó Dochartaigh - Inst:British Geological Survey, UK
+ 
+
+Aut.Dr Richard Owen - Inst:Geology Department, University of Zimbabwe, P.O Box MP167, Mt Pleasant, Harare, Zimbabwe
+ 
+
+Aut.Emily Crane - Inst:British Geological Survey, UK
+ 
+
+Aut.Daina Mudimbu - Inst:Geology Department, University of Zimbabwe, P.O Box MP167, Mt Pleasant, Harare, Zimbabwe
+ 
+
+Citation: Please cite this page as: Mudimbo, Owen, Crane, Upton & Ó Dochartaigh, 2016.
+ 
+
+Terms of use: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
+
+Rdf link: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Zimbabwe&xmlmime=rdf'] 
+
