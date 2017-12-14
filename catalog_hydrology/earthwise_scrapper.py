@@ -1,5 +1,11 @@
 from bs4 import BeautifulSoup
 import urllib
+import codecs
+import sys
+
+UTF8Writer = codecs.getwriter('utf8')
+sys.stdout = UTF8Writer(sys.stdout)
+
 
 # python earthwise_scrapper.py
 
@@ -30,7 +36,10 @@ class ReadData:
                     if "ExportRDF" in link.get("rel", [])]
         location = soup.find(
                    id="firstHeading").text.replace("Hydrogeology of ", '')
-	
+        url_resource = url
+        index = url.rfind("/") + 1
+        id = url[index:]
+
         mark = soup.find(id="Authors")
         if not mark:
             mark = soup.find(id="Compilers")
@@ -81,7 +90,9 @@ class ReadData:
                 if elt.findChildren('a'):
                     link = elt.find('a')
                     terms_of_use = link['href']
-        scrapper['url_resource'] = url
+
+	scrapper['id'] = id 
+        scrapper['url_resource'] = url_resource
         scrapper['authors'] = authors
         scrapper['description'] = description
         scrapper['rdf_link'] = rdf_link
@@ -97,11 +108,32 @@ class WriteData:
         print("Description: %s \n" % scrapper['description'])
         print("Location: %s \n" % scrapper['location'])
         for name in scrapper['authors']:
-            print("Aut.%s - Inst:%s \n" % (name.encode('utf-8'), scrapper['authors'][name][0].encode('utf-8')))
+            print("Aut .%s - Inst:%s \n" % (name.encode('utf-8'), scrapper['authors'][name][0].encode('utf-8')))
         print ("Citation: %s \n" % scrapper['biblio'].encode('utf-8'))
         print ("Terms of use: %s \n" % scrapper['terms_of_use'])
-        print ("Rdf link: %s \n" % scrapper['rdf_link'])
 
+    def export_rdf(self, scrapper):
+        export_url = 'https://w3id.org/mint' 
+        dataset = export_url + '/Dataset/' 
+        catalog = export_url + '/Catalog/BgsCatalog' 
+        idCatalog = "<" + catalog + ">"
+        idRecurso = "<" + dataset + scrapper['id']+ ">"
+        # we will have to describe in the future the URI
+        # the distribution might be the dataset as well
+
+        tripletas = idCatalog + " <http://www.w3.org/ns/dcat#dataset> " + " " + idRecurso + " .\n"
+        tripletas += idRecurso + " a <http://www.w3.org/ns/dcat#Dataset>; \n"
+        tripletas += "    <http://purl.org/dc/terms/publisher> <" + export_url + "/Agent/BGS>; \n"
+        tripletas += "    <http://purl.org/dc/terms/spatial> \"" + scrapper['location'] + "\";\n"
+        tripletas += "    <http://purl.org/dc/terms/description> \"" + scrapper['description'] + "\";\n"
+        tripletas += "    <http://www.w3.org/ns/dcat#landingPage> <" + scrapper['url_resource'] + ">;\n"
+        tripletas += "    <http://purl.org/dc/terms/bibliographicCitation> \"" + scrapper['biblio']+ "\";\n"
+        tripletas += "    <http://purl.org/dc/terms/rigths> \"" + scrapper['terms_of_use'] + "\".\n"
+ 
+        #tripletas_authors = URI per author - PERSONA, INSTITUTION
+
+        print("%s \n" % tripletas)
+    	
 
 if __name__ == '__main__':
 
@@ -110,6 +142,7 @@ if __name__ == '__main__':
     url = "http://earthwise.bgs.ac.uk/index.php/Hydrogeology_by_country"
     country_list = rd.get_country_list(url)
     for url_country in country_list:
-        print (" ###### Extracting automaticaly: %s ###### \n" % url_country)
+        #print (" ###### Extracting automaticaly: %s ###### \n" % url_country)
         extract_information = rd.scrapper(url_country)
-        wr.print_values(extract_information)
+        #wr.print_values(extract_information)
+        wr.export_rdf(extract_information)
