@@ -82,6 +82,7 @@ class ReadData:
                         biblio = citation.split("Accessed")[0]
                     else:
                         biblio = citation
+        biblio_f=biblio.rstrip()
         mark = soup.find(id="Terms_and_conditions")
         for elt in mark.parent.nextSiblingGenerator():
             if elt.name == "h2":
@@ -97,7 +98,7 @@ class ReadData:
         scrapper['description'] = description
         scrapper['rdf_link'] = rdf_link
         scrapper['location'] = location
-        scrapper['biblio'] = biblio
+        scrapper['biblio'] = biblio_f
         scrapper['terms_of_use'] = terms_of_use
         return scrapper
 
@@ -123,12 +124,12 @@ class WriteData:
 
         tripletas = idCatalog + " <http://www.w3.org/ns/dcat#dataset> " + " " + idRecurso + " .\n"
         tripletas += idRecurso + " a <http://www.w3.org/ns/dcat#Dataset>; \n"
-        tripletas += "    <http://purl.org/dc/terms/publisher> <" + export_url + "/Agent/BGS>; \n"
-        tripletas += "    <http://purl.org/dc/terms/spatial> \"" + scrapper['location'] + "\";\n"
-        tripletas += "    <http://purl.org/dc/terms/description> \"" + scrapper['description'] + "\";\n"
-        tripletas += "    <http://www.w3.org/ns/dcat#landingPage> <" + scrapper['url_resource'] + ">;\n"
-        tripletas += "    <http://purl.org/dc/terms/bibliographicCitation> \"" + scrapper['biblio']+ "\";\n"
-        tripletas += "    <http://purl.org/dc/terms/rigths> \"" + scrapper['terms_of_use'] + "\".\n"
+        tripletas += "   <http://purl.org/dc/terms/publisher> <" + export_url + "/Agent/BGS>; \n"
+        tripletas += "   <http://purl.org/dc/terms/spatial> \"" + scrapper['location'] + "\";\n"
+        tripletas += "   <http://purl.org/dc/terms/description> \"" + scrapper['description'] + "\";\n"
+        tripletas += "   <http://www.w3.org/ns/dcat#landingPage> <" + scrapper['url_resource'] + ">;\n"
+        tripletas += "   <http://purl.org/dc/terms/bibliographicCitation> \"" + scrapper['biblio']+ "\";\n"
+        tripletas += "   <http://purl.org/dc/terms/rigths> \"" + scrapper['terms_of_use'] + "\".\n"
  
         #tripletas_authors = URI per author - PERSONA, INSTITUTION
 
