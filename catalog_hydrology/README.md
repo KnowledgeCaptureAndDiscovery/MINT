@@ -14,23 +14,18 @@ We are going to use two sources:
 ### Africa Groundwater Atlas Scrapper
 
 ```
-   python earthwise_scrapper.py > output.txt
+   python earthwise_scrapper.py > rdf_output.ttl
 
 ```
-**Note_1: Tested with version Python 2.7.13**
 
-*Output example of the scrapper:* 
-  * Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Algeria ###### 
-    * **Resource**: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Algeria 
-    * **Description**: Hydrogeology of Algeria - Earthwise 
-    * **Location**: Algeria 
-    * **Aut.** Dr Nabil Chabour - **Inst**:Université Constantine, Algeria
-    * **Aut.** Brighid Ó Dochartaigh - **Inst**:British Geological Survey, UK
-    * **Aut.** Dr Naima Mebrouk - **Inst**:Université d'Oran, Algeria
-    * **Aut.** Professor Moulay Idriss Hassani - **Inst**:Université de Oran, Algeria
-    * **Aut.** Dr Kirsty Upton - **Inst**:British Geological Survey, UK
-    * **Citation**: Bibliographic reference: Chabour, N, Mebrouk, N, Hassani, I H, Upton, K, and Ó Dochartaigh, B É. 2016. Africa Groundwater Atlas: Hydrogeology of Algeria. British Geological Survey.  
-    * **Terms of use**: http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use 
-    * **Rdf link**: ['http://earthwise.bgs.ac.uk/index.php?title=Special:ExportRDF/Hydrogeology_of_Algeria&xmlmime=rdf'] 
+The script detects all the countries listed in http://earthwise.bgs.ac.uk/index.php/Hydrogeology_by_country, and extracts the  **rdfs** (using turtle format) automatically for each of them. The **rdf_output.txt** file contains the rdf results.
 
-**Note_2**: The script detects all the countries listed in http://earthwise.bgs.ac.uk/index.php/Hydrogeology_by_country, and extracts automatically the previous information for each of them. The **output.txt** file contains the results of running this script and redirecting the output to a file. 
+
+```
+   python querytest.py 
+
+```
+
+Small script for testing queries to the *rdf_output.ttl* file - it uses rdflib library.
+
+**Note: Both scripts are tested with version Python 2.7.13**
