@@ -1,0 +1,549 @@
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Algeria> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Algeria> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Algeria";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Algeria - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Algeria>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Chabour, Mebrouk, Hassani, Upton and Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Angola> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Angola> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Angola";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Angola - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Angola>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton and Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Benin> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Benin> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Benin";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Benin - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Benin>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Boukari, Totin, Upton, and Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Botswana> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Botswana> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Botswana";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Botswana - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Botswana>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Bibliographic reference: Upton, K, Ó Dochartaigh, B É, Key, R and Farr J. 2016. Africa Groundwater Atlas: Hydrogeology of Botswana. British Geological Survey. ";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Burkina_Faso> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Burkina_Faso> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Burkina Faso";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Burkina Faso - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Burkina_Faso>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Koussobé, Upton and Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Burundi> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Burundi> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Burundi";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Burundi - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Burundi>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton and Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Cameroon> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Cameroon> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Cameroon";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Cameroon - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Cameroon>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Central_African_Republic> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Central_African_Republic> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Central African Republic";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Central African Republic - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Central_African_Republic>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Chad> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Chad> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Chad";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Chad - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Chad>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Comoros> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Comoros> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Comoros";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Comoros - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Comoros>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Cote_d%27Ivoire> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Cote_d%27Ivoire> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Cote d'Ivoire";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Cote d'Ivoire - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Cote_d%27Ivoire>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Democratic_Republic_of_the_Congo> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Democratic_Republic_of_the_Congo> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Democratic Republic of the Congo";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Democratic Republic of the Congo - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Democratic_Republic_of_the_Congo>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Djibouti> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Djibouti> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Djibouti";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Djibouti - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Djibouti>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Egypt> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Egypt> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Egypt";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Egypt - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Egypt>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Equatorial_Guinea> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Equatorial_Guinea> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Equatorial Guinea";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Equatorial Guinea - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Equatorial_Guinea>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Eritrea> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Eritrea> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Eritrea";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Eritrea - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Eritrea>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Ethiopia> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Ethiopia> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Ethiopia";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Ethiopia - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Ethiopia>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Kebede, Hailu, Crane & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Gabon> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Gabon> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Gabon";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Gabon - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Gabon>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Gambia> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Gambia> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Gambia";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Gambia - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Gambia>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Bojang, Corr, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Ghana> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Ghana> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Ghana";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Ghana - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Ghana>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Obuobie, Agyekum, Appiah-Adjei, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Guinea> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Guinea> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Guinea";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Guinea - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Guinea>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Guinea_Bissau> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Guinea_Bissau> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Guinea Bissau";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Guinea Bissau - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Guinea_Bissau>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Kenya> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Kenya> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Kenya";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Kenya - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Kenya>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Barasa, Crane, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Lesotho> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Lesotho> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Lesotho";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Lesotho - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Lesotho>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Leketa, Migwi, Crane, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Liberia> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Liberia> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Liberia";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Liberia - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Liberia>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Libya> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Libya> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Libya";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Libya - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Libya>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Madagascar> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Madagascar> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Madagascar";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Madagascar - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Madagascar>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton, Ó Dochartaigh and Monteleone, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Malawi> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Malawi> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Malawi";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Malawi - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Malawi>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton, Ó Dochartaigh & Chunga, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Mali> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Mali> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Mali";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Mali - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mali>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Traore, Bokar, Sidibe, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Mauritania> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Mauritania> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Mauritania";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Mauritania - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mauritania>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara)> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara)> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Morocco & Western Sahara (Moroccan Sahara)";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Morocco & Western Sahara (Moroccan Sahara) - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara)>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Mozambique> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Mozambique> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Mozambique";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Mozambique - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mozambique>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Chairuca, Naafs, van Haren, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Namibia> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Namibia> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Namibia";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Namibia - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Namibia>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Christelis, Dierkes, Quinger, Matengu, Kirchner, Lohe, Bittner, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Niger> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Niger> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Niger";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Niger - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Niger>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton, Ó Dochartaigh and Bellwood-Howard, 2017.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Nigeria> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Nigeria> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Nigeria";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Nigeria - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Nigeria>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Tijani, Crane, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Republic_of_Congo> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Republic_of_Congo> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Republic of Congo";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Republic of Congo - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Republic_of_Congo>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Rwanda> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Rwanda> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Rwanda";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Rwanda - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Rwanda>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Senegal> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Senegal> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Senegal";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Senegal - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Senegal>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Madioune, Mall, Diaw, Faye, Crane, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Sierra_Leone> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Sierra_Leone> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Sierra Leone";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Sierra Leone - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Sierra_Leone>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton, Ó Dochartaigh & Thomas, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Somalia> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Somalia> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Somalia";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Somalia - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Somalia>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Hussein Gadain, Food and Agriculture Organisation of the United Nations, Kenya
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_South_Africa> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_South_Africa> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "South Africa";
+    <http://purl.org/dc/terms/description> "Hydrogeology of South Africa - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_South_Africa>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Ó Dochartaigh, Upton, Bertram, Pietersen & Abiye, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_South_Sudan> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_South_Sudan> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "South Sudan";
+    <http://purl.org/dc/terms/description> "Hydrogeology of South Sudan - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_South_Sudan>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Sudan> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Sudan> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Sudan";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Sudan - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Sudan>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Gadelmula, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Swaziland> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Swaziland> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Swaziland";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Swaziland - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Swaziland>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Tanzania> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Tanzania> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Tanzania";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Tanzania - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Tanzania>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Sangea, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Togo> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Togo> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Togo";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Togo - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Togo>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Gnazou, Sabi, Tauirou, Akakpo, Agouda, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Tunisia> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Tunisia> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Tunisia";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Tunisia - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Tunisia>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Ben Ammar, Mekni, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Uganda> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Uganda> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Uganda";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Uganda - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Uganda>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Owor, Tindimugaya, Brown, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Zambia> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Zambia> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Zambia";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Zambia - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Zambia>;
+    <http://purl.org/dc/terms/bibliographicCitation> "with additions from Ms Adjoah Parker, BGR, Zambia. 
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
+<https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Zimbabwe> .
+<https://w3id.org/mint/Dataset/Hydrogeology_of_Zimbabwe> a <http://www.w3.org/ns/dcat#Dataset>; 
+    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
+    <http://purl.org/dc/terms/spatial> "Zimbabwe";
+    <http://purl.org/dc/terms/description> "Hydrogeology of Zimbabwe - Earthwise";
+    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Zimbabwe>;
+    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Mudimbo, Owen, Crane, Upton & Ó Dochartaigh, 2016.
+";
+    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+ 
+
