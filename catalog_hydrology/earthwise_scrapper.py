@@ -2,9 +2,10 @@ from bs4 import BeautifulSoup
 import urllib
 import codecs
 import sys
+#@prefix foaf: <http://xmlns.com/foaf/0.1/> . 
 
-UTF8Writer = codecs.getwriter('utf8')
-sys.stdout = UTF8Writer(sys.stdout)
+#UTF8Writer = codecs.getwriter('utf-8')
+#sys.stdout = UTF8Writer(sys.stdout)
 
 
 # python earthwise_scrapper.py
@@ -133,13 +134,31 @@ class WriteData:
         tripletas += "   <http://purl.org/dc/terms/description> \"" + scrapper['description'] + "\";\n"
         tripletas += "   <http://www.w3.org/ns/dcat#landingPage> <" + scrapper['url_resource'] + ">;\n"
         tripletas += "   <http://purl.org/dc/terms/bibliographicCitation> \"" + scrapper['biblio']+ "\";\n"
-        tripletas += "   <http://purl.org/dc/terms/bibliographicCitation> \"" + scrapper['biblio']+ "\";\n"
         tripletas += "   <http://purl.org/dc/terms/title> \"" + scrapper['title'] + "\";\n"
         tripletas += "   <http://purl.org/dc/terms/rigths> \"" + scrapper['terms_of_use'] + "\".\n"
- 
-        #tripletas_authors = URI per author - PERSONA, INSTITUTION
 
-        print("%s \n" % tripletas)
+       
+        tripletas_author = ""
+	for person in scrapper['authors']:
+	    person_l = person.encode('utf8')
+	    person_id = urllib.quote(person_l)
+	    person_uri = '<' + export_url+ '/Person/'+ person_id + '>'
+            organization_l= scrapper['authors'][person][0].replace(",","").encode('utf8')
+
+	    organization_id = urllib.quote(organization_l)
+	    organization_uri = '<' + export_url + '/Organization/'+ organization_id + '>'
+            
+	    tripletas_author += person_uri + " a <http://xmlns.com/foaf/0.1/Person>;\n"
+	    tripletas_author += "    <http://xmlns.com/foaf/0.1/name> \""+ person +"\".\n"
+	    tripletas_author += organization_uri + "a <http://xmlns.com/foaf/0.1/Organization>;\n"
+            tripletas_author +=	"    <http://xmlns.com/foaf/0.1/member> " + person_uri+ ";\n"  
+            tripletas_author +=	"    <http://xmlns.com/foaf/0.1/name> \"" + scrapper['authors'][person][0].rstrip() + "\".\n"  
+
+
+
+	tripletas += tripletas_author + "\n"
+
+        print("%s \n" % tripletas.encode('utf-8'))
     	
 
 if __name__ == '__main__':
