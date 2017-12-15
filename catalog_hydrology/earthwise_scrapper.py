@@ -92,7 +92,10 @@ class ReadData:
                     link = elt.find('a')
                     terms_of_use = link['href']
 
+
+	title = id.replace("_", " ")
 	scrapper['id'] = id 
+	scrapper['title'] = title
         scrapper['url_resource'] = url_resource
         scrapper['authors'] = authors
         scrapper['description'] = description
@@ -121,6 +124,7 @@ class WriteData:
         idRecurso = "<" + dataset + scrapper['id']+ ">"
         # we will have to describe in the future the URI
         # the distribution might be the dataset as well
+	# we need to add title
 
         tripletas = idCatalog + " <http://www.w3.org/ns/dcat#dataset> " + " " + idRecurso + " .\n"
         tripletas += idRecurso + " a <http://www.w3.org/ns/dcat#Dataset>; \n"
@@ -129,6 +133,8 @@ class WriteData:
         tripletas += "   <http://purl.org/dc/terms/description> \"" + scrapper['description'] + "\";\n"
         tripletas += "   <http://www.w3.org/ns/dcat#landingPage> <" + scrapper['url_resource'] + ">;\n"
         tripletas += "   <http://purl.org/dc/terms/bibliographicCitation> \"" + scrapper['biblio']+ "\";\n"
+        tripletas += "   <http://purl.org/dc/terms/bibliographicCitation> \"" + scrapper['biblio']+ "\";\n"
+        tripletas += "   <http://purl.org/dc/terms/title> \"" + scrapper['title'] + "\";\n"
         tripletas += "   <http://purl.org/dc/terms/rigths> \"" + scrapper['terms_of_use'] + "\".\n"
  
         #tripletas_authors = URI per author - PERSONA, INSTITUTION
