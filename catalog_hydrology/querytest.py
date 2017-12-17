@@ -56,19 +56,30 @@ g.parse("rdf_output.ttl", format="n3")
 #	""" SELECT DISTINCT ?no
 #		WHERE{
 #		 ?o a <http://xmlns.com/foaf/0.1/Organization>.
-#		 ?o <http://xmlns.com/foaf/0.1/name> ?no
+#		 ?o <http://xmlns.com/foaf/0.1/name> ?no.
 #		}
 #	""") 
 #Give me all authors that published resources
 qres = g.query(
 	""" SELECT DISTINCT ?na
-		WHERE{
+	WHERE{
 		 ?a a <http://xmlns.com/foaf/0.1/Person>.
-		 ?a <http://xmlns.com/foaf/0.1/name> ?na
+		 ?a <http://xmlns.com/foaf/0.1/name> ?na.
 		}
 	""") 
 
 #Give me the organization that published most resources
+#qres = g.query(
+#	""" SELECT ?no (COUNT(?o) AS ?numo)
+#		WHERE {
+#                     ?o a <http://xmlns.com/foaf/0.1/Organization>.
+#   		     ?o <http://xmlns.com/foaf/0.1/name> ?no. 
+#		}
+#		GROUP BY ?o
+#		ORDER BY DESC (?numo)
+#		LIMIT 1
+#	""")	
+
 
 #Give me the author that published most resources	
 
