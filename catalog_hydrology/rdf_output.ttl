@@ -9,27 +9,27 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Dr%20Nabil%20Chabour> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Nabil Chabour".
-<https://w3id.org/mint/Organization/Universit%C3%A9%20Constantine%20Algeria%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Universit%C3%A9%20Constantine%20Algeria%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Nabil%20Chabour>;
     <http://xmlns.com/foaf/0.1/name> "Université Constantine, Algeria".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Naima%20Mebrouk> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Naima Mebrouk".
-<https://w3id.org/mint/Organization/Universit%C3%A9%20d%27Oran%20Algeria%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Universit%C3%A9%20d%27Oran%20Algeria%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Naima%20Mebrouk>;
     <http://xmlns.com/foaf/0.1/name> "Université d'Oran, Algeria".
 <https://w3id.org/mint/Person/Professor%20Moulay%20Idriss%20Hassani> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Professor Moulay Idriss Hassani".
-<https://w3id.org/mint/Organization/Universit%C3%A9%20de%20Oran%20Algeria%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Universit%C3%A9%20de%20Oran%20Algeria%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Professor%20Moulay%20Idriss%20Hassani>;
     <http://xmlns.com/foaf/0.1/name> "Université de Oran, Algeria".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -46,12 +46,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -68,22 +68,22 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Henri%20Totin> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Henri Totin".
-<https://w3id.org/mint/Organization/Universit%C3%A9%20de%20Parakou%20Benin%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Universit%C3%A9%20de%20Parakou%20Benin%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Henri%20Totin>;
     <http://xmlns.com/foaf/0.1/name> "Université de Parakou, Benin".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Moussa%20Boukari> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Moussa Boukari".
-<https://w3id.org/mint/Organization/Facult%C3%A9%20des%20Sciences%20et%20Techniques%20Universit%C3%A9%20d%E2%80%99Abomey-Calavi%20Benin%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Facult%C3%A9%20des%20Sciences%20et%20Techniques%20Universit%C3%A9%20d%E2%80%99Abomey-Calavi%20Benin%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Moussa%20Boukari>;
     <http://xmlns.com/foaf/0.1/name> "Faculté des Sciences et Techniques, Université d’Abomey-Calavi, Benin".
 
@@ -100,22 +100,22 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/John%20Farr> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "John Farr".
-<https://w3id.org/mint/Organization/Botswana%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Botswana%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/John%20Farr>;
     <http://xmlns.com/foaf/0.1/name> "Botswana".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Roger%20Key> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Roger Key".
-<https://w3id.org/mint/Organization/UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Roger%20Key>;
     <http://xmlns.com/foaf/0.1/name> "UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -132,17 +132,17 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Youssouf%20Koussoub%C3%A9> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Youssouf Koussoubé".
-<https://w3id.org/mint/Organization/Universit%C3%A9%20de%20Ouagadougou%20Burkina%20Faso%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Universit%C3%A9%20de%20Ouagadougou%20Burkina%20Faso%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Youssouf%20Koussoub%C3%A9>;
     <http://xmlns.com/foaf/0.1/name> "Université de Ouagadougou, Burkina Faso".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -159,12 +159,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -181,12 +181,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -203,12 +203,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -225,12 +225,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -247,12 +247,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -269,12 +269,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -291,12 +291,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -313,12 +313,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -335,12 +335,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -357,12 +357,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -379,12 +379,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -401,22 +401,22 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Addis%20Hailu> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Addis Hailu".
-<https://w3id.org/mint/Organization/University%20of%20Gondor%20Ethiopia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/University%20of%20Gondor%20Ethiopia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Addis%20Hailu>;
     <http://xmlns.com/foaf/0.1/name> "University of Gondor, Ethiopia".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/%20%26%20>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/%20%26%20> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> " &".
 <https://w3id.org/mint/Person/Dr%20Seifu%20Kebede> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Seifu Kebede".
-<https://w3id.org/mint/Organization/Addis%20Ababa%20University%20Ethiopia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Addis%20Ababa%20University%20Ethiopia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Seifu%20Kebede>;
     <http://xmlns.com/foaf/0.1/name> "Addis Ababa University, Ethiopia".
 <https://w3id.org/mint/Person/Emily%20Crane> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Emily Crane".
-<https://w3id.org/mint/Organization/%20%26%20>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/%20%26%20> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Emily%20Crane>;
     <http://xmlns.com/foaf/0.1/name> " &".
 
@@ -433,12 +433,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -455,22 +455,22 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Giran%20Corr> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Giran Corr".
-<https://w3id.org/mint/Organization/RC%20Engineering%20/%20NIRAS%20The%20Gambia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/RC%20Engineering%20/%20NIRAS%20The%20Gambia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Giran%20Corr>;
     <http://xmlns.com/foaf/0.1/name> "RC Engineering / NIRAS, The Gambia".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Landing%20Bojang> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Landing Bojang".
-<https://w3id.org/mint/Organization/Department%20of%20Water%20Resources%20The%20Gambia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Department%20of%20Water%20Resources%20The%20Gambia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Landing%20Bojang>;
     <http://xmlns.com/foaf/0.1/name> "Department of Water Resources, The Gambia".
 
@@ -487,27 +487,27 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Dr%20Emmanuel%20Obuobie> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Emmanuel Obuobie".
-<https://w3id.org/mint/Organization/Water%20Research%20Institute%20Ghana%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Water%20Research%20Institute%20Ghana%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Emmanuel%20Obuobie>;
     <http://xmlns.com/foaf/0.1/name> "Water Research Institute, Ghana".
 <https://w3id.org/mint/Person/Dr%20William%20Agyekum> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr William Agyekum".
-<https://w3id.org/mint/Organization/Water%20Research%20Institute%20Ghana%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Water%20Research%20Institute%20Ghana%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20William%20Agyekum>;
     <http://xmlns.com/foaf/0.1/name> "Water Research Institute, Ghana".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Emmanuel%20Kwame%20Appiah-Adjei> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Emmanuel Kwame Appiah-Adjei".
-<https://w3id.org/mint/Organization/Kwame%20Nkrumah%20University%20of%20Science%20and%20Technology%20Ghana%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Kwame%20Nkrumah%20University%20of%20Science%20and%20Technology%20Ghana%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Emmanuel%20Kwame%20Appiah-Adjei>;
     <http://xmlns.com/foaf/0.1/name> "Kwame Nkrumah University of Science and Technology, Ghana".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -524,12 +524,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -546,12 +546,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -568,22 +568,22 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Maxwell%20Barasa> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Maxwell Barasa".
-<https://w3id.org/mint/Organization/Rural%20Focus%20Ltd%20Kenya%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Rural%20Focus%20Ltd%20Kenya%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Maxwell%20Barasa>;
     <http://xmlns.com/foaf/0.1/name> "Rural Focus Ltd, Kenya".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Emily%20Crane> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Emily Crane".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Emily%20Crane>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -600,27 +600,27 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Mr%20Khahliso%20Leketa> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Mr Khahliso Leketa".
-<https://w3id.org/mint/Organization/Department%20of%20Water%20Affairs%20Lesotho%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Department%20of%20Water%20Affairs%20Lesotho%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Mr%20Khahliso%20Leketa>;
     <http://xmlns.com/foaf/0.1/name> "Department of Water Affairs, Lesotho".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Emily%20Crane> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Emily Crane".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Emily%20Crane>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Mrs%20Matsolo%20Migwi> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Mrs Matsolo Migwi".
-<https://w3id.org/mint/Organization/Department%20of%20Water%20Affairs%20Lesotho%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Department%20of%20Water%20Affairs%20Lesotho%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Mrs%20Matsolo%20Migwi>;
     <http://xmlns.com/foaf/0.1/name> "Department of Water Affairs, Lesotho".
 
@@ -637,12 +637,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -659,12 +659,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -681,17 +681,17 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/Bushproof%20Madagascar%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Bushproof%20Madagascar%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "Bushproof, Madagascar".
 <https://w3id.org/mint/Person/Mathieu%20Monteleone> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Mathieu Monteleone".
-<https://w3id.org/mint/Organization/Bushproof%20Madagascar%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Bushproof%20Madagascar%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Mathieu%20Monteleone>;
     <http://xmlns.com/foaf/0.1/name> "Bushproof, Madagascar".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/Bushproof%20Madagascar%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Bushproof%20Madagascar%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "Bushproof, Madagascar".
 
@@ -708,17 +708,17 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Brighton%20Chunga> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighton Chunga".
-<https://w3id.org/mint/Organization/Mzuzu%20University%20Malawi%20%26%20Cranfield%20University%20UK.%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Mzuzu%20University%20Malawi%20%26%20Cranfield%20University%20UK.%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighton%20Chunga>;
     <http://xmlns.com/foaf/0.1/name> "Mzuzu University, Malawi & Cranfield University, UK.".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -735,27 +735,27 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Hamadoun%20Bokar> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Hamadoun Bokar".
-<https://w3id.org/mint/Organization/Ecole%20Nationale%20d%27Ing%C3%A9nieurs%20Abderhamane%20Baba%20Tour%C3%A9%20Mali%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Ecole%20Nationale%20d%27Ing%C3%A9nieurs%20Abderhamane%20Baba%20Tour%C3%A9%20Mali%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Hamadoun%20Bokar>;
     <http://xmlns.com/foaf/0.1/name> "Ecole Nationale d'Ingénieurs Abderhamane Baba Touré, Mali".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Amadou%20Zanga%20Traore> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Amadou Zanga Traore".
-<https://w3id.org/mint/Organization/Ecole%20Nationale%20d%27Ing%C3%A9nieurs%20Abderhamane%20Baba%20Tour%C3%A9%20Mali%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Ecole%20Nationale%20d%27Ing%C3%A9nieurs%20Abderhamane%20Baba%20Tour%C3%A9%20Mali%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Amadou%20Zanga%20Traore>;
     <http://xmlns.com/foaf/0.1/name> "Ecole Nationale d'Ingénieurs Abderhamane Baba Touré, Mali".
 <https://w3id.org/mint/Person/Aboubacar%20Sidibe> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Aboubacar Sidibe".
-<https://w3id.org/mint/Organization/Mali%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Mali%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Aboubacar%20Sidibe>;
     <http://xmlns.com/foaf/0.1/name> "Mali".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -772,12 +772,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -794,12 +794,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -816,27 +816,27 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Ivo%20van%20Haren> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Ivo van Haren".
-<https://w3id.org/mint/Organization/WE%20Consult%20Mozambique%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/WE%20Consult%20Mozambique%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Ivo%20van%20Haren>;
     <http://xmlns.com/foaf/0.1/name> "WE Consult, Mozambique".
 <https://w3id.org/mint/Person/Arjen%20Naafs> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Arjen Naafs".
-<https://w3id.org/mint/Organization/WaterAid%20UK%20%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/WaterAid%20UK%20%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Arjen%20Naafs>;
     <http://xmlns.com/foaf/0.1/name> "WaterAid, UK".
 <https://w3id.org/mint/Person/Lucas%20Chairuca> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Lucas Chairuca".
-<https://w3id.org/mint/Organization/National%20Directorate%20of%20Water%20Mozambique%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/National%20Directorate%20of%20Water%20Mozambique%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Lucas%20Chairuca>;
     <http://xmlns.com/foaf/0.1/name> "National Directorate of Water, Mozambique".
 
@@ -853,47 +853,47 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Arnold%20Bittner> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Arnold Bittner".
-<https://w3id.org/mint/Organization/SLR%20Environmental%20Consultants%20Namibia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/SLR%20Environmental%20Consultants%20Namibia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Arnold%20Bittner>;
     <http://xmlns.com/foaf/0.1/name> "SLR Environmental Consultants, Namibia".
 <https://w3id.org/mint/Person/Christoph%20Lohe> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Christoph Lohe".
-<https://w3id.org/mint/Organization/BGR%20Germany%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/BGR%20Germany%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Christoph%20Lohe>;
     <http://xmlns.com/foaf/0.1/name> "BGR, Germany".
 <https://w3id.org/mint/Person/Katharina%20Dierkes> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Katharina Dierkes".
-<https://w3id.org/mint/Organization/The%20Maproom%20Namibia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/The%20Maproom%20Namibia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Katharina%20Dierkes>;
     <http://xmlns.com/foaf/0.1/name> "The Maproom, Namibia".
 <https://w3id.org/mint/Person/Professor%20Jurgen%20Kirchner> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Professor Jurgen Kirchner".
-<https://w3id.org/mint/Organization/Groundwater%20Investigations%20Namibia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Groundwater%20Investigations%20Namibia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Professor%20Jurgen%20Kirchner>;
     <http://xmlns.com/foaf/0.1/name> "Groundwater Investigations, Namibia".
 <https://w3id.org/mint/Person/Greg%20Christelis> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Greg Christelis".
-<https://w3id.org/mint/Organization/CHR%20Water%20Consultants%20Namibia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/CHR%20Water%20Consultants%20Namibia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Greg%20Christelis>;
     <http://xmlns.com/foaf/0.1/name> "CHR Water Consultants, Namibia".
 <https://w3id.org/mint/Person/Martin%20Quinger> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Martin Quinger".
-<https://w3id.org/mint/Organization/BGR%20Germany%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/BGR%20Germany%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Martin%20Quinger>;
     <http://xmlns.com/foaf/0.1/name> "BGR, Germany".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Brian%20Matengu> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brian Matengu".
-<https://w3id.org/mint/Organization/NamWater%20Namibia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/NamWater%20Namibia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brian%20Matengu>;
     <http://xmlns.com/foaf/0.1/name> "NamWater, Namibia".
 
@@ -910,17 +910,17 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Imogen%20Bellwood-Howard> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Imogen Bellwood-Howard".
-<https://w3id.org/mint/Organization/Institute%20for%20Development%20Studies.%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Institute%20for%20Development%20Studies.%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Imogen%20Bellwood-Howard>;
     <http://xmlns.com/foaf/0.1/name> "Institute for Development Studies.".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -937,22 +937,22 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Professor%20Moshood%20N.%20Tijani> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Professor Moshood N. Tijani".
-<https://w3id.org/mint/Organization/Department%20of%20Geology%20University%20of%20Ibadan%20Nigeria%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Department%20of%20Geology%20University%20of%20Ibadan%20Nigeria%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Professor%20Moshood%20N.%20Tijani>;
     <http://xmlns.com/foaf/0.1/name> "Department of Geology, University of Ibadan, Nigeria".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Emily%20Crane> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Emily Crane".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Emily%20Crane>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -969,12 +969,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -991,12 +991,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -1013,37 +1013,37 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Emily%20%20Crane> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Emily  Crane".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Emily%20%20Crane>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Diakher%20H%C3%A9l%C3%A8ne%20Madioune> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Diakher Hélène Madioune".
-<https://w3id.org/mint/Organization/Cheikh%20Anta%20Diop%20University%20Senegal%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Cheikh%20Anta%20Diop%20University%20Senegal%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Diakher%20H%C3%A9l%C3%A8ne%20Madioune>;
     <http://xmlns.com/foaf/0.1/name> "Cheikh Anta Diop University, Senegal".
 <https://w3id.org/mint/Person/Ibrahima%20Mall> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Ibrahima Mall".
-<https://w3id.org/mint/Organization/Cheikh%20Anta%20Diop%20University%20Senegal%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Cheikh%20Anta%20Diop%20University%20Senegal%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Ibrahima%20Mall>;
     <http://xmlns.com/foaf/0.1/name> "Cheikh Anta Diop University, Senegal".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Professor%20Serigne%20Faye> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Professor Serigne Faye".
-<https://w3id.org/mint/Organization/Cheikh%20Anta%20Diop%20University%20Senegal%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Cheikh%20Anta%20Diop%20University%20Senegal%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Professor%20Serigne%20Faye>;
     <http://xmlns.com/foaf/0.1/name> "Cheikh Anta Diop University, Senegal".
 <https://w3id.org/mint/Person/Moctar%20Diaw> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Moctar Diaw".
-<https://w3id.org/mint/Organization/Cheikh%20Anta%20Diop%20University%20Senegal%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Cheikh%20Anta%20Diop%20University%20Senegal%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Moctar%20Diaw>;
     <http://xmlns.com/foaf/0.1/name> "Cheikh Anta Diop University, Senegal".
 
@@ -1060,17 +1060,17 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Mustapha%20Thomas> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Mustapha Thomas".
-<https://w3id.org/mint/Organization/Hydrenv%20Consulting%20Sierra%20Leone%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Hydrenv%20Consulting%20Sierra%20Leone%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Mustapha%20Thomas>;
     <http://xmlns.com/foaf/0.1/name> "Hydrenv Consulting, Sierra Leone".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -1099,27 +1099,27 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Kevin%20Pietersen> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kevin Pietersen".
-<https://w3id.org/mint/Organization/SLR%20Consulting%20%28Pty%29%20Ltd%20South%20Africa%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/SLR%20Consulting%20%28Pty%29%20Ltd%20South%20Africa%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kevin%20Pietersen>;
     <http://xmlns.com/foaf/0.1/name> "SLR Consulting (Pty) Ltd, South Africa".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Tamiru%20Abiye> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Tamiru Abiye".
-<https://w3id.org/mint/Organization/Wits%20University%20South%20Africa%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Wits%20University%20South%20Africa%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Tamiru%20Abiye>;
     <http://xmlns.com/foaf/0.1/name> "Wits University, South Africa".
 <https://w3id.org/mint/Person/Ernst%20Bertram> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Ernst Bertram".
-<https://w3id.org/mint/Organization/Department%20of%20Water%20and%20Sanitation%20South%20Africa%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Department%20of%20Water%20and%20Sanitation%20South%20Africa%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Ernst%20Bertram>;
     <http://xmlns.com/foaf/0.1/name> "Department of Water and Sanitation, South Africa".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -1136,12 +1136,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -1158,17 +1158,17 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Abdel%20Hafiz%20Gadelmula> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Abdel Hafiz Gadelmula".
-<https://w3id.org/mint/Organization/University%20of%20Khartoum%20Sudan%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/University%20of%20Khartoum%20Sudan%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Abdel%20Hafiz%20Gadelmula>;
     <http://xmlns.com/foaf/0.1/name> "University of Khartoum, Sudan".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -1185,12 +1185,12 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -1207,17 +1207,17 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Hosea%20Sanga> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Hosea Sanga".
-<https://w3id.org/mint/Organization/Department%20of%20Water%20Resources%20Ministry%20of%20Water%20and%20Irrigation%20Tanzania%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Department%20of%20Water%20Resources%20Ministry%20of%20Water%20and%20Irrigation%20Tanzania%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Hosea%20Sanga>;
     <http://xmlns.com/foaf/0.1/name> "Department of Water Resources, Ministry of Water and Irrigation, Tanzania".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
@@ -1234,37 +1234,37 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Kpadja%20Agouda> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kpadja Agouda".
-<https://w3id.org/mint/Organization/Department%20of%20Water%20Resources%20Togo%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Department%20of%20Water%20Resources%20Togo%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kpadja%20Agouda>;
     <http://xmlns.com/foaf/0.1/name> "Department of Water Resources, Togo".
 <https://w3id.org/mint/Person/Masama%C3%A9ya%20Dadja-Toyou%20Gnazou> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Masamaéya Dadja-Toyou Gnazou".
-<https://w3id.org/mint/Organization/Lome%20University%20Togo%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Lome%20University%20Togo%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Masama%C3%A9ya%20Dadja-Toyou%20Gnazou>;
     <http://xmlns.com/foaf/0.1/name> "Lome University, Togo".
 <https://w3id.org/mint/Person/Sani%20M.%20Tairou> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Sani M. Tairou".
-<https://w3id.org/mint/Organization/Lome%20University%20Togo%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Lome%20University%20Togo%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Sani%20M.%20Tairou>;
     <http://xmlns.com/foaf/0.1/name> "Lome University, Togo".
 <https://w3id.org/mint/Person/Edem%20Bawoubadi%20Sabi> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Edem Bawoubadi Sabi".
-<https://w3id.org/mint/Organization/Lome%20University%20Togo%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Lome%20University%20Togo%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Edem%20Bawoubadi%20Sabi>;
     <http://xmlns.com/foaf/0.1/name> "Lome University, Togo".
 <https://w3id.org/mint/Person/Wohou%20Akakpo> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Wohou Akakpo".
-<https://w3id.org/mint/Organization/Department%20of%20Water%20Resources%20Togo%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Department%20of%20Water%20Resources%20Togo%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Wohou%20Akakpo>;
     <http://xmlns.com/foaf/0.1/name> "Department of Water Resources, Togo".
 
@@ -1281,22 +1281,22 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Amira%20Mekni> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Amira Mekni".
-<https://w3id.org/mint/Organization/INAT%20Tunisia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/INAT%20Tunisia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Amira%20Mekni>;
     <http://xmlns.com/foaf/0.1/name> "INAT, Tunisia".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/%20%26%20>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/%20%26%20> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> " &".
 <https://w3id.org/mint/Person/Safouan%20Ben%20Ammar> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Safouan Ben Ammar".
-<https://w3id.org/mint/Organization/ISTEUB%20Tunisia%20%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/ISTEUB%20Tunisia%20%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Safouan%20Ben%20Ammar>;
     <http://xmlns.com/foaf/0.1/name> "ISTEUB, Tunisia".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/%20%26%20>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/%20%26%20> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> " &".
 
@@ -1313,27 +1313,27 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Michael%20Owor> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Michael Owor".
-<https://w3id.org/mint/Organization/Makerere%20University%20Uganda%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Makerere%20University%20Uganda%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Michael%20Owor>;
     <http://xmlns.com/foaf/0.1/name> "Makerere University, Uganda".
 <https://w3id.org/mint/Person/Lawrence%20Brown> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Lawrence Brown".
-<https://w3id.org/mint/Organization/Hafren%20Water%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Hafren%20Water%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Lawrence%20Brown>;
     <http://xmlns.com/foaf/0.1/name> "Hafren Water, UK".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Callist%20Tindimugaya> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Callist Tindimugaya".
-<https://w3id.org/mint/Organization/Ministry%20of%20Water%20and%20Environment%20Uganda%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Ministry%20of%20Water%20and%20Environment%20Uganda%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Callist%20Tindimugaya>;
     <http://xmlns.com/foaf/0.1/name> "Ministry of Water and Environment, Uganda".
 
@@ -1350,32 +1350,32 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Mr%20Kolala%20C%20Chomba> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Mr Kolala C Chomba".
-<https://w3id.org/mint/Organization/Department%20of%20Geological%20Survey%20Ministry%20of%20Mines%20Energy%20and%20Water%20Development%20Zambia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Department%20of%20Geological%20Survey%20Ministry%20of%20Mines%20Energy%20and%20Water%20Development%20Zambia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Mr%20Kolala%20C%20Chomba>;
     <http://xmlns.com/foaf/0.1/name> "Department of Geological Survey, Ministry of Mines, Energy and Water Development, Zambia".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Mr%20Simon%20Kang%E2%80%99omba> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Mr Simon Kang’omba".
-<https://w3id.org/mint/Organization/Department%20of%20Water%20Affairs%20Ministry%20of%20Mines%20Energy%20and%20Water%20Development%20Zambia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Department%20of%20Water%20Affairs%20Ministry%20of%20Mines%20Energy%20and%20Water%20Development%20Zambia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Mr%20Simon%20Kang%E2%80%99omba>;
     <http://xmlns.com/foaf/0.1/name> "Department of Water Affairs, Ministry of Mines, Energy and Water Development, Zambia".
 <https://w3id.org/mint/Person/Emily%20Crane> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Emily Crane".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Emily%20Crane>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Professor%20Daniel%20CW%20Nkhuwa> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Professor Daniel CW Nkhuwa".
-<https://w3id.org/mint/Organization/School%20of%20Mines%20University%20of%20Zambia%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/School%20of%20Mines%20University%20of%20Zambia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Professor%20Daniel%20CW%20Nkhuwa>;
     <http://xmlns.com/foaf/0.1/name> "School of Mines, University of Zambia".
 
@@ -1392,27 +1392,27 @@
    <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Richard%20Owen> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Richard Owen".
-<https://w3id.org/mint/Organization/Geology%20Department%20University%20of%20Zimbabwe%20P.O%20Box%20MP167%20Mt%20Pleasant%20Harare%20Zimbabwe%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Geology%20Department%20University%20of%20Zimbabwe%20P.O%20Box%20MP167%20Mt%20Pleasant%20Harare%20Zimbabwe%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Dr%20Richard%20Owen>;
     <http://xmlns.com/foaf/0.1/name> "Geology Department, University of Zimbabwe, P.O Box MP167, Mt Pleasant, Harare, Zimbabwe".
 <https://w3id.org/mint/Person/Emily%20Crane> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Emily Crane".
-<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Emily%20Crane>;
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Daina%20Mudimbu> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Daina Mudimbu".
-<https://w3id.org/mint/Organization/Geology%20Department%20University%20of%20Zimbabwe%20P.O%20Box%20MP167%20Mt%20Pleasant%20Harare%20Zimbabwe%0A>a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/Geology%20Department%20University%20of%20Zimbabwe%20P.O%20Box%20MP167%20Mt%20Pleasant%20Harare%20Zimbabwe%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Daina%20Mudimbu>;
     <http://xmlns.com/foaf/0.1/name> "Geology Department, University of Zimbabwe, P.O Box MP167, Mt Pleasant, Harare, Zimbabwe".
 
