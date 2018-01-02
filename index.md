@@ -92,7 +92,14 @@ layout: default
 				<p>Postdoctoral Researcher in the Information Sciences Institute of the University of Southern California</p>
 			</div>
 		</member>    
-		<member>
+        <member>
+			<img src="assets/images/team/karpatne.jpg"/>
+			<div class="content">
+				<h3>Anuj Karpatne</h3>
+				<p>Postdoctoral Associate in the Department of Computer Science and Engineering University of Minnesota – Twin Cities</p>
+			</div>
+		</member> 
+        <member>
 			<img src="assets/images/team/khider.jpg"/>
 			<div class="content">
 				<h3>Deborah Khider</h3>
@@ -106,7 +113,14 @@ layout: default
 				<p>Director of Karya and R&D Consultant for the Information Sciences Institute at University of Southern California</p>
 			</div>
 		</member>
-		<member>
+        <member>
+			<img src="assets/images/team/steinbach.jpg"/>
+			<div class="content">
+				<h3>Michael Steinbach</h3>
+				<p>Research Associate in the Department of Computer Science and Engineering University of Minnesota – Twin Cities</p>
+			</div>
+		</member>
+        <member>
 			<img src="assets/images/team/vu.png"/>
 			<div class="content">
 				<h3>Binh Vu</h3>
