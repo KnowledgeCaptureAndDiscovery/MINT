@@ -1,17 +1,17 @@
 # Site settings
 title: MINT
 subtitle: Model INTegration
-email: rafsilva@isi.edu
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+email:
+description: Model Integration through Knowledge-Rich Data and Process Composition
 baseurl: ""
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
 
 # Social settings
 #500px_url:
