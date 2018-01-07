@@ -1,3 +1,5 @@
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Algeria ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Algeria> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Algeria> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -6,7 +8,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Algeria>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Chabour, Mebrouk, Hassani, Upton and Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Algeria";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Dr%20Nabil%20Chabour>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Naima%20Mebrouk>, <https://w3id.org/mint/Person/Professor%20Moulay%20Idriss%20Hassani>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Dr%20Nabil%20Chabour> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Nabil Chabour".
 <https://w3id.org/mint/Organization/Universit%C3%A9%20Constantine%20Algeria%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -35,6 +38,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Angola ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Angola> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Angola> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -43,7 +48,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Angola>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton and Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Angola";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -57,6 +63,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Benin ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Benin> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Benin> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -65,7 +73,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Benin>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Boukari, Totin, Upton, and Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Benin";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Henri%20Totin>, <https://w3id.org/mint/Person/Kirsty%20Upton>, <https://w3id.org/mint/Person/Moussa%20Boukari>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -89,6 +98,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Botswana ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Botswana> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Botswana> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -97,7 +108,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Botswana>;
    <http://purl.org/dc/terms/bibliographicCitation> "Bibliographic reference: Upton, K, Ó Dochartaigh, B É, Key, R and Farr J. 2016. Africa Groundwater Atlas: Hydrogeology of Botswana. British Geological Survey.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Botswana";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/John%20Farr>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Roger%20Key>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/John%20Farr> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "John Farr".
 <https://w3id.org/mint/Organization/Botswana%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -121,6 +133,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Burkina_Faso ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Burkina_Faso> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Burkina_Faso> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -129,7 +143,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Burkina_Faso>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Koussobé, Upton and Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Burkina Faso";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Youssouf%20Koussoub%C3%A9>, <https://w3id.org/mint/Person/Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -148,6 +163,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Burundi ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Burundi> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Burundi> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -156,7 +173,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Burundi>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton and Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Burundi";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -169,6 +187,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Cameroon ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Cameroon> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Cameroon> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -178,7 +198,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Cameroon>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Cameroon";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -191,6 +212,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Central_African_Republic ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Central_African_Republic> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Central_African_Republic> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -200,7 +223,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Central_African_Republic>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Central African Republic";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -213,6 +237,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Chad ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Chad> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Chad> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -222,7 +248,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Chad>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Chad";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -235,6 +262,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Comoros ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Comoros> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Comoros> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -244,7 +273,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Comoros>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Comoros";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -257,6 +287,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Cote_d%27Ivoire ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Cote_d%27Ivoire> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Cote_d%27Ivoire> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -266,7 +298,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Cote_d%27Ivoire>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Cote d%27Ivoire";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -279,6 +312,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Democratic_Republic_of_the_Congo ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Democratic_Republic_of_the_Congo> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Democratic_Republic_of_the_Congo> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -288,7 +323,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Democratic_Republic_of_the_Congo>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Democratic Republic of the Congo";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -301,6 +337,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Djibouti ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Djibouti> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Djibouti> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -310,7 +348,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Djibouti>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Djibouti";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -323,6 +362,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Egypt ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Egypt> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Egypt> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -332,7 +373,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Egypt>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Egypt";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -345,6 +387,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Equatorial_Guinea ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Equatorial_Guinea> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Equatorial_Guinea> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -354,7 +398,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Equatorial_Guinea>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Equatorial Guinea";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -367,6 +412,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Eritrea ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Eritrea> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Eritrea> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -376,7 +423,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Eritrea>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Eritrea";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -389,6 +437,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Ethiopia ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Ethiopia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Ethiopia> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -398,7 +448,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Ethiopia>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Kebede, Hailu, Crane & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Ethiopia";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Addis%20Hailu>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Seifu%20Kebede>, <https://w3id.org/mint/Person/Emily%20Crane>.
 <https://w3id.org/mint/Person/Addis%20Hailu> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Addis Hailu".
 <https://w3id.org/mint/Organization/University%20of%20Gondor%20Ethiopia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -406,9 +457,9 @@
     <http://xmlns.com/foaf/0.1/name> "University of Gondor, Ethiopia".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/%20%26%20> a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
-    <http://xmlns.com/foaf/0.1/name> " &".
+    <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Dr%20Seifu%20Kebede> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Seifu Kebede".
 <https://w3id.org/mint/Organization/Addis%20Ababa%20University%20Ethiopia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -416,11 +467,13 @@
     <http://xmlns.com/foaf/0.1/name> "Addis Ababa University, Ethiopia".
 <https://w3id.org/mint/Person/Emily%20Crane> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Emily Crane".
-<https://w3id.org/mint/Organization/%20%26%20> a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Emily%20Crane>;
-    <http://xmlns.com/foaf/0.1/name> " &".
+    <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Gabon ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Gabon> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Gabon> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -430,7 +483,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Gabon>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Gabon";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -444,6 +498,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Gambia ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Gambia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Gambia> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -452,7 +508,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Gambia>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Bojang, Corr, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Gambia";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Giran%20Corr>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Kirsty%20Upton>, <https://w3id.org/mint/Person/Landing%20Bojang>.
 <https://w3id.org/mint/Person/Giran%20Corr> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Giran Corr".
 <https://w3id.org/mint/Organization/RC%20Engineering%20/%20NIRAS%20The%20Gambia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -476,6 +533,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Ghana ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Ghana> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Ghana> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -484,7 +543,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Ghana>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Obuobie, Agyekum, Appiah-Adjei, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Ghana";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Dr%20Emmanuel%20Obuobie>, <https://w3id.org/mint/Person/Dr%20William%20Agyekum>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Emmanuel%20Kwame%20Appiah-Adjei>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Dr%20Emmanuel%20Obuobie> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Dr Emmanuel Obuobie".
 <https://w3id.org/mint/Organization/Water%20Research%20Institute%20Ghana%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -513,6 +573,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Guinea ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Guinea> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Guinea> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -521,7 +583,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Guinea>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Guinea";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -534,6 +597,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Guinea_Bissau ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Guinea_Bissau> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Guinea_Bissau> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -543,7 +608,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Guinea_Bissau>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Guinea Bissau";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -557,6 +623,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Kenya ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Kenya> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Kenya> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -565,7 +633,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Kenya>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Barasa, Crane, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Kenya";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Maxwell%20Barasa>, <https://w3id.org/mint/Person/Kirsty%20Upton>, <https://w3id.org/mint/Person/Emily%20Crane>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -589,6 +658,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Lesotho ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Lesotho> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Lesotho> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -597,7 +668,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Lesotho>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Leketa, Migwi, Crane, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Lesotho";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Mr%20Khahliso%20Leketa>, <https://w3id.org/mint/Person/Kirsty%20Upton>, <https://w3id.org/mint/Person/Emily%20Crane>, <https://w3id.org/mint/Person/Mrs%20Matsolo%20Migwi>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -626,6 +698,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Liberia ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Liberia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Liberia> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -634,7 +708,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Liberia>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Liberia";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -647,6 +722,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Libya ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Libya> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Libya> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -656,7 +733,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Libya>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Libya";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -670,6 +748,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Madagascar ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Madagascar> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Madagascar> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -678,7 +758,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Madagascar>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton, Ó Dochartaigh and Monteleone, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Madagascar";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Mathieu%20Monteleone>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/Bushproof%20Madagascar%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -697,6 +778,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Malawi ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Malawi> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Malawi> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -705,7 +788,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Malawi>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton, Ó Dochartaigh & Chunga, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Malawi";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Brighton%20Chunga>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -724,6 +808,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mali ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Mali> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Mali> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -732,7 +818,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mali>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Traore, Bokar, Sidibe, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Mali";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Hamadoun%20Bokar>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Amadou%20Zanga%20Traore>, <https://w3id.org/mint/Person/Aboubacar%20Sidibe>, <https://w3id.org/mint/Person/Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Hamadoun%20Bokar> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Hamadoun Bokar".
 <https://w3id.org/mint/Organization/Ecole%20Nationale%20d%27Ing%C3%A9nieurs%20Abderhamane%20Baba%20Tour%C3%A9%20Mali%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -761,6 +848,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mauritania ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Mauritania> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Mauritania> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -769,7 +858,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mauritania>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Mauritania";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -783,6 +873,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara) ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara)> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara)> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -791,7 +883,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara)>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Morocco %26 Western Sahara (Moroccan Sahara)";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -805,6 +898,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mozambique ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Mozambique> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Mozambique> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -813,7 +908,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mozambique>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Chairuca, Naafs, van Haren, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Mozambique";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Kirsty%20Upton>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Ivo%20van%20Haren>, <https://w3id.org/mint/Person/Arjen%20Naafs>, <https://w3id.org/mint/Person/Lucas%20Chairuca>.
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -842,6 +938,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Namibia ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Namibia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Namibia> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -850,7 +948,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Namibia>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Christelis, Dierkes, Quinger, Matengu, Kirchner, Lohe, Bittner, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Namibia";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Arnold%20Bittner>, <https://w3id.org/mint/Person/Christoph%20Lohe>, <https://w3id.org/mint/Person/Katharina%20Dierkes>, <https://w3id.org/mint/Person/Professor%20Jurgen%20Kirchner>, <https://w3id.org/mint/Person/Greg%20Christelis>, <https://w3id.org/mint/Person/Martin%20Quinger>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Kirsty%20Upton>, <https://w3id.org/mint/Person/Brian%20Matengu>.
 <https://w3id.org/mint/Person/Arnold%20Bittner> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Arnold Bittner".
 <https://w3id.org/mint/Organization/SLR%20Environmental%20Consultants%20Namibia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -899,6 +998,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Niger ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Niger> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Niger> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -907,7 +1008,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Niger>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton, Ó Dochartaigh and Bellwood-Howard, 2017.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Niger";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Imogen%20Bellwood-Howard>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -926,6 +1028,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Nigeria ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Nigeria> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Nigeria> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -934,7 +1038,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Nigeria>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Tijani, Crane, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Nigeria";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Professor%20Moshood%20N.%20Tijani>, <https://w3id.org/mint/Person/Kirsty%20Upton>, <https://w3id.org/mint/Person/Emily%20Crane>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -958,6 +1063,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Republic_of_Congo ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Republic_of_Congo> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Republic_of_Congo> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -966,7 +1073,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Republic_of_Congo>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Republic of Congo";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -979,6 +1087,8 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Rwanda ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Rwanda> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Rwanda> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -988,7 +1098,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Rwanda>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Rwanda";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1002,6 +1113,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Senegal ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Senegal> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Senegal> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1010,7 +1123,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Senegal>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Madioune, Mall, Diaw, Faye, Crane, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Senegal";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Emily%20%20Crane>, <https://w3id.org/mint/Person/Dr%20Diakher%20H%C3%A9l%C3%A8ne%20Madioune>, <https://w3id.org/mint/Person/Ibrahima%20Mall>, <https://w3id.org/mint/Person/Kirsty%20Upton>, <https://w3id.org/mint/Person/Professor%20Serigne%20Faye>, <https://w3id.org/mint/Person/Moctar%20Diaw>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1049,6 +1163,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Sierra_Leone ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Sierra_Leone> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Sierra_Leone> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1057,7 +1173,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Sierra_Leone>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton, Ó Dochartaigh & Thomas, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Sierra Leone";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Mustapha%20Thomas>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1076,6 +1193,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Somalia ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Somalia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Somalia> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1084,9 +1203,32 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Somalia>;
    <http://purl.org/dc/terms/bibliographicCitation> "Hussein Gadain, Food and Agriculture Organisation of the United Nations, Kenya";
    <http://purl.org/dc/terms/title> "Hydrogeology of Somalia";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Zoran%20Stevanovic>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Hussein%20Gadain>, <https://w3id.org/mint/Person/Kirsty%20Upton>.
+<https://w3id.org/mint/Person/Zoran%20Stevanovic> a <http://xmlns.com/foaf/0.1/Person>;
+    <http://xmlns.com/foaf/0.1/name> "Zoran Stevanovic".
+<https://w3id.org/mint/Organization/University%20of%20Belgrade%20Serbia> a <http://xmlns.com/foaf/0.1/Organization>;
+    <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Zoran%20Stevanovic>;
+    <http://xmlns.com/foaf/0.1/name> "University of Belgrade, Serbia".
+<https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
+    <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK> a <http://xmlns.com/foaf/0.1/Organization>;
+    <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
+    <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
+<https://w3id.org/mint/Person/Hussein%20Gadain> a <http://xmlns.com/foaf/0.1/Person>;
+    <http://xmlns.com/foaf/0.1/name> "Hussein Gadain".
+<https://w3id.org/mint/Organization/Food%20and%20Agriculture%20Organisation%20of%20the%20United%20Nation%20Kenya> a <http://xmlns.com/foaf/0.1/Organization>;
+    <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Hussein%20Gadain>;
+    <http://xmlns.com/foaf/0.1/name> "Food and Agriculture Organisation of the United Nation, Kenya".
+<https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
+    <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK> a <http://xmlns.com/foaf/0.1/Organization>;
+    <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
+    <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_South_Africa ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_South_Africa> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_South_Africa> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -1096,7 +1238,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_South_Africa>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Ó Dochartaigh, Upton, Bertram, Pietersen & Abiye, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of South Africa";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Kevin%20Pietersen>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Tamiru%20Abiye>, <https://w3id.org/mint/Person/Ernst%20Bertram>, <https://w3id.org/mint/Person/Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Kevin%20Pietersen> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kevin Pietersen".
 <https://w3id.org/mint/Organization/SLR%20Consulting%20%28Pty%29%20Ltd%20South%20Africa%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1125,6 +1268,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_South_Sudan ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_South_Sudan> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_South_Sudan> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1133,7 +1278,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_South_Sudan>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of South Sudan";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1147,6 +1293,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Sudan ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Sudan> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Sudan> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1155,7 +1303,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Sudan>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Gadelmula, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Sudan";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Abdel%20Hafiz%20Gadelmula>, <https://w3id.org/mint/Person/Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1174,6 +1323,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Swaziland ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Swaziland> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Swaziland> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1182,7 +1333,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Swaziland>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Swaziland";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1196,6 +1348,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Tanzania ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Tanzania> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Tanzania> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1204,7 +1358,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Tanzania>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Sangea, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Tanzania";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Hosea%20Sanga>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Hosea%20Sanga> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Hosea Sanga".
 <https://w3id.org/mint/Organization/Department%20of%20Water%20Resources%20Ministry%20of%20Water%20and%20Irrigation%20Tanzania%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1223,6 +1378,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Togo ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Togo> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Togo> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1231,7 +1388,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Togo>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Gnazou, Sabi, Tauirou, Akakpo, Agouda, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Togo";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Kirsty%20Upton>, <https://w3id.org/mint/Person/Kpadja%20Agouda>, <https://w3id.org/mint/Person/Masama%C3%A9ya%20Dadja-Toyou%20Gnazou>, <https://w3id.org/mint/Person/Sani%20M.%20Tairou>, <https://w3id.org/mint/Person/Edem%20Bawoubadi%20Sabi>, <https://w3id.org/mint/Person/Wohou%20Akakpo>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1270,6 +1428,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Tunisia ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Tunisia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Tunisia> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1278,7 +1438,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Tunisia>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Ben Ammar, Mekni, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Tunisia";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Amira%20Mekni>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Safouan%20Ben%20Ammar>, <https://w3id.org/mint/Person/Kirsty%20Upton>.
 <https://w3id.org/mint/Person/Amira%20Mekni> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Amira Mekni".
 <https://w3id.org/mint/Organization/INAT%20Tunisia%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1286,9 +1447,9 @@
     <http://xmlns.com/foaf/0.1/name> "INAT, Tunisia".
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
-<https://w3id.org/mint/Organization/%20%26%20> a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>;
-    <http://xmlns.com/foaf/0.1/name> " &".
+    <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 <https://w3id.org/mint/Person/Safouan%20Ben%20Ammar> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Safouan Ben Ammar".
 <https://w3id.org/mint/Organization/ISTEUB%20Tunisia%20%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1296,11 +1457,13 @@
     <http://xmlns.com/foaf/0.1/name> "ISTEUB, Tunisia".
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
-<https://w3id.org/mint/Organization/%20%26%20> a <http://xmlns.com/foaf/0.1/Organization>;
+<https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
     <http://xmlns.com/foaf/0.1/member> <https://w3id.org/mint/Person/Kirsty%20Upton>;
-    <http://xmlns.com/foaf/0.1/name> " &".
+    <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
+
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Uganda ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Uganda> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Uganda> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -1310,7 +1473,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Uganda>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Owor, Tindimugaya, Brown, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Uganda";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Michael%20Owor>, <https://w3id.org/mint/Person/Lawrence%20Brown>, <https://w3id.org/mint/Person/Kirsty%20Upton>, <https://w3id.org/mint/Person/Callist%20Tindimugaya>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1339,6 +1503,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Zambia ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Zambia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Zambia> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1347,7 +1513,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Zambia>;
    <http://purl.org/dc/terms/bibliographicCitation> "with additions from Ms Adjoah Parker, BGR, Zambia.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Zambia";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Mr%20Kolala%20C%20Chomba>, <https://w3id.org/mint/Person/Kirsty%20Upton>, <https://w3id.org/mint/Person/Mr%20Simon%20Kang%E2%80%99omba>, <https://w3id.org/mint/Person/Emily%20Crane>, <https://w3id.org/mint/Person/Professor%20Daniel%20CW%20Nkhuwa>.
 <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Brighid Ó Dochartaigh".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
@@ -1381,6 +1548,8 @@
 
  
 
+ ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Zimbabwe ###### 
+
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Zimbabwe> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Zimbabwe> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1389,7 +1558,8 @@
    <http://www.w3.org/ns/dcat#landingPage> <http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Zimbabwe>;
    <http://purl.org/dc/terms/bibliographicCitation> "Please cite this page as: Mudimbo, Owen, Crane, Upton & Ó Dochartaigh, 2016.";
    <http://purl.org/dc/terms/title> "Hydrogeology of Zimbabwe";
-   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use".
+   <http://purl.org/dc/terms/rigths> "http://earthwise.bgs.ac.uk/index.php/Africa_Groundwater_Atlas_Terms_of_Use";
+   <http://purl.org/dc/terms/creator> <https://w3id.org/mint/Person/Kirsty%20Upton>, <https://w3id.org/mint/Person/Brighid%20%C3%93%20Dochartaigh>, <https://w3id.org/mint/Person/Dr%20Richard%20Owen>, <https://w3id.org/mint/Person/Emily%20Crane>, <https://w3id.org/mint/Person/Daina%20Mudimbu>.
 <https://w3id.org/mint/Person/Kirsty%20Upton> a <http://xmlns.com/foaf/0.1/Person>;
     <http://xmlns.com/foaf/0.1/name> "Kirsty Upton".
 <https://w3id.org/mint/Organization/British%20Geological%20Survey%20UK%0A> a <http://xmlns.com/foaf/0.1/Organization>;
