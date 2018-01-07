@@ -3,7 +3,6 @@ import urllib
 import codecs
 import sys
 #@prefix foaf: <http://xmlns.com/foaf/0.1/> . 
-
 #UTF8Writer = codecs.getwriter('utf-8')
 #sys.stdout = UTF8Writer(sys.stdout)
 
@@ -59,6 +58,8 @@ class ReadData:
                         inst_name.remove(', ')
                     if ' and ' in inst_name:
                         inst_name.remove(' and ')
+                    if ' & ' in inst_name:
+                        inst_name.remove(' & ')
                     inst_value = []
                     for elem in inst_name:
                         if elem.startswith(', '):
@@ -66,8 +67,8 @@ class ReadData:
                             inst_value.append(new)
                         else:
                             inst_value.append(elem)
-                    for elem in name:
-                        authors[elem] = inst_value
+		    for elem in name:
+			authors[elem] = inst_value
                 else:
                     if cont == 0:
                         citation = elt.text
@@ -93,7 +94,8 @@ class ReadData:
                     link = elt.find('a')
                     terms_of_use = link['href']
 
-
+	
+        #print("---> authors %s, location %s" % (authors, location))
 	title = id.replace("_", " ")
 	scrapper['id'] = id 
 	scrapper['title'] = title
@@ -105,6 +107,17 @@ class ReadData:
         scrapper['biblio'] = biblio_f
         scrapper['terms_of_use'] = terms_of_use
         return scrapper
+
+    def fix(sefl, scrapper):
+	authors={}
+	authors['Hussein Gadain'] = ['Food and Agriculture Organisation of the United Nation, Kenya']
+	authors['Zoran Stevanovic'] =['University of Belgrade, Serbia']
+	authors['Kirsty Upton'] = ['British Geological Survey, UK']
+	name = u'\xd3'
+	name_complete= 'Brighid ' +name+ ' Dochartaigh'
+	authors[name_complete] = ['British Geological Survey, UK']
+	scrapper['authors'] = authors
+	return scrapper 
 
 
 class WriteData:
@@ -135,10 +148,12 @@ class WriteData:
         tripletas += "   <http://www.w3.org/ns/dcat#landingPage> <" + scrapper['url_resource'] + ">;\n"
         tripletas += "   <http://purl.org/dc/terms/bibliographicCitation> \"" + scrapper['biblio']+ "\";\n"
         tripletas += "   <http://purl.org/dc/terms/title> \"" + scrapper['title'] + "\";\n"
-        tripletas += "   <http://purl.org/dc/terms/rigths> \"" + scrapper['terms_of_use'] + "\".\n"
-
+        tripletas += "   <http://purl.org/dc/terms/rigths> \"" + scrapper['terms_of_use'] + "\";\n"
+        tripletas += "   <http://purl.org/dc/terms/creator> "
        
         tripletas_author = ""
+	author_size = len(scrapper['authors'])
+	author_index = 1
 	for person in scrapper['authors']:
 	    person_l = person.encode('utf8')
 	    person_id = urllib.quote(person_l)
@@ -150,9 +165,14 @@ class WriteData:
             
 	    tripletas_author += person_uri + " a <http://xmlns.com/foaf/0.1/Person>;\n"
 	    tripletas_author += "    <http://xmlns.com/foaf/0.1/name> \""+ person +"\".\n"
-	    tripletas_author += organization_uri + "a <http://xmlns.com/foaf/0.1/Organization>;\n"
+	    tripletas_author += organization_uri + " a <http://xmlns.com/foaf/0.1/Organization>;\n"
             tripletas_author +=	"    <http://xmlns.com/foaf/0.1/member> " + person_uri+ ";\n"  
             tripletas_author +=	"    <http://xmlns.com/foaf/0.1/name> \"" + scrapper['authors'][person][0].rstrip() + "\".\n"  
+	    if author_index < author_size:
+            	tripletas +=  person_uri+ ", "
+	    else:  
+             	tripletas += person_uri + ".\n"
+	    author_index += 1
 
 
 
@@ -168,7 +188,9 @@ if __name__ == '__main__':
     url = "http://earthwise.bgs.ac.uk/index.php/Hydrogeology_by_country"
     country_list = rd.get_country_list(url)
     for url_country in country_list:
-        #print (" ###### Extracting automaticaly: %s ###### \n" % url_country)
+        print (" ###### Extracting automaticaly: %s ###### \n" % url_country)
         extract_information = rd.scrapper(url_country)
+	if 'Somalia' in url_country:
+		extract_information = rd.fix(extract_information)
         #wr.print_values(extract_information)
         wr.export_rdf(extract_information)
