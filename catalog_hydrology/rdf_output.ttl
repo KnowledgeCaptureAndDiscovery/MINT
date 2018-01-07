@@ -1,5 +1,3 @@
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Algeria ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Algeria> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Algeria> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -38,8 +36,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Angola ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Angola> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Angola> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -62,8 +58,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Benin ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Benin> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Benin> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -98,8 +92,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Botswana ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Botswana> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Botswana> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -133,8 +125,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Burkina_Faso ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Burkina_Faso> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Burkina_Faso> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -163,8 +153,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Burundi ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Burundi> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Burundi> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -187,8 +175,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Cameroon ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Cameroon> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Cameroon> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -213,8 +199,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Central_African_Republic ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Central_African_Republic> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Central_African_Republic> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -237,8 +221,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Chad ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Chad> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Chad> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -263,8 +245,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Comoros ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Comoros> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Comoros> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -287,8 +267,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Cote_d%27Ivoire ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Cote_d%27Ivoire> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Cote_d%27Ivoire> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -313,8 +291,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Democratic_Republic_of_the_Congo ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Democratic_Republic_of_the_Congo> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Democratic_Republic_of_the_Congo> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -337,8 +313,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Djibouti ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Djibouti> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Djibouti> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -363,8 +337,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Egypt ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Egypt> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Egypt> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -387,8 +359,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Equatorial_Guinea ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Equatorial_Guinea> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Equatorial_Guinea> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -413,8 +383,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Eritrea ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Eritrea> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Eritrea> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -437,8 +405,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Ethiopia ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Ethiopia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Ethiopia> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -473,8 +439,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Gabon ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Gabon> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Gabon> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -497,8 +461,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Gambia ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Gambia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Gambia> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -532,8 +494,6 @@
     <http://xmlns.com/foaf/0.1/name> "Department of Water Resources, The Gambia".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Ghana ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Ghana> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Ghana> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -573,8 +533,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Guinea ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Guinea> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Guinea> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -598,8 +556,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Guinea_Bissau ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Guinea_Bissau> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Guinea_Bissau> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -622,8 +578,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Kenya ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Kenya> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Kenya> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -657,8 +611,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Lesotho ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Lesotho> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Lesotho> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -698,8 +650,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Liberia ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Liberia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Liberia> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -723,8 +673,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Libya ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Libya> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Libya> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -747,8 +695,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Madagascar ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Madagascar> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Madagascar> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -778,8 +724,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Malawi ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Malawi> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Malawi> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -807,8 +751,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mali ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Mali> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Mali> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -848,8 +790,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mauritania ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Mauritania> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Mauritania> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -873,8 +813,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara) ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara)> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Morocco_%26_Western_Sahara_(Moroccan_Sahara)> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -897,8 +835,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Mozambique ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Mozambique> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Mozambique> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -937,8 +873,6 @@
     <http://xmlns.com/foaf/0.1/name> "National Directorate of Water, Mozambique".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Namibia ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Namibia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Namibia> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -998,8 +932,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Niger ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Niger> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Niger> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1027,8 +959,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Nigeria ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Nigeria> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Nigeria> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -1063,8 +993,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Republic_of_Congo ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Republic_of_Congo> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Republic_of_Congo> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1088,8 +1016,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Rwanda ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Rwanda> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Rwanda> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1112,8 +1038,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Senegal ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Senegal> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Senegal> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -1163,8 +1087,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Sierra_Leone ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Sierra_Leone> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Sierra_Leone> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1192,8 +1114,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Somalia ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Somalia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Somalia> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -1227,8 +1147,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_South_Africa ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_South_Africa> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_South_Africa> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -1268,8 +1186,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_South_Sudan ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_South_Sudan> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_South_Sudan> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1292,8 +1208,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Sudan ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Sudan> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Sudan> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -1323,8 +1237,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Swaziland ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Swaziland> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Swaziland> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1347,8 +1259,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Tanzania ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Tanzania> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Tanzania> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -1377,8 +1287,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Togo ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Togo> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Togo> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -1428,8 +1336,6 @@
 
  
 
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Tunisia ###### 
-
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Tunisia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Tunisia> a <http://www.w3.org/ns/dcat#Dataset>; 
    <http://purl.org/dc/terms/publisher> <https://w3id.org/mint/Agent/BGS>; 
@@ -1462,8 +1368,6 @@
     <http://xmlns.com/foaf/0.1/name> "British Geological Survey, UK".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Uganda ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Uganda> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Uganda> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -1502,8 +1406,6 @@
     <http://xmlns.com/foaf/0.1/name> "Ministry of Water and Environment, Uganda".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Zambia ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Zambia> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Zambia> a <http://www.w3.org/ns/dcat#Dataset>; 
@@ -1547,8 +1449,6 @@
     <http://xmlns.com/foaf/0.1/name> "School of Mines, University of Zambia".
 
  
-
- ###### Extracting automaticaly: http://earthwise.bgs.ac.uk/index.php/Hydrogeology_of_Zimbabwe ###### 
 
 <https://w3id.org/mint/Catalog/BgsCatalog> <http://www.w3.org/ns/dcat#dataset>  <https://w3id.org/mint/Dataset/Hydrogeology_of_Zimbabwe> .
 <https://w3id.org/mint/Dataset/Hydrogeology_of_Zimbabwe> a <http://www.w3.org/ns/dcat#Dataset>; 
