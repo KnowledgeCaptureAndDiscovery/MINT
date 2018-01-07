@@ -188,7 +188,7 @@ if __name__ == '__main__':
     url = "http://earthwise.bgs.ac.uk/index.php/Hydrogeology_by_country"
     country_list = rd.get_country_list(url)
     for url_country in country_list:
-        print (" ###### Extracting automaticaly: %s ###### \n" % url_country)
+        #print (" ###### Extracting automaticaly: %s ###### \n" % url_country)
         extract_information = rd.scrapper(url_country)
 	if 'Somalia' in url_country:
 		extract_information = rd.fix(extract_information)
