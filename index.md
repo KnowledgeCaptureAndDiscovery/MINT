@@ -176,6 +176,30 @@ layout: default
 				<br /><i class="label">Workflow Composition</i></p>
 			</div>
 		</member>
+        <member>
+			<img src="assets/images/team/filgueira.jpg"/>
+			<div class="content">
+				<h3>Rosa Filgueira</h3>
+				<p>Senior Data Scientist at the British Geological Survey
+				<br /><i class="label grey">Collaborator</i></p>
+			</div>
+		</member>
+        <member>
+			<img src="assets/images/team/pierce.jpg"/>
+			<div class="content">
+				<h3>Suzanne Pierce</h3>
+				<p>Research Scientist at Texas Advanced Computing Center
+				<br /><i class="label grey">Collaborator</i></p>
+			</div>
+		</member>
+        <member>
+			<img src="assets/images/team/medeiros.jpg"/>
+			<div class="content">
+				<h3>Claudia Medeiros</h3>
+				<p>Professor in the Institute of Computing at University of Campinas
+				<br /><i class="label grey">Collaborator</i></p>
+			</div>
+		</member>
     </div>
 </section>
 

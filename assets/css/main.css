@@ -4727,3 +4727,7 @@ button:disabled,
     border-radius: 5px;
     font-size: 0.9em;
 }
+
+.label.grey {
+    background-color: rgba(146, 145, 159, 0.75);
+}
