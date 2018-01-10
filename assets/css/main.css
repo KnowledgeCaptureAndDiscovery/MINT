@@ -4731,3 +4731,23 @@ button:disabled,
 .label.grey {
     background-color: rgba(146, 145, 159, 0.75);
 }
+
+.label.green {
+    background-color: rgba(143, 203, 85, 0.75);
+}
+
+.label.yellow {
+    background-color: rgba(192, 194, 81, 0.75);
+}
+
+.label.red {
+    background-color: rgba(194, 104, 96, 0.75);
+}
+
+.label.purple {
+    background-color: rgba(148, 100, 194, 0.75);
+}
+
+.label.orange {
+    background-color: rgba(194, 141, 100, 0.75);
+}
