@@ -4715,3 +4715,15 @@ button:disabled,
     }
 
 }
+
+.label {
+    background-color: rgba(102, 183, 229, 0.75);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 0.5em 0 0.5em;
+    border-radius: 5px;
+    font-size: 0.9em;
+}
