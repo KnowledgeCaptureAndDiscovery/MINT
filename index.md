@@ -171,7 +171,7 @@ layout: default
         <member>
 			<img src="assets/images/team/carvalho.jpg"/>
 			<div class="content">
-				<h3>Lucas Augusto Carvalho</h3>
+				<h3><a href="https://lucasaugustomcc.github.io/" target="_blank">Lucas Augusto Carvalho</a></h3>
 				<p>PhD student in the Institute of Computing at University of Campinas (Unicamp)
 				<br /><i class="label">Workflow Composition</i></p>
 			</div>
