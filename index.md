@@ -203,6 +203,32 @@ layout: default
     </div>
 </section>
 
+
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Partner Institutions</h2>
+	</header>
+	<div class="team" style="margin-left: 0em">
+	    <institution>
+            <img src="assets/images/institution/usc-isi.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/pennstate.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/ucolorado-boulder.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/minnesota.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/virginia-tech.png" style="height: 3em"/>
+        </institution>
+	</div>
+</section>
+	
+	
 <!-- Section -->
 <!--section>
 	<header class="major">
