@@ -21,15 +21,15 @@ g.parse("rdf_output.ttl", format="n3")
 
 
 #List me all the locations that we have more than N resources
-#qres = g.query(
-#	""" SELECT ?l (COUNT(?recurso) AS ?nr)
-#		WHERE {
-#		     ?recurso a <http://www.w3.org/ns/dcat#Dataset>.
-#		     ?recurso <http://purl.org/dc/terms/spatial> ?l.
-#		}
-#		GROUP BY ?recurso
-#		HAVING(COUNT(?recurso) > 0) 
-#	""")	
+qres = g.query(
+	""" SELECT ?l (COUNT(?recurso) AS ?nr)
+		WHERE {
+		     ?recurso a <http://www.w3.org/ns/dcat#Dataset>.
+		     ?recurso <http://purl.org/dc/terms/spatial> ?l.
+		}
+		GROUP BY ?recurso
+		HAVING(COUNT(?recurso) > 0) 
+	""")	
 
 #Give me the number of locations from the catalog
 #qres = g.query(
@@ -68,22 +68,44 @@ qres = g.query(
 		}
 	""") 
 
-#Give me the organization that published most resources
+#Give me the number of organization that published resources
 #qres = g.query(
-#	""" SELECT ?no (COUNT(?o) AS ?numo)
+#	""" SELECT DISTINCT (COUNT(?no) AS ?nxo)
 #		WHERE {
+#		     ?recurso a <http://www.w3.org/ns/dcat#Dataset>.
 #                     ?o a <http://xmlns.com/foaf/0.1/Organization>.
-#   		     ?o <http://xmlns.com/foaf/0.1/name> ?no. 
+#		     ?o <http://xmlns.com/foaf/0.1/name> ?no.
 #		}
-#		GROUP BY ?o
-#		ORDER BY DESC (?numo)
-#		LIMIT 1
+#		GROUP BY ?no
 #	""")	
 
 
 #Give me the author that published most resources	
+#qres = g.query(
+#	""" SELECT ?na (COUNT(?na) AS ?nxa)
+#		WHERE {
+#                     ?o a <http://xmlns.com/foaf/0.1/Organization>.
+#		     ?o <http://xmlns.com/foaf/0.1/member> ?na.
+#		}
+#		GROUP BY ?na
+#		ORDER BY DESC (?nxa)
+#		LIMIT 1
+#	""")
+
+#Give me the organization that published most resources
+#qres = g.query(
+#	""" SELECT ?o ?no 
+#		WHERE {
+#                     ?o a <http://xmlns.com/foaf/0.1/Organization>.
+#		     ?o <http://xmlns.com/foaf/0.1/name> ?no.
+#		}
+#		GROUP BY ?no
+#		ORDER BY DESC (?nxo)
+#	""")
+	
 
 #Give me all the authors from organization BGS
 
 for row in qres:
-   print("%s " % row)
+   #print("%s %s %s"  % row)
+   print("%s"  % row)
