@@ -207,7 +207,7 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Partner Institutions</h2>
+		<h2>Collaborating Institutions</h2>
 	</header>
 	<div class="team" style="margin-left: 0em">
 	    <institution>
@@ -224,6 +224,25 @@ layout: default
         </institution>
         <institution>
             <img src="assets/images/institution/virginia-tech.png" style="height: 3em"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/tacc.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/bgs.png" style="padding-left: 1em"/>
+        </institution>
+	</div>
+</section>
+
+
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Sponsors</h2>
+	</header>
+	<div class="team" style="margin-left: 0em">
+	    <institution>
+            <img src="assets/images/institution/darpa.png"/>
         </institution>
 	</div>
 </section>
