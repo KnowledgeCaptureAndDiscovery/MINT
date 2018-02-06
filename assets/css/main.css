@@ -4607,6 +4607,23 @@ button:disabled,
     width: 4em;
 }
 
+.team institution img {
+    -moz-flex-grow: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-grow: 0;
+    flex-grow: 0;
+    -moz-flex-shrink: 0;
+    -webkit-flex-shrink: 0;
+    -ms-flex-shrink: 0;
+    flex-shrink: 0;
+    display: block;
+    height: 4em;
+    line-height: 10em;
+    margin: 0 1em 2em 0;
+    text-align: center;
+    /*width: 15em;*/
+}
+
 .team member .icon:before {
     color: #67b7e6;
     font-size: 2.75rem;
@@ -4714,4 +4731,40 @@ button:disabled,
         font-size: 1.25rem;
     }
 
+}
+
+.label {
+    background-color: rgba(102, 183, 229, 0.75);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 0.5em 0 0.5em;
+    border-radius: 5px;
+    font-size: 0.9em;
+}
+
+.label.grey {
+    background-color: rgba(146, 145, 159, 0.75);
+}
+
+.label.green {
+    background-color: rgba(143, 203, 85, 0.75);
+}
+
+.label.yellow {
+    background-color: rgba(192, 194, 81, 0.75);
+}
+
+.label.red {
+    background-color: rgba(194, 104, 96, 0.75);
+}
+
+.label.purple {
+    background-color: rgba(148, 100, 194, 0.75);
+}
+
+.label.orange {
+    background-color: rgba(194, 141, 100, 0.75);
 }
