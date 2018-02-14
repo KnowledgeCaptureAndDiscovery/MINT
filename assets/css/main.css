@@ -4768,3 +4768,17 @@ button:disabled,
 .label.orange {
     background-color: rgba(194, 141, 100, 0.75);
 }
+
+figure {
+    float: right;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 25em;
+}
+
+figure figcaption {
+    font-size: 0.8em;
+    font-style: italic;
+}
