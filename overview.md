@@ -111,6 +111,23 @@ title: Overview
 	<header class="major">
 		<h4>Workflow Execution</h4>
 	</header>
+    <p>
+        Workflows process scientific large-scale computations in distributed systems. A key 
+        advantage of workflows is their ability to combine different specialized software. 
+        Typically, they are described as directed-acyclic graphs (DAGs), where the outputs of 
+        a job (a node in the graph) are input for subsequent jobs. This paradigm fits model 
+        chaining workflows, where each model runs once and its output is input for successor 
+        models. The MINT team will capitalize on our <a href="https://pegasus.isi.edu" target="_blank">
+        Pegasus</a> [1] workflow system to enable scalable workflow execution in computing 
+        environments.
+        Although DAGs are proven efficient for most scientific computations, they are insufficient 
+        to handle coupled models – concurrent execution of models with continuous data exchanges. 
+        We will leverage our prior work on the CSDMS <a href="http://bmi-spec.readthedocs.io/en/latest/" 
+        target="_blank">Basic Model Interface (BMI)</a> that 
+        provides standardized, noninvasive, and framework-independent API for models [3]. 
+        BMI is easy to implement and yet provides all information needed to deploy a model 
+        in multiple model coupling frameworks.
+    </p>
     <h5>Task Leaders</h5>
     <p style="font-size: 0.9em; line-height: 1.3em">
         <strong><a href="http://deelman.isi.edu" target="_blank">
@@ -139,4 +156,9 @@ title: Overview
          Science from INSA Lyon, France, in 2013. He authored more than 60 research papers 
          in the are of distributed computing, in particular high performance computing and workflows. 
     </p>
+    <h5>References</h5>
+    <ol style="font-size: 0.9em; line-height: 1.2em">
+        <li>Deelman, E., et al. "Pegasus, a workflow management system for science automation." Future Generation Computer Systems 46 (2015): 17-35.</li>
+        <li>Peckham, Scott D., Eric WH Hutton, and Boyana Norris. "A component-based approach to integrated modeling in the geosciences: The design of CSDMS." Computers & Geosciences 53 (2013): 3-12.</li>
+    </ol>
 </section>
