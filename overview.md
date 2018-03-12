@@ -111,6 +111,10 @@ title: Overview
 	<header class="major">
 		<h4>Workflow Execution</h4>
 	</header>
+	<figure style="width: 35em">
+      <img src="assets/images/overview/workflow-execution.png" style="width: 35em"/>
+      <figcaption style="font-size: 0.8em">Overview of the architectural components and interaction for running coupled models.</figcaption>
+    </figure>
     <p>
         Workflows process scientific large-scale computations in distributed systems. A key 
         advantage of workflows is their ability to combine different specialized software. 
