@@ -177,6 +177,14 @@ layout: default
 			</div>
 		</member>
         <member>
+			<img src="assets/images/team/feldman.jpg"/>
+			<div class="content">
+				<h3>Dan Feldman</h3>
+				<p>PhD student in the Computer Science Department at University of Southern California
+				<br /><i class="label green">Data Extraction and Integration</i></p>
+			</div>
+		</member>
+        <member>
 			<img src="assets/images/team/filgueira.jpg"/>
 			<div class="content">
 				<h3><a href="https://www.rosafilgueira.com" target="_blank">Rosa Filgueira</a></h3>
