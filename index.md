@@ -97,6 +97,14 @@ layout: default
 			</div>
 		</member>
         <member>
+			<img src="assets/images/team/rynge.png"/>
+			<div class="content">
+				<h3>Mats Rynge</h3>
+				<p>Computer Scientist in the Information Sciences Institute of the University of Southern California
+				<br /><i class="label yellow">Workflow Execution</i></p>
+			</div>
+		</member>
+        <member>
 			<img src="assets/images/team/garijo.jpg"/>
 			<div class="content">
 				<h3><a href="http://dgarijo.com" target="_blank">Daniel Garijo</a></h3>
