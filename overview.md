@@ -156,13 +156,27 @@ title: Overview
 	<header class="major">
 		<h4>Data Extraction and Integration</h4>
 	</header>
+    <h5>Task Leaders</h5>
+    <p style="font-size: 0.9em; line-height: 1.3em">
+        <strong><a href="http://usc-isi-i2.github.io/knoblock/" target="_blank">
+        Dr. Knoblock</a></strong> is a Research Professor of both Computer Science and Spatial Sciences at
+        the University of Southern California (USC), Research Director of Information Integration at the
+        Information Sciences Institute, and Associate Director of the Informatics Program at USC. His research
+        focuses on techniques for describing, acquiring, and exploiting the semantics of data. He has worked
+        extensively on source modeling, schema and ontology alignment, entity and record linkage, data cleaning
+        and normalization, extracting data from the Web, and combining these techniques to build knowledge
+        graphs. He has also worked specifically on the challenges of aggregating and integrating country-level
+        statistical data related to food security from government agencies (including the United Nations,
+        World Health Organization) and NGOs.
+    </p>
     <hr class="major" />
 	<header class="major">
 		<h4>Workflow Composition</h4>
 	</header>
 	<p>
 	    To generate workflows composed of diverse models and the necessary data transformation steps, we use
-	    the WINGS semantic workflow system [1] to reason about data characteristics and model requirements
+	    the <a href="http://www.wings-workflows.org/" target="_blank">WINGS semantic workflow system</a> [1]
+	    to reason about data characteristics and model requirements
 	    available in the MINT Model and Data Catalogs. While a traditional workflow simply represents dataflow
 	    among software components, a semantic workflow also represents the characteristics of the input and
 	    output datasets for each software step and any constraints in those datasets or parameters to the step.
