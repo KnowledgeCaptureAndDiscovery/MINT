@@ -115,6 +115,23 @@ title: Overview
         and aquatic processes. These models have been used in numerous projects of local, 
         national and international reach. 
     </p>
+    <p style="font-size: 0.9em; line-height: 1.3em">
+        <strong><a href="http://www.engr.psu.edu/ce/directory/websites/duffy_c.html" target="_blank">
+        Dr. Duffy</a></strong> is a Professor in the Civil and Environmental Engineering Department
+        Penn State University in the area of Water Resources Engineering. Currently Dr. Duffy and
+        his team have focused on developing the spatially-distributed, physics-based computational
+        model PIHM (The Penn State Integrated Hydrologic Model) for multi-scale, multi-process water
+        resources applications, and an on-line national data service for access to geospatial
+        watershed data anywhere in the continental US.
+    </p>
+    <p style="font-size: 0.9em; line-height: 1.3em">
+        <strong><a href="http://www.globalchange.vt.edu/dr-kelly-cobourn/" target="_blank">
+        Dr. Cobourn</a></strong> is an Assistant Professor of Water Economics and Policy in the Department
+        of Forest Resources and Environmental Conservation at Virginia Tech. She conducts research into
+        integrated hydroeconomic and bioeconomic modeling using dynamic programming techniques and
+        the use of data-driven econometric methods and positive mathematical programming (PMP)
+        to parameterize and calibrate integrated models.
+    </p>
     <h5>References</h5>
     <ol style="font-size: 0.9em; line-height: 1.2em">
         <li>Kemanian, A.R. and Stöckle, C.O., 2010. C-Farm: A simple model to evaluate the carbon balance of soil profiles. European Journal of Agronomy, 32(1), pp.22-29.</li>
@@ -125,6 +142,16 @@ title: Overview
 	<header class="major">
 		<h4>Model Calibration</h4>
 	</header>
+    <h5>Task Leaders</h5>
+    <p style="font-size: 0.9em; line-height: 1.3em">
+        <strong><a href="https://www-users.cs.umn.edu/~kumar001/" target="_blank">
+        Dr. Kumar</a></strong> is a Regents Professor and holds William Norris Chair in the department
+        of Computer Science and Engineering at the University of Minnesota. Dr. Kumar's current research
+        interests include data mining, high-performance computing, and their applications in Climate/Ecosystems
+        and health care. His research has resulted in the development of the concept of isoefficiency metric
+        for evaluating the scalability of parallel algorithms, as well as highly efficient parallel algorithms
+        and software for sparse matrix factorization (PSPASES) and graph partitioning (METIS, ParMetis, hMetis).
+    </p>
     <hr class="major" />
 	<header class="major">
 		<h4>Data Extraction and Integration</h4>
@@ -133,6 +160,23 @@ title: Overview
 	<header class="major">
 		<h4>Workflow Composition</h4>
 	</header>
+	<p>
+	    To generate workflows composed of diverse models and the necessary data transformation steps, we use
+	    the WINGS semantic workflow system [1] to reason about data characteristics and model requirements
+	    available in the MINT Model and Data Catalogs. While a traditional workflow simply represents dataflow
+	    among software components, a semantic workflow also represents the characteristics of the input and
+	    output datasets for each software step and any constraints in those datasets or parameters to the step.
+	    WINGS includes workflow reasoning algorithms that propagate those constraints for automated workflow
+	    elaboration, workflow matching, provenance and metadata generation, workflow validation, and interactive
+	    assistance. A user would interact with the MINT throughout the workflow planning process. The user
+	    starts by specifying some variables of interest, which would indicate the scope of the problem and the
+	    level of detail required of the models. Those variables are then mapped to the MINT ontologies, and
+	    used to select relevant models. Each model grouping would represent the initial skeleton for a workflow,
+	    which would then be expanded using the data pre-processing workflow fragments specified in the Model
+	    Catalog. This results in an initial workflow template. WINGS will then reason about the requirements
+	    of each model and add any data conversion steps needed to transform model outputs into the format
+	    required by other models.
+	</p>
     <h5>Task Leaders</h5>
     <p style="font-size: 0.9em; line-height: 1.3em">
         <strong><a href="https://www.isi.edu/~gil/" target="_blank">
@@ -144,6 +188,10 @@ title: Overview
         of knowledge bases. A recent focus is assisting scientists with intelligent systems that 
         analyze data, test hypotheses, and make new discoveries.
     </p>
+    <h5>References</h5>
+    <ol style="font-size: 0.9em; line-height: 1.2em">
+        <li>Mind Your Metadata: Exploiting Semantics for Configuration, Adaptation, and Provenance in Scientific Workflows. Gil, Y.; Szekely, P.; Villamizar, S.; Harmon, T.; Ratnakar, V.; Gupta, S.; Muslea, M.; Silva, F.; and Knoblock, C. In Proceedings of the Tenth International Semantic Web Conference (ISWC), Bonn, Germany 2011.</li>
+    </ol>
     <hr class="major" />
 	<header class="major">
 		<h4>Workflow Execution</h4>
