@@ -13,23 +13,34 @@ title: Overview
             hand today and may take more than two years of human effort.
         </p>
         <p>
-            We are developing the Model INTegration (MINT) framework, with several innovative 
-            components: 1) New principle-based semi-automatic ontology generation tools for 
-            modeling variables, used to describe models and data; 2) New modeling methodologies 
-            to facilitate semantic integration across domains; 3) A novel workflow system that 
-            selects relevant models from a curated registry and uses abductive reasoning to 
-            hypothesize new models and data transformation steps; 4) A new data discovery and 
-            integration framework that finds and categorizes new sources of data, learns to 
-            extract information from both online sources and remote sensing data, and transforms 
-            the data into the format required by the models; 5) New knowledge-guided machine 
-            learning algorithms for model parameterization to improve accuracy and estimate 
-            uncertainty; 6) A novel framework for multi-modal scalable workflow execution.
+            We are developing the Model INTegration (MINT) framework that incorporates extensive
+            knowledge about models and data, with several innovative components: 1) New principle-based
+            ontology generation tools for modeling variables, used to describe models and data;
+            2) A novel workflow system that selects relevant models from a curated registry and
+            uses abductive reasoning to hypothesize new models and data transformation steps;
+            3) A new data discovery and integration framework that finds and categorizes new sources
+            of data, learns to extract information from both online sources and remote sensing data,
+            and transforms the data into the format required by the models; 4) New knowledge-guided
+            machine learning algorithms for model parameterization to improve accuracy and estimate
+            uncertainty; 5) A novel framework for multi-modal scalable workflow execution.
+        </p>
+        <p>
+            We are building on many previously existing tools, including CSDMS, BMI, GSN, WINGS,
+            Pegasus, Karma, and GOPHER. Rapid model integration would enable efficient and comprehensive
+            coupled human and natural system modeling.
         </p>
         <div style="text-align: center">
             <img src="assets/images/overview/arch1.png" style="width: 40em"/>
             <img src="assets/images/overview/arch2.png" style="width: 35em; margin-left: 2em"/>
             <figcaption style="font-size: 0.8em">
-                Overview of the MINT architectural components.
+                Overview of our use of artificial intelligence techniques to support model integration,
+                highlighting in grey the components that we have developed to date. Semantic approaches
+                (shown on the left) are used to characterize data and models in order to create semantic
+                data and model catalogs as well as data transformation services (shown in the middle).
+                Automated planning is used to support the creation and execution of workflows (shown on
+                the right). Machine learning is used to generate data from remote sensing data sources,
+                to extract data from Web sites and documents, and to optimize model parameter search
+                (shown on the right).
             </figcaption>
         </div>
     </div> 
@@ -40,6 +51,32 @@ title: Overview
 	<header class="major">
 		<h4>Ontologies</h4>
 	</header>
+	<p>
+	    A major challenge in integrating models is understanding model variables, processes, and assumptions.
+	    For example, a model may refer to "streamflow" and another to “discharge” and it may take some time to
+	    understand that they refer to the same physical variable. Although standards and ontologies have been
+	    created for specific domains, mapping variables across them remains an open problem. Our approach is to
+	    develop general principles and turn them into patterns to create names for model variables, processes,
+	    and assumptions. In prior work, we developed a cross-domain ontology called the Geoscience Standard
+	    Names (GSN) [1]. The GSN ontology was designed to serve as a semantic mediation hub and is based on very
+	    general principles that have been shown to apply to a wide variety of science domains including
+	    oceanography, atmospheric science, hydrology, glaciology, sea ice, geomorphology, general physics,
+	    continuum mechanics, thermodynamics, electricity and magnetism, seismology and environmental chemistry.
+	    GSN also includes standards for assumptions that models make, such as the Navier-Stokes equation for
+	    fluid dynamics.
+	</p>
+	<h5>Task Leaders</h5>
+    <p style="font-size: 0.9em; line-height: 1.3em">
+        <strong><a href="https://instaar.colorado.edu/people/scott-d-peckham/" target="_blank">
+        Dr. Peckham</a></strong> is a Senior Research Scientist at INSTAAR at the University of Colorado, Boulder.
+        His research is in hydrology and fluvial landscape evolution, with expertise in fluid dynamics, digital
+        terrain analysis, mathematical modeling, scaling theory, stochastic processes, software development and
+        cyber-infrastructure.
+    </p>
+	<h5>References</h5>
+    <ol style="font-size: 0.9em; line-height: 1.2em">
+        <li>Peckham, S.D. 2014. The CSDMS Standard Names: Cross-domain naming conventions for describing process models, data sets and their associated variables. Proceedings of the 7th Intl. Congress on Env. Modelling and Software, International Environmental Modelling and Software Society (iEMSs).</li>
+    </ol>
     <hr class="major" />
 	<header class="major">
 		<h4>Modeling</h4>
