@@ -35,7 +35,7 @@ title: DARPA World Modelers Hackathon
     </ul>
 
     <header class="major">
-        <h4>Planning</h4>
+        <h4>Planned Activities</h4>
     </header>
     <p>
         Please, refer to the following document for planning meetings: <a href="https://docs.google.com/spreadsheets/d/1G1RKH3UOIMxgxAlJvoD_lwi_bdrSyaAxUVyWwmdoXFo/edit#gid=0" target="_blank">Planning Spreadsheet</a>
