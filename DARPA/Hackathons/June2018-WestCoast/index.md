@@ -41,6 +41,22 @@ title: DARPA World Modelers Hackathon
         Please, refer to the following document for planning meetings: <a href="https://docs.google.com/spreadsheets/d/1G1RKH3UOIMxgxAlJvoD_lwi_bdrSyaAxUVyWwmdoXFo/edit#gid=0" target="_blank">Planning Spreadsheet</a>
     </p>
 
+    <header class="major">
+        <h4>Remote Participation</h4>
+    </header>
+    <p>
+        We will support remote participation in our organizational meetings at 9am PT and the outbrief meetings at 4:30pm PT.
+        <br /><br />
+
+        Meeting URL: <a href="https://bluejeans.com/132821734" target="_blank">https://bluejeans.com/132821734</a>
+        <br />
+        Meeting ID: 132 821 734
+        <br /><br />
+        Phone Dial-in<br />
+        +1.408.740.7256 (United States)<br />
+        +1.888.240.2560 (US Toll Free)<br />
+        +1.408.317.9253 (Alternate number)<br />
+    </p>
 
 	<header class="major">
 	    <h4>Schedule</h4>
