@@ -142,6 +142,18 @@ title: Overview
 	<header class="major">
 		<h4>Model Calibration</h4>
 	</header>
+	<p>
+	    Since the models being considered in this project vary in their degree of completeness, uncertainty
+	    of knowledge, and degree of validation, many models use parametric forms of approximations for
+	    processes that are not well-understood and suffer from large knowledge gaps. In such settings,
+	    domain-specific models are often forced to make a number of inexact approximations about the physical
+	    processes, which not only leads to poor predictive performance but also renders the model difficult
+	    to comprehend and analyze.  To address these issues, we will build upon the paradigm of theory-guided
+	    data science (TGDS) that we have recently formulated [1, 2, 3]. This approach introduces scientific
+	    consistency as an essential component for learning generalizable models. We will use TGDS to develop
+	    novel methods for model parameterization, where both physics and data science are used in a synergistic
+	    manner in hybrid-physics-data models.
+	</p>
     <h5>Task Leaders</h5>
     <p style="font-size: 0.9em; line-height: 1.3em">
         <strong><a href="https://www-users.cs.umn.edu/~kumar001/" target="_blank">
@@ -152,6 +164,12 @@ title: Overview
         for evaluating the scalability of parallel algorithms, as well as highly efficient parallel algorithms
         and software for sparse matrix factorization (PSPASES) and graph partitioning (METIS, ParMetis, hMetis).
     </p>
+    <h5>References</h5>
+    <ol style="font-size: 0.9em; line-height: 1.2em">
+        <li>A. Karpatne, G. Atluri, J. Faghmous, M. Steinbach, A. Banerjee, A. Ganguly, S. Shekhar, N. Samatova, and V. Kumar, 2017. Theory-guided data science: A new paradigm for scientific discovery. In IEEE Transactions on Knowledge and Data Engineering.</li>
+        <li>J. H. Faghmous, A. Banerjee, S. Shekhar, M. Steinbach, V. Kumar, A. R. Ganguly, and N. Samatova, 2014. Theory-guided data science for climate change. Computer, 47(11):74–78.</li>
+        <li>J. H. Faghmous and V. Kumar, 2014. A Big Data Guide to Understanding Climate Change: The Case for Theory Guided. Data Science. Big Data.</li>
+    </ol>
     <hr class="major" />
 	<header class="major">
 		<h4>Data Extraction and Integration</h4>
