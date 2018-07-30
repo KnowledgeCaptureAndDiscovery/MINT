@@ -215,13 +215,13 @@ title: Overview
     <h5>Task Leaders</h5>
     <p style="font-size: 0.9em; line-height: 1.3em">
         <strong><a href="https://www.isi.edu/~gil/" target="_blank">
-        Dr. Gil</a></strong> is a Director of Knowledge Technologies and lead the Interactive Knowledge 
-        Capture research group at USC's Information Sciences Institute (ISI). Her research focuses on 
-        intelligent interfaces for knowledge capture, which is a central topic in our projects concerning 
-        knowledge-based planning and problem solving, information analysis and assessment of trust, 
-        semantic annotation tools, agent and software choreography, and community-wide development 
-        of knowledge bases. A recent focus is assisting scientists with intelligent systems that 
-        analyze data, test hypotheses, and make new discoveries.
+        Dr. Gil</a></strong>  is a Director of Knowledge Technologies at USC's Information Sciences Institute (ISI),
+        and a Research Professor in Computer Science and Spatial Sciences. Her research is on intelligent interfaces
+        for knowledge capture and discovery, which she investigates in a variety of projects concerning knowledge-based
+        planning and problem solving, information analysis and assessment of trust, semantic annotation and metadata,
+        and community-wide development of knowledge bases. Dr. Gil collaborates with scientists in different domains
+        on semantic workflows and metadata capture, social knowledge collection, computer-mediated collaboration,
+        and automated discovery.
     </p>
     <h5>References</h5>
     <ol style="font-size: 0.9em; line-height: 1.2em">
