@@ -14,16 +14,21 @@ title: Overview
         </p>
         <p>
             We are developing the Model INTegration (MINT) framework that incorporates extensive
-            knowledge about models and data, with several innovative components: 1) New principle-based
-            ontology generation tools for modeling variables, used to describe models and data;
-            2) A novel workflow system that selects relevant models from a curated registry and
-            uses abductive reasoning to hypothesize new models and data transformation steps;
-            3) A new data discovery and integration framework that finds and categorizes new sources
+            knowledge about models and data, with several innovative components:
+        </p> 
+        <ol>
+            <li>New principle-based
+            ontology generation tools for modeling variables, used to describe models and data;</li>
+            <li>A novel workflow system that selects relevant models from a curated registry and
+            uses abductive reasoning to hypothesize new models and data transformation steps;</li>
+            <li>A new data discovery and integration framework that finds and categorizes new sources
             of data, learns to extract information from both online sources and remote sensing data,
-            and transforms the data into the format required by the models; 4) New knowledge-guided
+            and transforms the data into the format required by the models;</li> 
+            <li> New knowledge-guided
             machine learning algorithms for model parameterization to improve accuracy and estimate
-            uncertainty; 5) A novel framework for multi-modal scalable workflow execution.
-        </p>
+            uncertainty;</li>
+            <li>A novel framework for multi-modal scalable workflow execution.</li>
+        </ol>
         <p>
             We are building on many previously existing tools, including CSDMS, BMI, GSN, WINGS,
             Pegasus, Karma, and GOPHER. Rapid model integration would enable efficient and comprehensive
@@ -38,8 +43,7 @@ title: Overview
                 data and model catalogs as well as data transformation services (shown in the middle).
                 Automated planning is used to support the creation and execution of workflows (shown on
                 the right). Machine learning is used to generate data from remote sensing data sources,
-                to extract data from Web sites and documents, and to optimize model parameter search
-                (shown on the right).
+                to extract data from Web sites and documents, and to optimize model parameter search.
             </figcaption>
         </div>
     </div> 
@@ -64,7 +68,7 @@ title: Overview
 	    GSN also includes standards for assumptions that models make, such as the Navier-Stokes equation for
 	    fluid dynamics.
 	</p>
-	<h5>Task Leaders</h5>
+	<h5>Leads</h5>
     <p style="font-size: 0.9em; line-height: 1.3em">
         <strong><a href="https://instaar.colorado.edu/people/scott-d-peckham/" target="_blank">
         Dr. Peckham</a></strong> is a Senior Research Scientist at INSTAAR at the University of Colorado, Boulder.
@@ -103,7 +107,7 @@ title: Overview
         the specific mechanistic connection between predictor and predicted variable. 
         They can be particularly powerful to predict crop production [3]. 
     </p>
-    <h5>Task Leaders</h5>
+    <h5>Leads</h5>
     <p style="font-size: 0.9em; line-height: 1.3em">
         <strong><a href="http://plantscience.psu.edu/research/labs/kemanian" target="_blank">
         Dr. Kemanian</a></strong> has background in agroecology, systems modeling, and several 
@@ -153,7 +157,7 @@ title: Overview
 	    novel methods for model parameterization, where both physics and data science are used in a synergistic
 	    manner in hybrid-physics-data models.
 	</p>
-    <h5>Task Leaders</h5>
+    <h5>Lead</h5>
     <p style="font-size: 0.9em; line-height: 1.3em">
         <strong><a href="https://www-users.cs.umn.edu/~kumar001/" target="_blank">
         Dr. Kumar</a></strong> is a Regents Professor and holds William Norris Chair in the department
@@ -165,15 +169,15 @@ title: Overview
     </p>
     <h5>References</h5>
     <ol style="font-size: 0.9em; line-height: 1.2em">
-        <li>A. Karpatne, G. Atluri, J. Faghmous, M. Steinbach, A. Banerjee, A. Ganguly, S. Shekhar, N. Samatova, and V. Kumar, 2017. Theory-guided data science: A new paradigm for scientific discovery. In IEEE Transactions on Knowledge and Data Engineering.</li>
+        <li>A. Karpatne, G. Atluri, J. Faghmous, M. Steinbach, A. Banerjee, A. Ganguly, S. Shekhar, N. Samatova, and V. Kumar, 2017. Theory-guided data science: A new paradigm for scientific discovery. In IEEE Transactions on Knowledge and Data Engineering, 29(10).</li>
         <li>J. H. Faghmous, A. Banerjee, S. Shekhar, M. Steinbach, V. Kumar, A. R. Ganguly, and N. Samatova, 2014. Theory-guided data science for climate change. Computer, 47(11):74–78.</li>
-        <li>J. H. Faghmous and V. Kumar, 2014. A Big Data Guide to Understanding Climate Change: The Case for Theory Guided. Data Science. Big Data.</li>
+        <li>J. H. Faghmous and V. Kumar, 2014. A Big Data Guide to Understanding Climate Change: The Case for Theory-Guided Data Science. Big Data, 2(3).</li>
     </ol>
     <hr class="major" />
 	<header class="major">
 		<h4>Data Extraction and Integration</h4>
 	</header>
-    <h5>Task Leaders</h5>
+    <h5>Leads</h5>
     <p style="font-size: 0.9em; line-height: 1.3em">
         <strong><a href="http://usc-isi-i2.github.io/knoblock/" target="_blank">
         Dr. Knoblock</a></strong> is a Research Professor of both Computer Science and Spatial Sciences at
@@ -212,7 +216,7 @@ title: Overview
 	    of each model and add any data conversion steps needed to transform model outputs into the format
 	    required by other models.
 	</p>
-    <h5>Task Leaders</h5>
+    <h5>Lead</h5>
     <p style="font-size: 0.9em; line-height: 1.3em">
         <strong><a href="https://www.isi.edu/~gil/" target="_blank">
         Dr. Gil</a></strong>  is a Director of Knowledge Technologies at USC's Information Sciences Institute (ISI),
@@ -253,7 +257,7 @@ title: Overview
         BMI is easy to implement and yet provides all information needed to deploy a model 
         in multiple model coupling frameworks.
     </p>
-    <h5>Task Leaders</h5>
+    <h5>Leads</h5>
     <p style="font-size: 0.9em; line-height: 1.3em">
         <strong><a href="http://deelman.isi.edu" target="_blank">
         Dr. Deelman</a></strong> is a Research Professor at the USC Computer Science Department 
