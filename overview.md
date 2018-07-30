@@ -191,6 +191,10 @@ title: Overview
 	<header class="major">
 		<h4>Workflow Composition</h4>
 	</header>
+	<figure style="width: 23em">
+      <img src="assets/images/overview/model-composition.png" style="width: 23em"/>
+      <figcaption style="font-size: 0.8em"></figcaption>
+    </figure>
 	<p>
 	    To generate workflows composed of diverse models and the necessary data transformation steps, we use
 	    the <a href="http://www.wings-workflows.org/" target="_blank">WINGS semantic workflow system</a> [1]
