@@ -251,8 +251,23 @@ layout: default
 		<h2>Collaborating Institutions</h2>
 	</header>
 	<div class="team" style="margin-left: 0em">
+	    <institution>
+            <img src="assets/images/institution/usgs.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/utep.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/ku.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/virginia.png"/>
+        </institution>
         <institution>
             <img src="assets/images/institution/tacc.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/unicamp.png"/>
         </institution>
         <institution>
             <img src="assets/images/institution/bgs.png" style="padding-left: 1em"/>
