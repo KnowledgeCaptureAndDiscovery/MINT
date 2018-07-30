@@ -30,8 +30,7 @@ title: Overview
             coupled human and natural system modeling.
         </p>
         <div style="text-align: center">
-            <img src="assets/images/overview/arch1.png" style="width: 40em"/>
-            <img src="assets/images/overview/arch2.png" style="width: 35em; margin-left: 2em"/>
+            <img src="assets/images/overview/architecture.png" style="width: 60em"/>
             <figcaption style="font-size: 0.8em">
                 Overview of our use of artificial intelligence techniques to support model integration,
                 highlighting in grey the components that we have developed to date. Semantic approaches
