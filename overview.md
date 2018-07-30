@@ -223,6 +223,7 @@ title: Overview
     <h5>References</h5>
     <ol style="font-size: 0.9em; line-height: 1.2em">
         <li>Mind Your Metadata: Exploiting Semantics for Configuration, Adaptation, and Provenance in Scientific Workflows. Gil, Y.; Szekely, P.; Villamizar, S.; Harmon, T.; Ratnakar, V.; Gupta, S.; Muslea, M.; Silva, F.; and Knoblock, C. In Proceedings of the Tenth International Semantic Web Conference (ISWC), Bonn, Germany 2011.</li>
+        <li>Gil, Y., Ratnakar, V., Kim, J., Gonzalez-Calero, P., Groth, P., Moody, J. and Deelman, E., 2011. Wings: Intelligent workflow-based design of computational experiments. IEEE Intelligent Systems, 26(1), pp.62-72.</li>
     </ol>
     <hr class="major" />
 	<header class="major">
