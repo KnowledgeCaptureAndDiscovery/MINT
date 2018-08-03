@@ -107,6 +107,19 @@ title: Overview
         the specific mechanistic connection between predictor and predicted variable. 
         They can be particularly powerful to predict crop production [3]. 
     </p>
+    <p>
+        A challenge to integrating economic with biophysical models is a lack of standardized, 
+        portable modeling platforms for the former. For this project, I am developing modular 
+        and reusable economic models of land-use activities and land-use change that can be used 
+        to facilitate efficient bio-economic modeling. Building on microeconomic theory and 
+        established quantitative modeling approaches, I develop modules that represent landowner 
+        decision-making in cropping activities, livestock production, native forest harvesting, 
+        and plantation forest management. These modules are nested within a predictive model of 
+        land-use change based on a comparison of the relative economic rents to land in each 
+        activity. The core models are extensible to include property rights insecurity that 
+        arises from expropriation risk and illegal logging, as well as the effects of migration 
+        on land rents. 
+    </p>
     <h5>Leads</h5>
     <p style="font-size: 0.9em; line-height: 1.3em">
         <strong><a href="http://plantscience.psu.edu/research/labs/kemanian" target="_blank">
