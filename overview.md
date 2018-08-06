@@ -229,6 +229,18 @@ title: Overview
 	    of each model and add any data conversion steps needed to transform model outputs into the format
 	    required by other models.
 	</p>
+	<p>
+	    MINT is developing a model repository with machine-actionable model metadata that can be used to provide 
+	    intelligent assistance to scientists in model selection and reuse. The MINT model catalog extends the 
+	    <a href="http://www.ontosoft.org/" target="_blank">OntoSoft</a> semantic software metadata registry to 
+	    include machine-readable metadata. This work includes: 1) exposing model variables and their relationships; 
+	    2) exposing model processes and how they group and relate to model variables; 3) adopting a standardized 
+	    representation of model variables based on the conventions of the <a href="http://www.geoscienceontology.org/"
+	    target="_blank">Geoscience Standard Names</a> ontology (GSN); 4) capturing the semantic structure of model 
+	    invocation signatures based on functional inputs and outputs and their correspondence to model variables; 
+	    5) associating models with readily reusable workflow fragments for data preparation, model calibration, 
+	    and visualization of results. 
+	</p>
     <h5>Lead</h5>
     <p style="font-size: 0.9em; line-height: 1.3em">
         <strong><a href="https://www.isi.edu/~gil/" target="_blank">
