@@ -49,9 +49,6 @@ title: Overview
     </div> 
     <hr class="major" />
 	<header class="major">
-	    <h2>Tasks Overview</h2>
-	</header>
-	<header class="major">
 		<h4>Ontologies</h4>
 	</header>
 	<p>
