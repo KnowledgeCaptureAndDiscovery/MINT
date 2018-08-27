@@ -177,19 +177,27 @@ layout: default
 			</div>
 		</member>
         <member>
-			<img src="assets/images/team/carvalho.jpg"/>
-			<div class="content">
-				<h3><a href="https://lucasaugustomcc.github.io/" target="_blank">Lucas Augusto Carvalho</a></h3>
-				<p>PhD student in the Institute of Computing at University of Campinas (Unicamp)
-				<br /><i class="label">Workflow Composition</i></p>
-			</div>
-		</member>
-        <member>
 			<img src="assets/images/team/feldman.jpg"/>
 			<div class="content">
 				<h3>Dan Feldman</h3>
 				<p>PhD student in the Computer Science Department at University of Southern California
 				<br /><i class="label green">Data Extraction and Integration</i></p>
+			</div>
+		</member>
+        <member>
+			<img src="assets/images/team/shbita.jpg"/>
+			<div class="content">
+				<h3><a href="https://basels.github.io" target="_blank">Basel Shbita</a></h3>
+				<p>PhD student in the Computer Science Department at University of Southern California
+				<br /><i class="label green">Data Extraction and Integration</i></p>
+			</div>
+		</member>		
+        <member>
+			<img src="assets/images/team/carvalho.jpg"/>
+			<div class="content">
+				<h3><a href="https://lucasaugustomcc.github.io/" target="_blank">Lucas Augusto Carvalho</a></h3>
+				<p>PhD student in the Institute of Computing at University of Campinas (Unicamp)
+				<br /><i class="label">Workflow Composition</i></p>
 			</div>
 		</member>
         <member>
