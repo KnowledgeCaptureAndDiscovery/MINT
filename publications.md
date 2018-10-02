@@ -13,7 +13,8 @@ title: Publications
             Y. Gil, K. Cobourn, E. Deelman, C. Duffy, R. Ferreira da Silva, A. Kemanian, C. Knoblock, V. Kumar,
             S. Peckham, L. Carvalho, Y. Chiang, D. Garijo, D. Khider, A. Khandelwal, M. Pahm, J. Pujara, V. Ratnakar,
             M. Stoica, and B. Vu,
-            <strong>MINT: Model Integration Through Knowledge-Powered Data and Process Composition</strong>, in 9th
+            <strong><a href="https://www.isi.edu/~gil/papers/gil-etal-iemss18.pdf" target="_blank">
+            MINT: Model Integration Through Knowledge-Powered Data and Process Composition</a></strong>, in 9th
             International Congress on Environmental Modelling and Software, 2018.
         </li>
     </ul>
@@ -32,8 +33,9 @@ title: Publications
 
         <li style="margin-bottom: 1em">
             R. Ferreira da Silva, D. Garijo, S. Peckham, Y. Gil, E. Deelman, and V. Ratnakar,
-            <strong>Towards Model Integration via Abductive Workflow Composition and Multi-Method Scalable
-            Model Execution</strong>, in 9th International Congress on Environmental Modelling and Software, 2018.
+            <strong><a href="https://www.isi.edu/~gil/papers/ferreira-etal-iemss18.pdf" target="_blank">
+            Towards Model Integration via Abductive Workflow Composition and Multi-Method Scalable
+            Model Execution</a></strong>, in 9th International Congress on Environmental Modelling and Software, 2018.
         </li>
 
         <li style="margin-bottom: 1em">
