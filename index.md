@@ -89,19 +89,19 @@ layout: default
 			</div>
 		</member>
         <member>
+            <img src="assets/images/team/pierce.jpg"/>
+            <div class="content">
+                <h3><a href="http://www.jsg.utexas.edu/researcher/suzanne_pierce" target="_blank">Suzanne Pierce</a></h3>
+                <p>Research Scientist at Texas Advanced Computing Center
+                <br /><i class="label pink">User Interface</i></p>
+            </div>
+        </member>
+        <member>
 			<img src="assets/images/team/pujara.png"/>
 			<div class="content">
 				<h3><a href="https://www.jaypujara.org" target="_blank">Jay Pujara</a></h3>
 				<p>Research Scientist in the Information Sciences Institute of the University of Southern California
 				<br /><i class="label green">Data Extraction and Integration</i></p>
-			</div>
-		</member>
-        <member>
-			<img src="assets/images/team/rynge.png"/>
-			<div class="content">
-				<h3>Mats Rynge</h3>
-				<p>Computer Scientist in the Information Sciences Institute of the University of Southern California
-				<br /><i class="label yellow">Workflow Execution</i></p>
 			</div>
 		</member>
         <member>
@@ -111,31 +111,15 @@ layout: default
 				<p>Postdoctoral Researcher in the Information Sciences Institute of the University of Southern California
 				<br /><i class="label">Workflow Composition</i></p>
 			</div>
-		</member>    
-        <member>
-			<img src="assets/images/team/karpatne.jpg"/>
-			<div class="content">
-				<h3><a href="https://www-users.cs.umn.edu/~karpa009/" target="_blank">Anuj Karpatne</a></h3>
-				<p>Postdoctoral Associate in the Department of Computer Science and Engineering University of Minnesota – Twin Cities
-				<br /><i class="label red">Model Calibration</i></p>
-			</div>
-		</member> 
+		</member>     
         <member>
 			<img src="assets/images/team/khider.jpg"/>
 			<div class="content">
 				<h3><a href="http://earth.usc.edu/~khider/" target="_blank">Deborah Khider</a></h3>
-				<p>Postdoctoral Researcher in the Earth Science Department at the University of Southern California
+				<p>Data Scientist in the Information Sciences Institute of the University of Southern California
 				<br /><i class="label">Workflow Composition</i></p>
 			</div>
-		</member>
-		<member>
-            <img src="assets/images/team/essawy.jpg"/>
-            <div class="content">
-                <h3>Bakinam Essawy</h3>
-                <p>Postdoctoral Research Associate at University of Virginia
-                <br /><i class="label">Workflow Composition</i></p>
-            </div>
-        </member>    
+		</member>    
 		<member>
 			<img src="assets/images/team/ratnakar.jpg"/>
 			<div class="content">
@@ -150,14 +134,6 @@ layout: default
 				<h3>Maria Stoica</h3>
 				<p>Research Assistant in the Institute of Artic and Alpine Research at University of Colorado Boulder
 				<br /><i class="label purple">Ontologies</i></p>
-			</div>
-		</member>
-        <member>
-			<img src="assets/images/team/steinbach.jpg"/>
-			<div class="content">
-				<h3>Michael Steinbach</h3>
-				<p>Research Associate in the Department of Computer Science and Engineering University of Minnesota – Twin Cities
-				<br /><i class="label red">Model Calibration</i></p>
 			</div>
 		</member>
         <member>
@@ -193,30 +169,6 @@ layout: default
 			</div>
 		</member>		
         <member>
-			<img src="assets/images/team/carvalho.jpg"/>
-			<div class="content">
-				<h3><a href="https://lucasaugustomcc.github.io/" target="_blank">Lucas Augusto Carvalho</a></h3>
-				<p>PhD student in the Institute of Computing at University of Campinas (Unicamp)
-				<br /><i class="label">Workflow Composition</i></p>
-			</div>
-		</member>
-        <member>
-			<img src="assets/images/team/filgueira.jpg"/>
-			<div class="content">
-				<h3><a href="https://www.rosafilgueira.com" target="_blank">Rosa Filgueira</a></h3>
-				<p>Senior Data Scientist at the British Geological Survey
-				<br /><i class="label grey">Collaborator</i></p>
-			</div>
-		</member>
-        <member>
-			<img src="assets/images/team/pierce.jpg"/>
-			<div class="content">
-				<h3><a href="http://www.jsg.utexas.edu/researcher/suzanne_pierce" target="_blank">Suzanne Pierce</a></h3>
-				<p>Research Scientist at Texas Advanced Computing Center
-				<br /><i class="label grey">Collaborator</i></p>
-			</div>
-		</member>
-        <member>
 			<img src="assets/images/team/medeiros.jpg"/>
 			<div class="content">
 				<h3><a href="http://www.ic.unicamp.br/~cmbm/" target="_blank">Claudia Medeiros</a></h3>
@@ -249,6 +201,9 @@ layout: default
         <institution>
             <img src="assets/images/institution/virginia-tech.png" style="height: 3em"/>
         </institution>
+        <institution>
+            <img src="assets/images/institution/tacc.png"/>
+        </institution>
 	</div>
 </section>
 
@@ -272,14 +227,69 @@ layout: default
             <img src="assets/images/institution/virginia.png"/>
         </institution>
         <institution>
-            <img src="assets/images/institution/tacc.png"/>
-        </institution>
-        <institution>
             <img src="assets/images/institution/unicamp.png"/>
         </institution>
         <institution>
             <img src="assets/images/institution/bgs.png" style="padding-left: 1em"/>
         </institution>
+	</div>
+</section>
+
+
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Past Collaborators</h2>
+	</header>
+	<div class="team" style="margin-left: 0em">
+	    <member>
+            <img src="assets/images/team/rynge.png"/>
+            <div class="content">
+                <h3>Mats Rynge</h3>
+                <p>Computer Scientist in the Information Sciences Institute of the University of Southern California
+                <br /><i class="label yellow">Workflow Execution</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/karpatne.jpg"/>
+            <div class="content">
+                <h3><a href="https://www-users.cs.umn.edu/~karpa009/" target="_blank">Anuj Karpatne</a></h3>
+                <p>Postdoctoral Associate in the Department of Computer Science and Engineering University of Minnesota – Twin Cities
+                <br /><i class="label red">Model Calibration</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/essawy.jpg"/>
+            <div class="content">
+                <h3>Bakinam Essawy</h3>
+                <p>Postdoctoral Research Associate at University of Virginia
+                <br /><i class="label">Workflow Composition</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/steinbach.jpg"/>
+            <div class="content">
+                <h3>Michael Steinbach</h3>
+                <p>Research Associate in the Department of Computer Science and Engineering University of Minnesota – Twin Cities
+                <br /><i class="label red">Model Calibration</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/carvalho.jpg"/>
+            <div class="content">
+                <h3><a href="https://lucasaugustomcc.github.io/" target="_blank">Lucas Augusto Carvalho</a></h3>
+                <p>PhD student in the Institute of Computing at University of Campinas (Unicamp)
+                <br /><i class="label">Workflow Composition</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/filgueira.jpg"/>
+            <div class="content">
+                <h3><a href="https://www.rosafilgueira.com" target="_blank">Rosa Filgueira</a></h3>
+                <p>Senior Data Scientist at the British Geological Survey
+                <br /><i class="label grey">Collaborator</i></p>
+            </div>
+        </member>
 	</div>
 </section>
 

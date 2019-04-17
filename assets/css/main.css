@@ -4769,6 +4769,10 @@ button:disabled,
     background-color: rgba(194, 141, 100, 0.75);
 }
 
+.label.pink {
+    background-color: rgba(255, 20, 147, 0.5);
+}
+
 figure {
     float: right;
     margin-top: 1em;
