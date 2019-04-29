@@ -23,7 +23,7 @@ title: Publications
 	<header class="major">
 		<h4>Overall Project Publications</h4>
 	</header>
-    <ol style="font-size: 0.9em; line-height: 1.5em">
+    <ol reversed style="font-size: 0.9em; line-height: 1.5em">
         <li style="margin-bottom: 1em">
             D. Garijo, D. Khider, V. Ratnakar, Y. Gil, E. Deelman, R. Ferreira da Silva, C. Knoblock, 
             Y. Chiang, M. Pham, J. Pujara, B. Vu, D. Feldman, R. Mayani, K. Cobourn, C. Duffy, A. Kemanian, 

@@ -108,7 +108,7 @@ layout: default
 			<img src="assets/images/team/garijo.jpg"/>
 			<div class="content">
 				<h3><a href="http://dgarijo.com" target="_blank">Daniel Garijo</a></h3>
-				<p>Postdoctoral Researcher in the Information Sciences Institute of the University of Southern California
+				<p>Computer Scientist in the Information Sciences Institute of the University of Southern California
 				<br /><i class="label">Workflow Composition</i></p>
 			</div>
 		</member>     
@@ -136,6 +136,22 @@ layout: default
 				<br /><i class="label purple">Ontologies</i></p>
 			</div>
 		</member>
+		<member>
+            <img src="assets/images/team/shu.jpg"/>
+            <div class="content">
+                <h3><a href="http://shulele.github.io/" target="_blank">Lele Shu</a></h3>
+                <p>Postdoctoral Researcher at University of California Davis
+                <br /><i class="label orange">Modeling</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/mayani.jpg"/>
+            <div class="content">
+                <h3>Rajiv Mayani</h3>
+                <p>Research Programmer II in the Information Sciences Institute at University of Southern California
+                <br /><i class="label yellow">Workflow Execution</i></p>
+            </div>
+        </member>
         <member>
 			<img src="assets/images/team/vu.png"/>
 			<div class="content">
