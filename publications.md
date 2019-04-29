@@ -35,6 +35,13 @@ title: Publications
             in ACM 24th International Conference on Intelligent User Interfaces (IUI’19), 2019, p. 111–112. 
         </li>
         <li style="margin-bottom: 1em">
+            M. Stoica and S. D. Peckham, 
+            <strong>The Scientific Variables Ontology: A Blueprint for Custom Manual and Autpmated 
+            Creation and Alignment of Machine-Iterpretable Qualitative and Quanitative Variable Concepts
+            </strong>, 
+            in Modeling the World's Systems Conference, 2019.
+        </li>
+        <li style="margin-bottom: 1em">
             D. Garijo, D. Khider, Y. Gil, L. Carvalho, B. Essawy, S. Pierce, D. H. Lewis, V. Ratnakar,
             S. D. Peckham, C. Duffy, and J. Goodall,
             <strong>A Semantic Model Registry to Support Comparison and Reuse</strong>,
