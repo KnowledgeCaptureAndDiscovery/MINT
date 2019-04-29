@@ -91,7 +91,7 @@ layout: default
         <member>
             <img src="assets/images/team/pierce.jpg"/>
             <div class="content">
-                <h3><a href="http://www.jsg.utexas.edu/researcher/suzanne_pierce" target="_blank">Suzanne Pierce</a></h3>
+                <h3><a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce" target="_blank">Suzanne Pierce</a></h3>
                 <p>Research Scientist at Texas Advanced Computing Center
                 <br /><i class="label pink">User Interface</i></p>
             </div>
