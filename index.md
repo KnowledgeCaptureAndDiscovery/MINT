@@ -97,14 +97,6 @@ layout: default
             </div>
         </member>
         <member>
-			<img src="assets/images/team/pujara.png"/>
-			<div class="content">
-				<h3><a href="https://www.jaypujara.org" target="_blank">Jay Pujara</a></h3>
-				<p>Research Scientist in the Information Sciences Institute of the University of Southern California
-				<br /><i class="label green">Data Extraction and Integration</i></p>
-			</div>
-		</member>
-        <member>
 			<img src="assets/images/team/garijo.jpg"/>
 			<div class="content">
 				<h3><a href="http://dgarijo.com" target="_blank">Daniel Garijo</a></h3>
@@ -126,6 +118,14 @@ layout: default
 				<h3>Varun Ratnakar</h3>
 				<p>Director of Karya and R&D Consultant for the Information Sciences Institute at University of Southern California
 				<br /><i class="label">Workflow Composition</i></p>
+			</div>
+		</member>
+        <member>
+			<img src="assets/images/team/pujara.png"/>
+			<div class="content">
+				<h3><a href="https://www.jaypujara.org" target="_blank">Jay Pujara</a></h3>
+				<p>Research Scientist in the Information Sciences Institute of the University of Southern California
+				<br /><i class="label green">Data Extraction and Integration</i></p>
 			</div>
 		</member>
         <member>
