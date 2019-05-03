@@ -88,6 +88,14 @@ layout: default
 				<br /><i class="label green">Data Extraction and Integration</i></p>
 			</div>
 		</member>
+		<member>
+            <img src="assets/images/team/shi.jpg"/>
+            <div class="content">
+                <h3><a href="https://shiyuning.github.io" target="_blank">Yuning Shi</a></h3>
+                <p>Research Assistant Professor in the Department of Ecosystem Science and Management at Penn State University
+                <br /><i class="label orange">Modeling</i></p>
+            </div>
+        </member>
         <member>
             <img src="assets/images/team/pierce.jpg"/>
             <div class="content">
@@ -132,7 +140,7 @@ layout: default
 			<img src="assets/images/team/stoica.jpg"/>
 			<div class="content">
 				<h3>Maria Stoica</h3>
-				<p>Research Assistant in the Institute of Artic and Alpine Research at University of Colorado Boulder
+				<p>Research Scientist in the Institute of Arctic and Alpine Research at University of Colorado Boulder
 				<br /><i class="label purple">Ontologies</i></p>
 			</div>
 		</member>
@@ -207,7 +215,23 @@ layout: default
 				<p>PhD student in the Computer Science and Engineering Department at University of Minnesota
 				<br /><i class="label red">Model Calibration</i></p>
 			</div>
-		</member>		
+		</member>
+		<member>
+            <img src="assets/images/team/zhang.jpg"/>
+            <div class="content">
+                <h3>Zeya Zhang</h3>
+                <p>PhD student in the Department of Agricultural and Applied Economics at Virginia Tech
+                <br /><i class="label orange">Modeling</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/lin.jpg"/>
+            <div class="content">
+                <h3>Yijun Lin</h3>
+                <p>PhD student in the Computer Science Department at University of Southern California
+                <br /><i class="label green">Data Extraction and Integration</i></p>
+            </div>
+        </member>		
         <member>
 			<img src="assets/images/team/dimitropoulou.jpg"/>
 			<div class="content">
