@@ -169,7 +169,7 @@ layout: default
             </div>
         </member>
         <member>
-			<img src="assets/images/team/vu.png"/>
+			<img src="assets/images/team/vu.jpg"/>
 			<div class="content">
 				<h3>Binh Vu</h3>
 				<p>PhD student in the Computer Science Department at University of Southern California
