@@ -5,8 +5,8 @@ title: MINT Release updates
 
 <section id="overview">
     <header class="major">
-	    <h2>May, 2019<h2>
-        <h4>Model Catalog<h4>
+	    <h2>May, 2019</h2>
+        <h4>Model Catalog</h4>
 	</header>
     
     <ul>
