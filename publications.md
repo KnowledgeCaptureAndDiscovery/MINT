@@ -23,7 +23,7 @@ title: Publications
 	<header class="major">
 		<h4>Overall Project Publications</h4>
 	</header>
-    <ol style="font-size: 0.9em; line-height: 1.5em">
+    <ol reversed style="font-size: 0.9em; line-height: 1.5em">
         <li style="margin-bottom: 1em">
             D. Garijo, D. Khider, V. Ratnakar, Y. Gil, E. Deelman, R. Ferreira da Silva, C. Knoblock, 
             Y. Chiang, M. Pham, J. Pujara, B. Vu, D. Feldman, R. Mayani, K. Cobourn, C. Duffy, A. Kemanian, 
@@ -33,6 +33,13 @@ title: Publications
             An Intelligent Interface for Integrating Climate, Hydrology, Agriculture, and Socioeconomic Models
             </a></strong>,
             in ACM 24th International Conference on Intelligent User Interfaces (IUI’19), 2019, p. 111–112. 
+        </li>
+        <li style="margin-bottom: 1em">
+            M. Stoica and S. D. Peckham, 
+            <strong>The Scientific Variables Ontology: A Blueprint for Custom Manual and Autpmated 
+            Creation and Alignment of Machine-Iterpretable Qualitative and Quanitative Variable Concepts
+            </strong>, 
+            in Modeling the World's Systems Conference, 2019.
         </li>
         <li style="margin-bottom: 1em">
             D. Garijo, D. Khider, Y. Gil, L. Carvalho, B. Essawy, S. Pierce, D. H. Lewis, V. Ratnakar,

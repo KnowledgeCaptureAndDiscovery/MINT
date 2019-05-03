@@ -91,24 +91,16 @@ layout: default
         <member>
             <img src="assets/images/team/pierce.jpg"/>
             <div class="content">
-                <h3><a href="http://www.jsg.utexas.edu/researcher/suzanne_pierce" target="_blank">Suzanne Pierce</a></h3>
+                <h3><a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce" target="_blank">Suzanne Pierce</a></h3>
                 <p>Research Scientist at Texas Advanced Computing Center
                 <br /><i class="label pink">User Interface</i></p>
             </div>
         </member>
         <member>
-			<img src="assets/images/team/pujara.png"/>
-			<div class="content">
-				<h3><a href="https://www.jaypujara.org" target="_blank">Jay Pujara</a></h3>
-				<p>Research Scientist in the Information Sciences Institute of the University of Southern California
-				<br /><i class="label green">Data Extraction and Integration</i></p>
-			</div>
-		</member>
-        <member>
 			<img src="assets/images/team/garijo.jpg"/>
 			<div class="content">
 				<h3><a href="http://dgarijo.com" target="_blank">Daniel Garijo</a></h3>
-				<p>Postdoctoral Researcher in the Information Sciences Institute of the University of Southern California
+				<p>Computer Scientist in the Information Sciences Institute of the University of Southern California
 				<br /><i class="label">Workflow Composition</i></p>
 			</div>
 		</member>     
@@ -129,6 +121,14 @@ layout: default
 			</div>
 		</member>
         <member>
+			<img src="assets/images/team/pujara.png"/>
+			<div class="content">
+				<h3><a href="https://www.jaypujara.org" target="_blank">Jay Pujara</a></h3>
+				<p>Research Scientist in the Information Sciences Institute of the University of Southern California
+				<br /><i class="label green">Data Extraction and Integration</i></p>
+			</div>
+		</member>
+        <member>
 			<img src="assets/images/team/stoica.jpg"/>
 			<div class="content">
 				<h3>Maria Stoica</h3>
@@ -136,6 +136,30 @@ layout: default
 				<br /><i class="label purple">Ontologies</i></p>
 			</div>
 		</member>
+		<member>
+            <img src="assets/images/team/shu.jpg"/>
+            <div class="content">
+                <h3><a href="http://shulele.github.io/" target="_blank">Lele Shu</a></h3>
+                <p>Postdoctoral Researcher at University of California Davis
+                <br /><i class="label orange">Modeling</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/mayani.jpg"/>
+            <div class="content">
+                <h3>Rajiv Mayani</h3>
+                <p>Research Programmer II in the Information Sciences Institute at University of Southern California
+                <br /><i class="label yellow">Workflow Execution</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/osorio.jpg"/>
+            <div class="content">
+                <h3>Maximiliano Osorio</h3>
+                <p>Research Analyst in the Information Sciences Institute at University of Southern California
+                <br /><i class="label">Workflow Composition</i></p>
+            </div>
+        </member>
         <member>
 			<img src="assets/images/team/vu.png"/>
 			<div class="content">
@@ -144,11 +168,19 @@ layout: default
 				<br /><i class="label green">Data Extraction and Integration</i></p>
 			</div>
 		</member>
+		<member>
+            <img src="assets/images/team/pham.jpg"/>
+            <div class="content">
+                <h3>Minh Pham</h3>
+                <p>PhD student in the Computer Science Department at University of Southern California
+                <br /><i class="label green">Data Extraction and Integration</i></p>
+            </div>
+        </member>
         <member>
 			<img src="assets/images/team/khandelwal.jpg"/>
 			<div class="content">
 				<h3>Ankush Khandelwal</h3>
-				<p>PhD student working in the Computer Science and Engineering Department at University of Minnesota
+				<p>PhD student in the Computer Science and Engineering Department at University of Minnesota
 				<br /><i class="label red">Model Calibration</i></p>
 			</div>
 		</member>
@@ -167,15 +199,39 @@ layout: default
 				<p>PhD student in the Computer Science Department at University of Southern California
 				<br /><i class="label green">Data Extraction and Integration</i></p>
 			</div>
+		</member>
+        <member>
+			<img src="assets/images/team/tayal.jpg"/>
+			<div class="content">
+				<h3>Kshitij Tayal</h3>
+				<p>PhD student in the Computer Science and Engineering Department at University of Minnesota
+				<br /><i class="label red">Model Calibration</i></p>
+			</div>
 		</member>		
         <member>
-			<img src="assets/images/team/medeiros.jpg"/>
+			<img src="assets/images/team/dimitropoulou.jpg"/>
 			<div class="content">
-				<h3><a href="http://www.ic.unicamp.br/~cmbm/" target="_blank">Claudia Medeiros</a></h3>
-				<p>Professor in the Institute of Computing at University of Campinas
-				<br /><i class="label grey">Collaborator</i></p>
+				<h3>Lida Dimitropoulou</h3>
+				<p>Project Manager in the Information Sciences Institue at the University of Southern California
+				<br /><i class="label grey">Project Management</i></p>
 			</div>
 		</member>
+		<member>
+            <img src="assets/images/team/henson.jpg"/>
+            <div class="content">
+                <h3>Reilly Henson</h3>
+                <p>Project Manager in the Department of Forest Resources and Environmental Conservation at Virginia Tech
+                <br /><i class="label grey">Project Management</i></p>
+            </div>
+        </member>
+		<member>
+            <img src="assets/images/team/medeiros.jpg"/>
+            <div class="content">
+                <h3><a href="http://www.ic.unicamp.br/~cmbm/" target="_blank">Claudia Medeiros</a></h3>
+                <p>Professor in the Institute of Computing at University of Campinas
+                <br /><i class="label grey">Collaborator</i></p>
+            </div>
+        </member>
     </div>
 </section>
 
