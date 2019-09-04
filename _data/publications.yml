@@ -1,0 +1,54 @@
+- title: "OKG-Soft: An Open Knowledge Graph with Machine Readable Scientific Software Metadata"
+  authors: "D. Garijo, M. Osorio, D. Khider, V. Ratnakar, and Y. Gil"
+  link: "/assets/publications/garijo-etal-escience19.pdf"
+  description: "15th eScience Conference, 2019"
+
+- title: "Incorporating New Concepts into the Scientific Variables Ontology"
+  authors: "Stoica M., and S.D. Peckham"
+  link: "/assets/publications/stoica-peckham_escience19_abstract.pdf"
+  description: "Workshop on Advanced Knowledge Technologies for Science in a FAIR World, 2019"
+
+- title: "The Scientific Variables Ontology: A Blueprint for Custom Manual and Autpmated Creation and Alignment of Machine-Iterpretable Qualitative and Quanitative Variable Concepts"
+  authors: "Stoica M., and S. D. Peckham"
+  link: "/assets/publications/stoica-peckham-cwm19.pdf"
+  description: "Modeling the World's Systems, 2019"
+
+- title: "Parsing, Representing and Transforming Units of Measure"
+  authors: "Shbita B., A. Rajendran, J. Pujara, and C. Knoblock"
+  link: "/assets/publications/shbita-etal-cwm19.pdf"
+  description: "Modeling the World's Systems, 2019"
+
+- title: "An Intelligent Interface for Integrating Climate, Hydrology, Agriculture, and Socioeconomic Models"
+  authors: "D. Garijo, D. Khider, V. Ratnakar, Y. Gil, E. Deelman, R. Ferreira da Silva, C. Knoblock, Y. Chiang, M. Pham, J. Pujara, B. Vu, D. Feldman, R. Mayani, K. Cobourn, C. Duffy, A. Kemanian, L. Shu, V. Kumar, A. Khandelwal, K. Tayal, S. Peckham, M. Stoica, A. Dabrowski, D. Hardesty-Lewis, and S. Pierce"
+  link: "http://dx.doi.org/10.1145/3308557.3308711"
+  description: "ACM 24th International Conference on Intelligent User Interfaces (IUI’19), 2019, p. 111–112"
+
+- title: "The Scientific Variables Ontology: A Blueprint for Custom Manual and Autpmated Creation and Alignment of Machine-Iterpretable Qualitative and Quanitative Variable Concepts"
+  authors: "M. Stoica and S. D. Peckham"
+  link: ""
+  description: "Modeling the World's Systems Conference, 2019"
+
+- title: "A Semantic Model Registry to Support Comparison and Reuse"
+  authors: "D. Garijo, D. Khider, Y. Gil, L. Carvalho, B. Essawy, S. Pierce, D. H. Lewis, V. Ratnakar, S. D. Peckham, C. Duffy, and J. Goodall"
+  link: ""
+  description: "9th International Congress on Environmental Modelling and Software, 2018"
+
+- title: "Towards Model Integration via Abductive Workflow Composition and Multi-Method Scalable Model Execution"
+  authors: "R. Ferreira da Silva, D. Garijo, S. Peckham, Y. Gil, E. Deelman, and V. Ratnakar"
+  link: "https://www.isi.edu/~gil/papers/ferreira-etal-iemss18.pdf"
+  description: "9th International Congress on Environmental Modelling and Software, 2018"
+
+- title: "Principle-based, Semi-automatic Ontology Generation to Support Cross-Domain Interoperability of Data Sets and Models"
+  authors: "S. D. Peckham, and M. Stoica"
+  link: ""
+  description: "9th International Congress on Environmental Modelling and Software, 2018"
+
+- title: "MINT: Model Integration Through Knowledge-Powered Data and Process Composition"
+  authors: "Y. Gil, K. Cobourn, E. Deelman, C. Duffy, R. Ferreira da Silva, A. Kemanian, C. Knoblock, V. Kumar, S. Peckham, L. Carvalho, Y. Chiang, D. Garijo, D. Khider, A. Khandelwal, M. Pahm, J. Pujara, V. Ratnakar, M. Stoica, and B. Vu"
+  link: "https://www.isi.edu/~gil/papers/gil-etal-iemss18.pdf"
+  description: "9th International Congress on Environmental Modelling and Software, 2018"
+
+#- title: ""
+#  authors: ""
+#  link: ""
+#  description: ""

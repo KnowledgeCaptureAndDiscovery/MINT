@@ -1,0 +1,38 @@
+---
+layout: page
+title: Publications
+---
+
+<section id="overview">
+    <header class="major">
+        <h4>MINT Overview Publication</h4>
+    </header>
+
+    <ul style="font-size: 0.9em; line-height: 1.2em">
+        <li>
+            Y. Gil, K. Cobourn, E. Deelman, C. Duffy, R. Ferreira da Silva, A. Kemanian, C. Knoblock, V. Kumar,
+            S. Peckham, L. Carvalho, Y. Chiang, D. Garijo, D. Khider, A. Khandelwal, M. Pahm, J. Pujara, V. Ratnakar,
+            M. Stoica, and B. Vu,
+            <strong><a href="https://www.isi.edu/~gil/papers/gil-etal-iemss18.pdf" target="_blank">
+                MINT: Model Integration Through Knowledge-Powered Data and Process Composition</a></strong>, in 9th
+            International Congress on Environmental Modelling and Software, 2018.
+        </li>
+    </ul>
+
+    <hr class="major"/>
+    <header class="major">
+        <h4>Overall Project Publications</h4>
+    </header>
+    <ol reversed style="font-size: 0.9em; line-height: 1.5em">
+        {% if site.data.publications.size > 0 %}
+        {% for n in site.data.publications %}
+        <li style="margin-bottom: 1em">
+            {{ n.authors }},
+            <strong><a href="{{ n.link }}" target="_blank">{{ n.title }}</a></strong>,
+            in {{ n.description }}.
+        </li>
+        {% endfor %}
+        {% endif %}
+    </ol>
+
+</section>
