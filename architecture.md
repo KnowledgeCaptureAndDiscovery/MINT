@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Architecture
-images-array:
-    - image: assets/images/architecture/legend.svg
-    - image: assets/images/architecture/mint-services.svg
-      alt: <p> Last update 11/06/2019 </p>
 ---
 
-{% for item in page.images-array %}
-  <img class="img-responsive" src="{{ item.image }}" alt="{{ item.alt }}">
-{% endfor %}
-<!--p>Some Text.</p>
+Diagram architecture is available:
+- [PDF format][1]
+- [SVG format][2]
 
-<hr class="major" /-->
+[1]:{{ site.url }}/assets/images/architecture/mint-services.pdf
+[2]:{{ site.url }}/assets/images/architecture/mint-services.svg
+
+Last update: Nov 7, 2019
