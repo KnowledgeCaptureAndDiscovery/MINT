@@ -18,6 +18,12 @@ title: MINT Release updates
 	        	<li> We are releasing the v1 of MINT-GeoViz, an interactive visualization library for large geospatial datasets that follow MINT NetCDF convention. Check out this Github [repo](https://github.com/mintproject/MINT-GeoViz/tree/master) for more details.
 	        	<li> Check out our full [demos](https://drive.google.com/drive/folders/1t9E5HsUOre0CgAevkdRAxgaRQghJ_i2v?usp=sharing) and [notebook examples](https://github.com/mintproject/MINT-GeoViz/tree/master/examples/notebooks) on how to use the library        	</ul>     
         </ul>
+	<h2>October, 2019</h2>
+        <h4>Data Catalog</h4>
+    </header>
+    <ul>
+        <li>Release D-REPR: a library for reading heterogeneous datasets into common representations. Check its <a href="https://github.com/usc-isi-i2/d-repr">GitHub</a> for more information.</li>
+    </ul>
 </section>
 
 <section id="overview">
