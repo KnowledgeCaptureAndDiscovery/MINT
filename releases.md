@@ -5,6 +5,16 @@ title: MINT Release updates
 
 <section id="overview">
     <header class="major">
+	<h2>October, 2019</h2>
+        <h4>Data Catalog</h4>
+    </header>
+    <ul>
+        <li>Release D-REPR: a library for reading heterogeneous datasets into common representations. Check its <a href="https://github.com/usc-isi-i2/d-repr">GitHub</a> for more information.</li>
+    </ul>
+</section>
+
+<section id="overview">
+    <header class="major">
 	    <h2>May, 2019</h2>
         <h4>Model Catalog</h4>
 	</header>
