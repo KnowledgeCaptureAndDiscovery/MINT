@@ -11,7 +11,7 @@ title: MINT Release updates
         <ul>
         <li>Release of MINT NetCDF convention
         	<ul>
-        		<li> We propose a self-describing data format for structured gridded datasets for MINT data catalog and visualization based on the NetCDF and the CF convention. Check <a href="https://github.com/mintproject/MINT-NetCDF-Convention">here</a> for the lastest document. Please open new issues on <a href="https://github.com/mintproject/MINT-NetCDF-Convention/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">GitHub</a> or on <a href="https://docs.google.com/spreadsheets/d/1eT_Z51R4VwVen-qx7XGtNjoHuc2sMlYmmxbi5acumx0/edit#gid=0"> [Google doc]</a> for comments.</li>
+        		<li> We propose a self-describing data format for structured gridded datasets for MINT data catalog and visualization based on the NetCDF and the CF convention. Check <a href="https://github.com/mintproject/MINT-NetCDF-Convention">here</a> for the lastest document. Please open new issues on <a href="https://github.com/mintproject/MINT-NetCDF-Convention/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">GitHub</a> or on <a href="https://docs.google.com/spreadsheets/d/1eT_Z51R4VwVen-qx7XGtNjoHuc2sMlYmmxbi5acumx0/edit#gid=0"> Google doc</a> for comments.</li>
         	</ul>
         </li>
         <li>Release of MINT-GeoViz
