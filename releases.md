@@ -3,7 +3,30 @@ layout: page
 title: MINT Release updates
 ---
 <section id="overview">
-
+    <header class="major">
+        <h2>December, 2019</h2>
+        <h4>MINT Data Catalog</h4>
+    </header>
+        <ul>
+        <li>Release of MINT Data Catalog UI
+        	<ul>
+			<li> It is now possible to browse MINT Data Catalog from a <a href="https://data-catalog.mint.isi.edu/">browser</a></li>
+			<li> You can view API documentation <a href="https://data-catalog.mint.isi.edu/documentation">here</a></li>
+        	</ul>
+        </li>
+	<li>
+		MINT Data Catalog <a href="https://github.com/mintproject/MINT-DataCatalog-Public">Github repository</a>. Specifically, 
+		<ul>
+			<li>Interactive <a href="https://mybinder.org/v2/gh/mintproject/MINT-DataCatalog-Public/master?filepath=%2Fdemo%2Fapi_demo.ipynb">Jupyter notebook</a> that showcases Data Catalog API</li>
+			<li>More information on <a href="https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/docs/resources.md">Resources</a></li>
+			<li>More information on <a href="https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/docs/variables.md">Variables</a></li>
+			<li><a href="https://github.com/mintproject/MINT-DataCatalog-Public/issues">Issue tracker and feature requests</a></li>
+			<li><a href="">Linking</a> variable names to Standard Variable Ontology (SVO)</li>
+			
+		</ul>
+	</li>
+	</ul>		
+		
     <header class="major">
         <h2>November, 2019</h2>
         <h4>MINT NetCDF</h4>
