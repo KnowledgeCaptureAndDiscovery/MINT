@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Public APIs
+title: Public APIs for MINT
 ---
+
+*Last update: Dec 19, 2019*
 
 This document provides links to public MINT APIs and a summary of the documentation and specifications available.
  
@@ -43,7 +45,7 @@ The Ensemble Manager executes a model ensemble for all possible parameters and d
 
 
 
-### Model Catalog
+### MINT Model Catalog
 
 The MINT Model Catalog API provides detailed information about software models and metadata available in the MINT Model Catalog.
 
@@ -77,7 +79,7 @@ We provides the following clients:
 - API specification: [https://api.models.mint.isi.edu/latest/ui/](https://api.models.mint.isi.edu/latest/ui/)
 
 
-### DataCatalog
+### MINT Data Catalog
 
 Provides access to a curated collection of a datasets in the MINT Data Catalog.
 
