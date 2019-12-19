@@ -20,19 +20,19 @@ title: MINT Release updates
 
 #### MINT Model Catalog:
 
-* Release 1.3.0:
+* Release [1.3.0](https://api.models.mint.isi.edu/v1.3.0/ui/):
     *   Update to use [the Software Description Ontology v1.4.0](https://w3id.org/okn/o/sd/1.4.0)    
     *   Add custom SPARQL queries
 
 
 #### Ingestion API:
 
-* Release 1.1.0:
+* Release [1.1.0](https://ingestion.mint.isi.edu/v1.1.0/ui):
     * Gather model ensemble execution results
 
 ### Ensemble Manager API
 
-* Release 1.0.0:
+* Release [1.0.0](https://ensemble.mint.isi.edu/v1/api-docs):
     * Execute models using singularity
     * Include parallelism option in config
     * Adding DELETE request to executionsLocal to delete cache of execution
