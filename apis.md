@@ -3,11 +3,11 @@ layout: page
 title: Public APIs for MINT
 ---
 
-*Last update: Dec 19, 2019*
+*Last updated: 2019-12-19*
 
 This document provides links to public MINT APIs and a summary of the documentation and specifications available.
  
-Each API is evolving, the [release page](http://mint-project.info/releases.html) contains announcements about new versions.
+Each API is evolving, the [release page]({{ '/releases.html' | absolute_url }}) contains announcements about new versions.
 
 Each API is documented as follows:
 - An open API specification

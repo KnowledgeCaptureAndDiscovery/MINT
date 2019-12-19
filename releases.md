@@ -3,6 +3,7 @@ layout: page
 title: MINT Release updates
 ---
 
+*Last updated: 2019-12-19*
 
 ## December, 2019
 
