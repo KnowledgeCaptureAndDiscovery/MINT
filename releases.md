@@ -21,7 +21,7 @@ title: MINT Release updates
 #### MINT Model Catalog:
 
 * Release 1.3.0:
-    *   Update to [The Software Description Ontology v1.4.0](https://w3id.org/okn/o/sd/1.4.0)    
+    *   Update to use [the Software Description Ontology v1.4.0](https://w3id.org/okn/o/sd/1.4.0)    
     *   Add custom SPARQL queries
 
 
