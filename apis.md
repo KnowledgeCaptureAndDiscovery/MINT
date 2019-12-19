@@ -5,7 +5,7 @@ title: Public APIs
 
 This document provides links to public MINT APIs and a summary of the documentation and specifications available.
  
-Each API is evolving, the release page contains announcements about new versions.
+Each API is evolving, the [release page](http://mint-project.info/releases.html) contains announcements about new versions.
 
 Each API is documented as follows:
 - An open API specification
