@@ -5,6 +5,15 @@ title: MINT Release updates
 
 *Last updated: 2019-12-19*
 
+## February, 2020
+
+* Release MINT-UI 4.1.0
+    * Fixing bugs and usability improvements [Release Release 4.1.0 · mintproject/mint-ui-lit](https://github.com/mintproject/mint-ui-lit/releases/tag/4.1.0)
+
+## January, 2020
+* Release MINT-UI 4.0.0
+    * Fixing bugs and usability improvements [Release Release 4.0.0-0 · mintproject/mint-ui-lit](https://github.com/mintproject/mint-ui-lit/releases/tag/4.0.0-0)
+
 ## December, 2019
 
 #### MINT Data Catalog
