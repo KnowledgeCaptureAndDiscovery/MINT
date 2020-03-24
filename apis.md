@@ -1,9 +1,14 @@
 ---
 layout: page
-title: Public APIs for MINT
+title: MINT Products
 ---
 
-*Last updated: 2019-12-19*
+*Last updated: 2020-03-24*
+
+## Data Services
+## Model Services
+## Scientific Variables
+## Remote Sensing
 
 This document provides links to public MINT APIs and a summary of the documentation and specifications available.
  
