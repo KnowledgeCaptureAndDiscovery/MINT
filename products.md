@@ -5,14 +5,32 @@ title: MINT Products
 
 *Last updated: 2020-03-24*
 
+This document provides links to public MINT products (APIs, software, data and services) and a summary of the documentation and specifications available.
+
+Each product is evolving, the [release page]({{ '/releases.html' | absolute_url }}) contains announcements about new versions.
+
+
+## MINT User Interface
+
+MINT assists an analyst to easily use sophisticated simulation models and data in order to explore the role of weather and climate in water on food availability in select regions of the world. 
+
+Relevant pointers: 
+
+ * The MINT Portal can be accessed in the following URL:  [https://mint.isi.edu/](https://mint.isi.edu/)
+ * Documentation page: [https://mintproject.readthedocs.io/en/latest/](https://mintproject.readthedocs.io/en/latest/)
+ * The MINT Training Document that introduces visually the main components of the MINT user interface is available [here](https://drive.google.com/file/d/12nx2MkZuZUzKj2pP0ZRz8u3j7_vVfND2/view). 
+ * A video with a walkthrough of the MINT user interface is available [here](https://drive.google.com/file/d/1FENjOdCkbES_Cc8s74tKUrJSEvQXs1zv/view)
+
 ## Data Services
+
 ## Model Services
+
+## Execution Management Services
+
 ## Scientific Variables
+
 ## Remote Sensing
 
-This document provides links to public MINT APIs and a summary of the documentation and specifications available.
- 
-Each API is evolving, the [release page]({{ '/releases.html' | absolute_url }}) contains announcements about new versions.
 
 Each API is documented as follows:
 - An open API specification
