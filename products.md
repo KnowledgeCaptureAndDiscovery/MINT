@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MINT Products
+title: MINT Services and Software
 ---
 
 *Last updated: 2020-03-24*
