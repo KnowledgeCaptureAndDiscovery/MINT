@@ -3,6 +3,11 @@
   link: "/assets/publications/garijo-etal-escience19.pdf"
   description: "15th eScience Conference, 2019"
 
+- title: "Creating a FAIR Data Catalog to Support Scientific Modeling"
+  authors: "Shbita B., B. Vu, D. Feldman, M. Pham, A. Rajendran, C. Knoblock, J. Pujara, and Y. Chiang"
+  link: "/assets/publications/shbita-etal-escience19.pdf"
+  description: "Workshop on Advanced Knowledge Technologies for Science in a FAIR World, 2019"
+
 - title: "Incorporating New Concepts into the Scientific Variables Ontology"
   authors: "Stoica M., and S.D. Peckham"
   link: "/assets/publications/stoica-peckham_escience19_abstract.pdf"
