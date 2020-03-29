@@ -27,5 +27,3 @@ phone:
 
 # Build settings
 markdown: kramdown
-
-theme: jekyll-theme-slate
