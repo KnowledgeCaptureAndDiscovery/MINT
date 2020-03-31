@@ -52,6 +52,11 @@
   authors: "Y. Gil, K. Cobourn, E. Deelman, C. Duffy, R. Ferreira da Silva, A. Kemanian, C. Knoblock, V. Kumar, S. Peckham, L. Carvalho, Y. Chiang, D. Garijo, D. Khider, A. Khandelwal, M. Pahm, J. Pujara, V. Ratnakar, M. Stoica, and B. Vu"
   link: "https://www.isi.edu/~gil/papers/gil-etal-iemss18.pdf"
   description: "9th International Congress on Environmental Modelling and Software, 2018"
+  
+- title: "Learning Data Transformations with Minimal User Effort"
+  authors: "M. Pham, C. Knoblock, and J. Pujara"
+  link: "https://ieeexplore.ieee.org/document/9006350"
+  description: "IEEE International Conference on Big Data, 2019"
 
 #- title: ""
 #  authors: ""
