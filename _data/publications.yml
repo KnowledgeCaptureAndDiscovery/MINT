@@ -57,6 +57,11 @@
   authors: "M. Pham, C. Knoblock, and J. Pujara"
   link: "https://ieeexplore.ieee.org/document/9006350"
   description: "IEEE International Conference on Big Data, 2019"
+  
+- title: "D-REPR: A Language for Describing and Mapping Diversely-Structured Data Sources to RDF"
+  authors: "B. Vu, C. Knoblock, and J. Pujara"
+  link: "https://dl.acm.org/doi/10.1145/3360901.3364449"
+  description: "K-CAP '19: Proceedings of the 10th International Conference on Knowledge Capture"
 
 #- title: ""
 #  authors: ""
