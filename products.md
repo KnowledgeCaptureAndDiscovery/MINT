@@ -54,7 +54,7 @@ The MINT Model Catalog provides detailed information about software models and m
 
 The models in the Model Catalog are executable through the [Desktop Application for Model Execution (DAME)](https://model-catalog-python-api-client.readthedocs.io/en/latest/example/). 
 
-#### Relevant Pointers:
+### Relevant Pointers:
 
 - Code: [https://github.com/mintproject/model-catalog-api](https://github.com/mintproject/model-catalog-api)
 - GUI for exploring the contents of the model catalog: [https://models.mint.isi.edu/home](https://models.mint.isi.edu/home). [(See a video of the main features)](https://www.youtube.com/watch?v=C9rxGT2k9is)
@@ -88,7 +88,7 @@ The current supported transformations contains:
 
 To make the transformation adapters work with datasets in different formats and layouts (e.g., CSV, NetCDF, Spreadsheet), we developed a library named D-REPR that reads the datasets into a common data representation. We choose to represent the data in RDF. Given a D-REPR model of a dataset, the D-REPR library can either virtually map the data to RDF or material the data. The library and its documentation is available [here](https://github.com/usc-isi-i2/d-repr)
 
-#### Relevant Pointers
+### Relevant Pointers
 
 - Code: [https://github.com/mintproject/MINT-Transformation](https://github.com/mintproject/MINT-Transformation)
 - Portal [https://data-trans.mint.isi.edu/](https://data-trans.mint.isi.edu/)
