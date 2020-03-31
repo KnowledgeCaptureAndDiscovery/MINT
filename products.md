@@ -3,7 +3,7 @@ layout: page
 title: MINT Services and Software
 ---
 
-*Last updated: 2020-03-24*
+*Last updated: 2020-03-31*
 
 This document provides links to public MINT products (APIs, software, data and services) and a summary of the documentation and specifications available.
 
@@ -91,8 +91,17 @@ To make the transformation adapters work with datasets in different formats and 
 ### Relevant Pointers
 
 - Code: [https://github.com/mintproject/MINT-Transformation](https://github.com/mintproject/MINT-Transformation)
-- Portal [https://data-trans.mint.isi.edu/](https://data-trans.mint.isi.edu/)
+- Portal: [https://data-trans.mint.isi.edu/](https://data-trans.mint.isi.edu/)
 - Demo: [https://drive.google.com/file/d/1YCPCV2dVbkju_haY8Gj9YxTUpADyMKhT/view](https://drive.google.com/file/d/1YCPCV2dVbkju_haY8Gj9YxTUpADyMKhT/view)
+
+### Identifying and Transforming Units of Measurement in Scientific Data
+
+The library, called CCUT, uses grammar tools to automatically parse the different components in a unit found in textual data and map them to elements of a standard ontology called QUDT to form a structured semantic output. The output depicts the different relationships, attributes and semantics of units and allows users to have a better understanding of their data. The system also enables data transformations such as unit conversions.
+
+### Relevant Pointers
+
+- Code: [https://github.com/basels/ccut](https://github.com/basels/ccut)
+- Python Package: [https://pypi.org/project/ccut/](https://pypi.org/project/ccut/)
 
 ## Execution Management Services
 
