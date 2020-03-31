@@ -73,7 +73,16 @@ The MINT [Model Catalog API](https://api.models.mint.isi.edu/latest/ui/) support
   - For example: get the description of the model [Topoflow](https://dev.mint.isi.edu/south_sudan/models/explore/TOPOFLOW/topoflow_3.5/topoflow_cfg_simple/topoflow_cfg_simple_Guder)
 - Create, updates and deletes resources on the Model Catalog.
     - For example: Create a new model, delete or update an existing model.
-   
+    
+## Transformation Services
+The MINT Data Transformation System [https://data-trans.mint.isi.edu/] provides a list of supported transformations that can be used to transform datasets into different formats, which may be required by different models.
+
+The main idea of the transformation system is that we use smaller components (we refer to them as *adapters*) which we ’concatenate’ to form a transformation flow (a *pipeline*). This modular design allows us to reuse existing modules and wrap ready-scripts to create a language-and-format-independent module and pipeline.
+
+The current supported transformations contains:
+- Spatial Transformations: cropping, regirdding, resampling, etc.
+- Model-specific Transformations: PIHM, Cycles, Econ, etc.
+- General Transformations: joining, filtering, merging, etc.
 
 ## Execution Management Services
 
