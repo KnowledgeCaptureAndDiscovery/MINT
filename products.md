@@ -38,6 +38,10 @@ The MINT [Data Catalog API](https://data-catalog.mint.isi.edu/documentation) per
 - Metadata about the dataset, standard variable names, and files.
 - Full-text search of a dataset.
 - Search datasets by name, id, or standard variable names.
+- [Demo](https://drive.google.com/open?id=1gpqJK0o2ewOIvOtAFi6GR8MnB7BjQTN8) of registering a dataset using API
+- [Demo](https://drive.google.com/open?id=1WQElosizMbStCVsRdMXPSsNtHSHKgNXq) of fetching for a dataset using API
+- [Python notebook](https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/demo/api_demo.ipynb) of registering a dataset using API
+- [Python notebook](https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/demo/CHIRPS_browse.ipynb) of searching for a dataset using API
 
 Upcoming and planned new features include:
 
