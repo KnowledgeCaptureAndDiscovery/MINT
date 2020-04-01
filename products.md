@@ -133,10 +133,13 @@ The Ensemble Manager executes a model ensemble for all possible parameters and d
 - API specification [https://ensemble.mint.isi.edu/latest/api-docs](https://ensemble.mint.isi.edu/latest/api-docs)
 
 ## Scientific Variables
-[Section to be completed]
+
+The Scientific Variables Ontology Framework is a methodology for uniformly representing scientific variables. The required elements are an upper ontology consisting of a set of domain-independent categories and a set of design patterns for modular creation of complex variable representations. The customizable lower ontology can be populated with any collection of variables as necessitated by an application.
 
 #### Relevant Pointers
-- SVO Ontology: [http://www.geoscienceontology.org/svo/](http://www.geoscienceontology.org/svo/)
+- General SVO Website: [http://www.geoscienceontology.org/](http://www.geoscienceontology.org/)
+- SVO Documentation: [http://www.geoscienceontology.org/svo/](http://www.geoscienceontology.org/svo/)
+- Publicly available SVO code: [https://github.com/mariutzica/ScientificVariablesOntology](https://github.com/mariutzica/ScientificVariablesOntology)
 
 
 ## Remote Sensing
