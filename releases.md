@@ -10,7 +10,7 @@ title: MINT Release updates
 * Release MINT-UI 4.3.4
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.3.4)
     * Users can run their ModelConfigurations
-* Release [DAME 3.2.1](https://mint-cli.readthedocs.io/en/latest/) (Desktop Application for Model Execution).
+* Release [DAME 3.3.0](https://dame-cli.readthedocs.io/en/latest/) (Desktop Application for Model Execution).
     * Execute models from MINT on Desktop/Server
 * Release ModelCatalog v1.4.0
     * Users can insert their ModelConfigurations
