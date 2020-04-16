@@ -38,4 +38,4 @@ There are two ways of interacting with it:
 
 ## Transformation Services
 
-A tutorial video of the MINT transformation system is available [here](https://drive.google.com/file/d/1YCPCV2dVbkju_haY8Gj9YxTUpADyMKhT/view)
+A demo video of the MINT transformation system is available [here](https://drive.google.com/file/d/1YCPCV2dVbkju_haY8Gj9YxTUpADyMKhT/view)
