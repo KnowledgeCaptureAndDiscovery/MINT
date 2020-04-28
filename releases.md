@@ -3,7 +3,18 @@ layout: page
 title: MINT Release updates
 ---
 
-*Last updated: 2020-04-01*
+*Last updated: 2020-04-28*
+
+## April, 2020
+* Release DAME 4.1.3
+  * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/4.1.3)
+  * Additional testing and bug fixes (Testing in OSX and Unix). DAME will ask for missing parameters and inputs, using defaults when provided.
+  * Improvements to messages and logging in the UI. Now the singularity commands, inputs and Docker images are displayed, in case users want to execute models with their own means.
+  * Improved documentation and examples
+* Release MIC 0.2.0
+  * Users can define and insert new models and model configurations.
+  * Users can define input/outputs/parameters of model configurations.
+  * First [release of mic documentation](https://mic-cli.readthedocs.io/en/latest/)
 
 ## March, 2020
 
