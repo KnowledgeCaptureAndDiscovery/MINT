@@ -20,7 +20,7 @@ title: MINT Release updates
   * Release predefined pipelines in form of configuration files for
     * Model-specific transformations: Topoflow
     * Spatial transformations: Cropping
-  * [Instructions] (https://github.com/mintproject/MINT-Transformation)
+  * [Instructions](https://github.com/mintproject/MINT-Transformation)
   
 
 ## March, 2020
