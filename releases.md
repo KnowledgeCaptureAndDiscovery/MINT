@@ -15,6 +15,13 @@ title: MINT Release updates
   * Users can define and insert new models and model configurations.
   * Users can define input/outputs/parameters of model configurations.
   * First [release of mic documentation](https://mic-cli.readthedocs.io/en/latest/)
+* Release MINT-Transformation system
+  * Users can run the transformation pipeline through CLI, web service or Docker.
+  * Release predefined pipelines in form of configuration files for
+    * Model-specific transformations: Topoflow
+    * Spatial transformations: Cropping
+  * [Instructions] (https://github.com/mintproject/MINT-Transformation)
+  
 
 ## March, 2020
 
