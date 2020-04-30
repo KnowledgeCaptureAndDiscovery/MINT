@@ -12,6 +12,7 @@ title: MINT Release updates
   * Improvements to messages and logging in the UI. Now the singularity commands, inputs and Docker images are displayed, in case users want to execute models with their own means.
   * Improved documentation and examples
 * Release MIC 0.2.0
+  * [Code](https://github.com/mintproject/mic/releases/tag/0.2.0)
   * Users can define and insert new models and model configurations.
   * Users can define input/outputs/parameters of model configurations.
   * First [release of mic documentation](https://mic-cli.readthedocs.io/en/latest/)
