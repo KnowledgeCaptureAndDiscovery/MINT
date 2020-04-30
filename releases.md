@@ -24,7 +24,7 @@ title: MINT Release updates
 * Release [MINT-Data-Sync](https://github.com/mintproject/MINT-Data-Sync) system
   * Monitor when new GLDAS data files become available, upload them to MINT Data Server, and register them in MINT Data Catalog
  
-* Release riverwidthEO version 1.0
+* Release [riverwidthEO version 1.0](https://github.com/mintproject/riverwidthEO)
   * process river segments using machine learning algorithms and satellite imagery (Sentinel-2) to create surface area timeseries.
   * uses descarteslabs API to download data for any given segment.
   * provides user with options to provide points on a river as input or just provide a region or country to select predefined points on the river. These predefined points are available for rivers (>100 meters in width) across the globe. 
