@@ -25,12 +25,12 @@ title: MINT Release updates
   * Monitor when new GLDAS data files become available, upload them to MINT Data Server, and register them in MINT Data Catalog
   
 * Release riverwidthEO version 1.0
-  * process river segments to create surface area timeseries using Sentinel-2 imagery.
+  * process river segments using machine learning algorithms and satellite imagery (Sentinel-2) to create surface area timeseries.
   * uses descarteslabs API to download data for any given segment.
   * provides user with options to provide points on a river as input or just provide a region or country to select predefined points on the river. These predefined points are available for rivers (>100 meters in width) across the globe. 
 
 * Release River Segment Surface Area Dataset version 1.0 for Ethiopia
-  * provides surface area timeseries of ~10,000 river segments covering all of Ethiopia.
+  * process ~10,000 river segments (covering all of Ethiopia) using machine learning algorithms and satellite imagery to create surface area timeseries.
   * uses Sentinel-2 imagery from available from Dec-2015 till Mar-2020. 
   * a csv for each river segment will be available for download from the data catalog. 
  
