@@ -21,6 +21,8 @@ title: MINT Release updates
   * Release predefined pipelines in form of configuration files for
     * Model-specific transformations: Topoflow
     * Spatial transformations: Cropping
+* Release [MINT-Data-Sync](https://github.com/mintproject/MINT-Data-Sync) system
+  * Monitor when new GLDAS data files become available, upload them to MINT Data Server, and register them in MINT Data Catalog 
 
 ## March, 2020
 
