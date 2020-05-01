@@ -20,8 +20,8 @@ title: MINT Release updates
   * Users can run the transformation pipeline through CLI, web service or Docker.
     * [Instructions](https://github.com/mintproject/MINT-Transformation)
   * Release predefined pipelines in form of configuration files for
-    * Model-specific transformations: Topoflow
-    * Spatial transformations: Cropping
+    * Model-specific transformations: [Topoflow](https://github.com/mintproject/MINT-Transformation/blob/master/examples/topoflow4/topoflow_climate.yml)
+    * Spatial transformations: [Cropping](https://github.com/mintproject/MINT-Transformation/blob/master/examples/cropping_weather_dataset.yml)
 * Release [MINT-Data-Sync](https://github.com/mintproject/MINT-Data-Sync) system
   * Monitor when new GLDAS data files become available, upload them to MINT Data Server, and register them in MINT Data Catalog
  
