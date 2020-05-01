@@ -62,7 +62,7 @@ New model descriptions can be added to the model catalog through the the [model 
 
 ### Relevant Pointers:
 
-- Model catalog API for adding/modifying/deleting model metadata: [[REST API](https://api.models.mint.isi.edu/latest)] [[Code](https://github.com/mintproject/model-catalog-api)] [[Documentation]([https://model-catalog-python-api-client.readthedocs.io/en/latest/endpoints/)] [[Releases](https://github.com/mintproject/model-catalog-api/releases)]
+- Model catalog API for adding/modifying/deleting model metadata: [[REST API](https://api.models.mint.isi.edu/latest)] [[Code](https://github.com/mintproject/model-catalog-api)] [[Documentation](https://model-catalog-python-api-client.readthedocs.io/en/latest/endpoints/)] [[Releases](https://github.com/mintproject/model-catalog-api/releases)]
 - GUI for exploring the contents of the model catalog: [[Application (GUI)](https://models.mint.isi.edu/home)] [[Video of the main features](https://www.youtube.com/watch?v=C9rxGT2k9is)]
 - [Requires log in] GUI for configuring and editing models: [[Application](https://mint.isi.edu/ethiopia/models/configure)] [[Code](https://github.com/mintproject/mint-ui-lit)] [[Releases](https://github.com/mintproject/mint-ui-lit/releases)]
 - Model services API client and examples: [[Code](https://github.com/mintproject/model-catalog-python-api-client/)] [[Documentation](https://model-catalog-python-api-client.readthedocs.io/en/latest/)] [[Releases](https://github.com/mintproject/model-catalog-python-api-client/releases)]
