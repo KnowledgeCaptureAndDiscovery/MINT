@@ -5,14 +5,17 @@ title: Demos and Videos
 
 ## MINT User Interface
 
-The MINT QuickStart User Guide that gives an introduction and overview of the capabilities of MINT is available [here](https://youtu.be/g3wVmqIC6Kc).
+The MINT QuickStart User Guide that gives an introduction and overview of the capabilities of MINT.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g3wVmqIC6Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 MINT Portal is available [here](http://mint.isi.edu/) (requires login)
 
 ## Model Services
 
-A video of the GUI for exploring available models and their metadata is available [here](https://www.youtube.com/embed/C9rxGT2k9is)
+A video of the GUI for exploring available models and their metadata.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0vs2kIMtp3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 MINT model catalog is available [here](https://models.mint.isi.edu/)
 
@@ -31,15 +34,27 @@ There are two ways of interacting with it:
 
  The MINT [Data Catalog Portal](https://data-catalog.mint.isi.edu) provides a way of interacting with the catalog in a browser. Some of the available features are showcased in the following demo video:
 
-  - [Demo](https://youtu.be/i5UVhn0kD5c) of browsing MINT Data Catalog
+  - [Demo] Browsing MINT Data Catalog
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/i5UVhn0kD5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Data Catalog API
 
 The MINT [Data Catalog API](https://data-catalog.mint.isi.edu/documentation) provides a programmatic way of interacting with the datasets. Some of this functionality is showcased in the following demo videos:
 
-  - [Demo](https://youtu.be/9ER74oVgkv0) of registering a dataset using API
-  - [Demo](https://youtu.be/DIKU-4k5mKs) of fetching for a dataset using API
+  - [Demo] Registering a dataset using API
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ER74oVgkv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+  - [Demo] Fetching for a dataset using API
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DIKU-4k5mKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Transformation Services
 
-A demo video of the MINT transformation system is available [here](https://youtu.be/tENwysxt3xI)
+A demo video of the MINT transformation system.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tENwysxt3xI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
