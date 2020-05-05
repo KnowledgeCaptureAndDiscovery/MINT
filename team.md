@@ -137,14 +137,6 @@ title: The MINT Team
 				<br /><i class="label green">Data Extraction and Integration</i></p>
 			</div>
 		</member>
-        <member>
-			<img src="assets/images/team/stoica.jpg"/>
-			<div class="content">
-				<h3>Maria Stoica</h3>
-				<p>Research Scientist in the Institute of Arctic and Alpine Research at University of Colorado Boulder
-				<br /><i class="label purple">Ontologies</i></p>
-			</div>
-		</member>
 		<member>
             <img src="assets/images/team/shu.jpg"/>
             <div class="content">
@@ -158,7 +150,7 @@ title: The MINT Team
             <div class="content">
                 <h3>Rajiv Mayani</h3>
                 <p>Research Programmer II in the Information Sciences Institute at University of Southern California
-                <br /><i class="label yellow">Workflow Execution</i></p>
+                <br /><i class="label blue">Workflow Execution</i></p>
             </div>
         </member>
         <member>
@@ -166,9 +158,33 @@ title: The MINT Team
             <div class="content">
                 <h3>Maximiliano Osorio</h3>
                 <p>Research Analyst in the Information Sciences Institute at University of Southern California
-                <br /><i class="label">Workflow Composition</i></p>
+                <br /><i class="label yellow">Backend and services</i></p>
             </div>
         </member>
+        <member>
+            <img src="assets/images/team/vargas.jpg"/>
+            <div class="content">
+                <h3>Hernan Vargas</h3>
+                <p>Consultant for the Information Sciences Institute at University of Southern California
+                <br /><i class="label pink">User Interface</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/default.jpg"/>
+            <div class="content">
+                <h3>Daniel Hardesty-Lewis</h3>
+                <p> Research Engineering Scientist Associate I at Texas Advanced Computing Center
+                <br /><i class="label blue">Workflow Execution</i></p>
+            </div>
+        </member>
+        <member>
+			<img src="assets/images/team/stoica.jpg"/>
+			<div class="content">
+				<h3>Maria Stoica</h3>
+				<p>Research Scientist in the Institute of Arctic and Alpine Research at University of Colorado Boulder
+				<br /><i class="label purple">Ontologies</i></p>
+			</div>
+		</member>
         <member>
 			<img src="assets/images/team/vu.jpg"/>
 			<div class="content">
@@ -217,6 +233,22 @@ title: The MINT Team
 				<br /><i class="label red">Model Calibration</i></p>
 			</div>
 		</member>
+        <member>
+			<img src="assets/images/team/default.jpg"/>
+			<div class="content">
+				<h3>Shaoming Xu</h3>
+				<p>PhD student in the Computer Science and Engineering Department at University of Minnesota
+				<br /><i class="label red">Model Calibration</i></p>
+			</div>
+		</member>
+		<member>
+            <img src="assets/images/team/default.jpg"/>
+            <div class="content">
+                <h3><a href="https://shiyuning.github.io" target="_blank">Lorne Leonard</a></h3>
+                <p>Research Assistant Professor, Institutes of Energy and the Environment at Penn State University
+                <br /><i class="label orange">Modeling</i></p>
+            </div>
+        </member>	
 		<member>
             <img src="assets/images/team/zhang.jpg"/>
             <div class="content">
@@ -232,7 +264,15 @@ title: The MINT Team
                 <p>PhD student in the Computer Science Department at University of Southern California
                 <br /><i class="label green">Data Extraction and Integration</i></p>
             </div>
-        </member>		
+        </member>	
+        <member>
+            <img src="assets/images/team/default.jpg"/>
+            <div class="content">
+                <h3>Hayley Song</h3>
+                <p>PhD student in the Computer Science Department at University of Southern California
+                <br /><i class="label green">Data Extraction and Integration</i></p>
+            </div>
+        </member>			
         <member>
 			<img src="assets/images/team/dimitropoulou.jpg"/>
 			<div class="content">
@@ -259,121 +299,6 @@ title: The MINT Team
         </member>
     </div>
 </section>
-
-
-<!-- Section -->
-<section>
-	<header class="major">
-		<h2>Partner Institutions</h2>
-	</header>
-	<div class="team" style="margin-left: 0em">
-	    <institution>
-            <img src="assets/images/institution/usc-isi.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/pennstate.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/ucolorado-boulder.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/minnesota.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/virginia-tech.png" style="height: 3em"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/tacc.png"/>
-        </institution>
-	</div>
-</section>
-
-
-<!-- Section -->
-<section>
-	<header class="major">
-		<h2>Collaborating Institutions</h2>
-	</header>
-	<div class="team" style="margin-left: 0em">
-	    <institution>
-            <img src="assets/images/institution/usgs.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/utep.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/ku.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/virginia.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/unicamp.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/bgs.png" style="padding-left: 1em"/>
-        </institution>
-	</div>
-</section>
-
-
-<!-- Section -->
-<section>
-	<header class="major">
-		<h2>Past Collaborators</h2>
-	</header>
-	<div class="team" style="margin-left: 0em">
-	    <member>
-            <img src="assets/images/team/rynge.png"/>
-            <div class="content">
-                <h3>Mats Rynge</h3>
-                <p>Computer Scientist in the Information Sciences Institute of the University of Southern California
-                <br /><i class="label yellow">Workflow Execution</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/karpatne.jpg"/>
-            <div class="content">
-                <h3><a href="https://www-users.cs.umn.edu/~karpa009/" target="_blank">Anuj Karpatne</a></h3>
-                <p>Postdoctoral Associate in the Department of Computer Science and Engineering University of Minnesota – Twin Cities
-                <br /><i class="label red">Model Calibration</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/essawy.jpg"/>
-            <div class="content">
-                <h3>Bakinam Essawy</h3>
-                <p>Postdoctoral Research Associate at University of Virginia
-                <br /><i class="label">Workflow Composition</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/steinbach.jpg"/>
-            <div class="content">
-                <h3>Michael Steinbach</h3>
-                <p>Research Associate in the Department of Computer Science and Engineering University of Minnesota – Twin Cities
-                <br /><i class="label red">Model Calibration</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/carvalho.jpg"/>
-            <div class="content">
-                <h3><a href="https://lucasaugustomcc.github.io/" target="_blank">Lucas Augusto Carvalho</a></h3>
-                <p>PhD student in the Institute of Computing at University of Campinas (Unicamp)
-                <br /><i class="label">Workflow Composition</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/filgueira.jpg"/>
-            <div class="content">
-                <h3><a href="https://www.rosafilgueira.com" target="_blank">Rosa Filgueira</a></h3>
-                <p>Senior Data Scientist at the British Geological Survey
-                <br /><i class="label grey">Collaborator</i></p>
-            </div>
-        </member>
-	</div>
-</section>
-
 
 <!-- Section -->
 <section>
