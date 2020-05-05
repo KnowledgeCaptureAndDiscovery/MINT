@@ -56,9 +56,9 @@ Upcoming and planned new features include:
 
 The MINT Model Catalog provides detailed information about software models and metadata available in MINT. See an overview on the following [link](https://mintproject.readthedocs.io/en/latest/modelcatalog/).
 
-The models in the Model Catalog are executable through the [Desktop Application for Model Execution (DAME)](https://model-catalog-python-api-client.readthedocs.io/en/latest/example/). 
+The models in the MINT Model Catalog are executable through the [Desktop Application for Model Execution (DAME)](https://model-catalog-python-api-client.readthedocs.io/en/latest/example/). 
 
-New model descriptions can be added to the model catalog through the the [model insertion checker wizard](https://mic-cli.readthedocs.io/en/latest/).
+New model descriptions can be added to the MINT Model Catalog through the the [model insertion checker wizard](https://mic-cli.readthedocs.io/en/latest/).
 
 ### Relevant Pointers:
 
