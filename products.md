@@ -19,7 +19,7 @@ MINT assists an analyst to easily use sophisticated simulation models and data i
  * The MINT Portal can be accessed in the following URL:  [https://mint.isi.edu/](https://mint.isi.edu/)
  * Documentation page: [https://mintproject.readthedocs.io/en/latest/](https://mintproject.readthedocs.io/en/latest/)
  * The MINT training document introduces visually the main components of the MINT user interface and is available [here](https://drive.google.com/file/d/12nx2MkZuZUzKj2pP0ZRz8u3j7_vVfND2/view). 
- * A video with a walkthrough of the MINT user interface is available [here](https://drive.google.com/file/d/1FENjOdCkbES_Cc8s74tKUrJSEvQXs1zv/view)
+ * A video with a walkthrough of the MINT user interface is available [here](https://youtu.be/g3wVmqIC6Kc)
 
 
 ## Data Services
@@ -38,8 +38,8 @@ The MINT [Data Catalog API](https://data-catalog.mint.isi.edu/documentation) per
 - Metadata about the dataset, standard variable names, and files.
 - Full-text search of a dataset.
 - Search datasets by name, id, or standard variable names.
-- [Demo](https://drive.google.com/open?id=1gpqJK0o2ewOIvOtAFi6GR8MnB7BjQTN8) of registering a dataset using API
-- [Demo](https://drive.google.com/open?id=1WQElosizMbStCVsRdMXPSsNtHSHKgNXq) of fetching for a dataset using API
+- [Demo](https://youtu.be/9ER74oVgkv0) of registering a dataset using API
+- [Demo](https://youtu.be/DIKU-4k5mKs) of fetching for a dataset using API
 - [Python notebook](https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/demo/api_demo.ipynb) of registering a dataset using API
 - [Python notebook](https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/demo/CHIRPS_browse.ipynb) of searching for a dataset using API
 
@@ -95,7 +95,7 @@ To make the transformation adapters work with datasets in different formats and 
 
 - Code: [https://github.com/mintproject/MINT-Transformation](https://github.com/mintproject/MINT-Transformation)
 - Portal: [https://data-trans.mint.isi.edu/](https://data-trans.mint.isi.edu/)
-- Demo: [https://drive.google.com/file/d/1YCPCV2dVbkju_haY8Gj9YxTUpADyMKhT/view](https://drive.google.com/file/d/1YCPCV2dVbkju_haY8Gj9YxTUpADyMKhT/view)
+- Demo: [https://www.youtube.com/watch?v=tENwysxt3xI](https://www.youtube.com/watch?v=tENwysxt3xI)
 
 ### Identifying and Transforming Units of Measurement in Scientific Data
 
