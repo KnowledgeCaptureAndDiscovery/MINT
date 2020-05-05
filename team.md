@@ -82,6 +82,14 @@ title: The MINT Team
 			</div>
 		</member>
 		<member>
+            <img src="assets/images/team/pierce.jpg"/>
+            <div class="content">
+                <h3><a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce" target="_blank">Suzanne Pierce</a></h3>
+                <p><strong>co-PI</strong>. Research Scientist at Texas Advanced Computing Center
+                <br /><i class="label pink">User Interface</i></p>
+            </div>
+        </member>
+		<member>
 			<img src="assets/images/team/chiang.jpg"/>
 			<div class="content">
 				<h3><a href="http://www.yoyoi.info/" target="_blank">Yao-Yi Chiang</a></h3>
@@ -95,14 +103,6 @@ title: The MINT Team
                 <h3><a href="https://shiyuning.github.io" target="_blank">Yuning Shi</a></h3>
                 <p>Research Assistant Professor in the Department of Ecosystem Science and Management at Penn State University
                 <br /><i class="label orange">Modeling</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/pierce.jpg"/>
-            <div class="content">
-                <h3><a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce" target="_blank">Suzanne Pierce</a></h3>
-                <p>Research Scientist at Texas Advanced Computing Center
-                <br /><i class="label pink">User Interface</i></p>
             </div>
         </member>
         <member>
@@ -300,14 +300,62 @@ title: The MINT Team
     </div>
 </section>
 
+
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Sponsors</h2>
+		<h2>Partner Institutions</h2>
 	</header>
 	<div class="team" style="margin-left: 0em">
 	    <institution>
-            <img src="assets/images/institution/darpa.png"/>
+            <img src="assets/images/institution/usc-isi.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/pennstate.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/ucolorado-boulder.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/minnesota.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/virginia-tech.png" style="height: 3em"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/tacc.png"/>
         </institution>
 	</div>
 </section>
+
+
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Collaborating Institutions</h2>
+	</header>
+	<div class="team" style="margin-left: 0em">
+	    <institution>
+            <img src="assets/images/institution/usgs.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/utep.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/ku.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/virginia.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/unicamp.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/bgs.png" style="padding-left: 1em"/>
+        </institution>
+	</div>
+</section>
+
+
+<!-- Section -->
+<section>
