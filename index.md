@@ -81,6 +81,14 @@ layout: default
 			</div>
 		</member>
 		<member>
+            <img src="assets/images/team/pierce.jpg"/>
+            <div class="content">
+                <h3><a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce" target="_blank">Suzanne Pierce</a></h3>
+                <p><strong>co-PI</strong>. Research Scientist at Texas Advanced Computing Center
+                <br /><i class="label pink">User Interface</i></p>
+            </div>
+        </member>
+		<member>
 			<img src="assets/images/team/chiang.jpg"/>
 			<div class="content">
 				<h3><a href="http://www.yoyoi.info/" target="_blank">Yao-Yi Chiang</a></h3>
@@ -94,14 +102,6 @@ layout: default
                 <h3><a href="https://shiyuning.github.io" target="_blank">Yuning Shi</a></h3>
                 <p>Research Assistant Professor in the Department of Ecosystem Science and Management at Penn State University
                 <br /><i class="label orange">Modeling</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/pierce.jpg"/>
-            <div class="content">
-                <h3><a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce" target="_blank">Suzanne Pierce</a></h3>
-                <p>Research Scientist at Texas Advanced Computing Center
-                <br /><i class="label pink">User Interface</i></p>
             </div>
         </member>
         <member>
@@ -412,188 +412,3 @@ layout: default
         </member>
 	</div>
 </section>
-
-
-<!-- Section -->
-<section>
-	<header class="major">
-		<h2>Partner Institutions</h2>
-	</header>
-	<div class="team" style="margin-left: 0em">
-	    <institution>
-            <img src="assets/images/institution/usc-isi.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/pennstate.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/ucolorado-boulder.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/minnesota.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/virginia-tech.png" style="height: 3em"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/tacc.png"/>
-        </institution>
-	</div>
-</section>
-
-
-<!-- Section -->
-<section>
-	<header class="major">
-		<h2>Collaborating Institutions</h2>
-	</header>
-	<div class="team" style="margin-left: 0em">
-	    <institution>
-            <img src="assets/images/institution/usgs.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/utep.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/ku.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/virginia.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/unicamp.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/bgs.png" style="padding-left: 1em"/>
-        </institution>
-	</div>
-</section>
-
-
-<!-- Section -->
-<section>
-	<header class="major">
-		<h2>Past Collaborators</h2>
-	</header>
-	<div class="team" style="margin-left: 0em">
-	    <member>
-            <img src="assets/images/team/rynge.png"/>
-            <div class="content">
-                <h3>Mats Rynge</h3>
-                <p>Computer Scientist in the Information Sciences Institute of the University of Southern California
-                <br /><i class="label yellow">Workflow Execution</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/karpatne.jpg"/>
-            <div class="content">
-                <h3><a href="https://www-users.cs.umn.edu/~karpa009/" target="_blank">Anuj Karpatne</a></h3>
-                <p>Postdoctoral Associate in the Department of Computer Science and Engineering University of Minnesota – Twin Cities
-                <br /><i class="label red">Model Calibration</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/essawy.jpg"/>
-            <div class="content">
-                <h3>Bakinam Essawy</h3>
-                <p>Postdoctoral Research Associate at University of Virginia
-                <br /><i class="label">Workflow Composition</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/steinbach.jpg"/>
-            <div class="content">
-                <h3>Michael Steinbach</h3>
-                <p>Research Associate in the Department of Computer Science and Engineering University of Minnesota – Twin Cities
-                <br /><i class="label red">Model Calibration</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/carvalho.jpg"/>
-            <div class="content">
-                <h3><a href="https://lucasaugustomcc.github.io/" target="_blank">Lucas Augusto Carvalho</a></h3>
-                <p>PhD student in the Institute of Computing at University of Campinas (Unicamp)
-                <br /><i class="label">Workflow Composition</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/filgueira.jpg"/>
-            <div class="content">
-                <h3><a href="https://www.rosafilgueira.com" target="_blank">Rosa Filgueira</a></h3>
-                <p>Senior Data Scientist at the British Geological Survey
-                <br /><i class="label grey">Collaborator</i></p>
-            </div>
-        </member>
-	</div>
-</section>
-
-
-<!-- Section -->
-<section>
-	<header class="major">
-		<h2>Sponsors</h2>
-	</header>
-	<div class="team" style="margin-left: 0em">
-	    <institution>
-            <img src="assets/images/institution/darpa.png"/>
-        </institution>
-	</div>
-</section>
-	
-	
-<!-- Section -->
-<!--section>
-	<header class="major">
-		<h2>Ipsum sed dolor</h2>
-	</header>
-	<div class="posts">
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
-			<h3>Interdum aenean</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>Nulla amet dolore</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
-			<h3>Tempus ullamcorper</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
-			<h3>Sed etiam facilis</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
-			<h3>Feugiat lorem aenean</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
-			<h3>Amet varius aliquam</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-	</div>
-</section-->
