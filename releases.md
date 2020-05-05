@@ -3,7 +3,14 @@ layout: page
 title: MINT Release updates
 ---
 
-*Last updated: 2020-04-28*
+*Last updated: 2020-05-05*
+
+## May, 2020
+* Release DAME 5.0.0 (early month release)
+  * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.0.0)
+  * Run models using data stored locally
+  * DAME will now run in Windows and MacOS environments using Docker instead of Singularity.
+  * URLs are validated before submission
 
 ## April, 2020
 * Release DAME 4.1.3
