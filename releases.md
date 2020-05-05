@@ -3,7 +3,40 @@ layout: page
 title: MINT Release updates
 ---
 
-*Last updated: 2020-04-01*
+*Last updated: 2020-04-28*
+
+## April, 2020
+* Release DAME 4.1.3
+  * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/4.1.3)
+  * Additional testing and bug fixes (Testing in OSX and Unix). DAME will ask for missing parameters and inputs, using defaults when provided.
+  * Improvements to messages and logging in the UI. Now the singularity commands, inputs and Docker images are displayed, in case users want to execute models with their own means.
+  * Improved documentation and examples
+* Release MIC 0.2.0
+  * [Code](https://github.com/mintproject/mic/releases/tag/0.2.0)
+  * Users can define and insert new models and model configurations.
+  * Users can define input/outputs/parameters of model configurations.
+  * First [release of mic documentation](https://mic-cli.readthedocs.io/en/latest/)
+* Release MINT-Transformation system
+  * Users can run the transformation pipeline through CLI, web service or Docker.
+    * [Instructions](https://github.com/mintproject/MINT-Transformation)
+  * Release predefined pipelines in form of configuration files for
+    * Model-specific transformations: [Topoflow](https://github.com/mintproject/MINT-Transformation/blob/master/examples/topoflow4/topoflow_climate.yml)
+    * Spatial transformations: [Cropping](https://github.com/mintproject/MINT-Transformation/blob/master/examples/cropping_weather_dataset.yml)
+* Release [MINT-Data-Sync](https://github.com/mintproject/MINT-Data-Sync) system
+  * Monitor when new GLDAS data files become available, upload them to MINT Data Server, and register them in MINT Data Catalog
+ 
+* Release [riverwidthEO version 1.0](https://github.com/mintproject/riverwidthEO)
+  * process river segments using machine learning algorithms and satellite imagery (Sentinel-2) to create surface area timeseries.
+  * uses descarteslabs API to download data for any given segment.
+  * provides user with options to provide points on a river as input or just provide a region or country to select predefined points on the river. These predefined points are available for rivers (>100 meters in width) across the globe. 
+
+* Release [River Segment Surface Area Dataset version 1.0](https://mint.isi.edu/ethiopia/datasets/browse/da6b6d47-7672-4e6e-a455-7bbc7e7ceb99) for Ethiopia
+  * process ~10,000 river segments (covering all of Ethiopia) using machine learning algorithms and satellite imagery to create surface area timeseries.
+  * uses Sentinel-2 imagery from available from Dec-2015 till Mar-2020. 
+  * a csv for each river segment will be available for download from the data catalog. 
+  
+* Release: Jupyter Notebook for Getting Started with TopoFlow
+    * [Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Getting_Started.ipynb) 
 
 ## March, 2020
 

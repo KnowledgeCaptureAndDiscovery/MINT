@@ -3,7 +3,7 @@ layout: page
 title: MINT Services and Software
 ---
 
-*Last updated: 2020-03-31*
+*Last updated: 2020-04-28*
 
 This document provides links to public MINT products (APIs, software, data and services) and a summary of the documentation and specifications available.
 
@@ -18,7 +18,7 @@ MINT assists an analyst to easily use sophisticated simulation models and data i
 
  * The MINT Portal can be accessed in the following URL:  [https://mint.isi.edu/](https://mint.isi.edu/)
  * Documentation page: [https://mintproject.readthedocs.io/en/latest/](https://mintproject.readthedocs.io/en/latest/)
- * The MINT Training Document that introduces visually the main components of the MINT user interface is available [here](https://drive.google.com/file/d/12nx2MkZuZUzKj2pP0ZRz8u3j7_vVfND2/view). 
+ * The MINT training document introduces visually the main components of the MINT user interface and is available [here](https://drive.google.com/file/d/12nx2MkZuZUzKj2pP0ZRz8u3j7_vVfND2/view). 
  * A video with a walkthrough of the MINT user interface is available [here](https://drive.google.com/file/d/1FENjOdCkbES_Cc8s74tKUrJSEvQXs1zv/view)
 
 
@@ -58,25 +58,24 @@ The MINT Model Catalog provides detailed information about software models and m
 
 The models in the Model Catalog are executable through the [Desktop Application for Model Execution (DAME)](https://model-catalog-python-api-client.readthedocs.io/en/latest/example/). 
 
+New model descriptions can be added to the model catalog through the the [model insertion checker wizard](https://mic-cli.readthedocs.io/en/latest/).
+
 ### Relevant Pointers:
 
-- Code: [https://github.com/mintproject/model-catalog-api](https://github.com/mintproject/model-catalog-api)
-- GUI for exploring the contents of the model catalog: [https://models.mint.isi.edu/home](https://models.mint.isi.edu/home). [(See a video of the main features)](https://www.youtube.com/watch?v=C9rxGT2k9is)
-- REST API for adding/modifying/deleting model metadata: [https://api.models.mint.isi.edu/latest](https://api.models.mint.isi.edu/latest)
-- [Requires log in] GUI for configuring and editing models: [https://mint.isi.edu/ethiopia/models/configure](https://mint.isi.edu/ethiopia/models/configure)
-- Model services API client and examples: [https://model-catalog-python-api-client.readthedocs.io/en/latest/](https://model-catalog-python-api-client.readthedocs.io/en/latest/)
-- Model catalog API documentation: [https://model-catalog-python-api-client.readthedocs.io/en/latest/endpoints/](https://model-catalog-python-api-client.readthedocs.io/en/latest/endpoints/)
+- Model catalog API for adding/modifying/deleting model metadata: [[REST API](https://api.models.mint.isi.edu/latest)] [[Code](https://github.com/mintproject/model-catalog-api)] [[Documentation](https://model-catalog-python-api-client.readthedocs.io/en/latest/endpoints/)] [[Releases](https://github.com/mintproject/model-catalog-api/releases)]
+- GUI for exploring the contents of the model catalog: [[Application (GUI)](https://models.mint.isi.edu/home)] [[Video of the main features](https://www.youtube.com/watch?v=C9rxGT2k9is)]
+- [Requires log in] GUI for configuring and editing models: [[Application](https://mint.isi.edu/ethiopia/models/configure)] [[Code](https://github.com/mintproject/mint-ui-lit)] [[Releases](https://github.com/mintproject/mint-ui-lit/releases)]
+- Model services API client and examples: [[Code](https://github.com/mintproject/model-catalog-python-api-client/)] [[Documentation](https://model-catalog-python-api-client.readthedocs.io/en/latest/)] [[Releases](https://github.com/mintproject/model-catalog-python-api-client/releases)]
+- Desktop appliation for model execution (dame) [[Code](https://github.com/mintproject/dame_cli/)] [Documentation](https://dame-cli.readthedocs.io/en/latest/)] [[Releases](https://github.com/mintproject/dame_cli/releases)]
+- Model insertion checker (mic) [[Code](https://github.com/mintproject/mic)] [[Documentation](https://mic-cli.readthedocs.io/en/latest/)] [[Releases](https://github.com/mintproject/mic/releases)]
 
 The API relies on the Software Description Ontology for Models  [https://w3id.org/okn/o/sdm](https://w3id.org/okn/o/sdm)
 
 The MINT [Model Catalog API](https://api.models.mint.isi.edu/latest/ui/) supports:
 
-- Get a list of all the resources (Model, ModelVersion, Parameters, Inputs, Variables and other classes).
-  - For example: get all the models on MINT.
-- Get the detailed information of a resource.
-  - For example: get the description of the model [Topoflow](https://dev.mint.isi.edu/south_sudan/models/explore/TOPOFLOW/topoflow_3.5/topoflow_cfg_simple/topoflow_cfg_simple_Guder)
-- Create, updates and deletes resources on the Model Catalog.
-    - For example: Create a new model, delete or update an existing model.
+- Get a list of all resources (Model, ModelVersion, Parameters, Inputs, Variables and other classes). For example: get all the models in MINT.
+- Get the detailed information of a resource. For example: get the description of the model [Topoflow](https://dev.mint.isi.edu/south_sudan/models/explore/TOPOFLOW/topoflow_3.5/topoflow_cfg_simple/topoflow_cfg_simple_Guder)
+- Create, updates and deletes resources on the Model Catalog. For example, create a new model, delete or update an existing model.
     
 ## Transformation Services
 The [MINT Data Transformation System](https://data-trans.mint.isi.edu/)  provides a list of supported transformations that can be used to transform datasets into different formats, which may be required by different models.
@@ -147,7 +146,8 @@ The Scientific Variables Ontology Framework is a methodology for uniformly repre
 
 
 ## Remote Sensing
-[Section to be completed]
+Access to observation data for calibration and validation is essential for building robust models. Earth Observation data from remote sensing satellites has the potential of providing this observation data especially in regions where ground observations are very scarce or completely absent. For example, the link below demonstrates how we are using satellite imagery to monitor river width changes in Ethiopia. 
+[http://umnlcc.cs.umn.edu/river-width-demo/](http://umnlcc.cs.umn.edu/river-width-demo/)
 
 
 
