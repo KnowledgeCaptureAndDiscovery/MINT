@@ -59,6 +59,8 @@ initiative](https://bridgingbarriers.utexas.edu/planet-texas-2050/). We
 have been including in MINT many groundwater models for the state, as
 well as hydrology and other related models.
 
+### We are expanding MINT to include models in the following areas:
+
 **California**
 
 <img src="assets/images/models/media/04.jpg" style="width: 50em"/>
