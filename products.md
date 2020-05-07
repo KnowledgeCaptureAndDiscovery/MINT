@@ -52,32 +52,7 @@ Upcoming and planned new features include:
 - Code: [https://github.com/mintproject/MINT-DataCatalog-Public](https://github.com/mintproject/MINT-DataCatalog-Public)
 - Portal: [https://data-catalog.mint.isi.edu](https://data-catalog.mint.isi.edu)
 
-## Model Services
-
-The MINT Model Catalog provides detailed information about software models and metadata available in MINT. See an overview on the following [link](https://mintproject.readthedocs.io/en/latest/modelcatalog/).
-
-The models in the MINT Model Catalog are executable through the [Desktop Application for Model Execution (DAME)](https://model-catalog-python-api-client.readthedocs.io/en/latest/example/). 
-
-New model descriptions can be added to the MINT Model Catalog through the the [model insertion checker wizard](https://mic-cli.readthedocs.io/en/latest/).
-
-### Relevant Pointers:
-
-- Model catalog API for adding/modifying/deleting model metadata: [[REST API](https://api.models.mint.isi.edu/latest)] [[Code](https://github.com/mintproject/model-catalog-api)] [[Documentation](https://model-catalog-python-api-client.readthedocs.io/en/latest/endpoints/)] [[Releases](https://github.com/mintproject/model-catalog-api/releases)]
-- GUI for exploring the contents of the model catalog: [[Application (GUI)](https://models.mint.isi.edu/home)] [[Video of the main features](https://www.youtube.com/watch?v=C9rxGT2k9is)]
-- [Requires log in] GUI for configuring and editing models: [[Application](https://mint.isi.edu/ethiopia/models/configure)] [[Code](https://github.com/mintproject/mint-ui-lit)] [[Releases](https://github.com/mintproject/mint-ui-lit/releases)]
-- Model services API client and examples: [[Code](https://github.com/mintproject/model-catalog-python-api-client/)] [[Documentation](https://model-catalog-python-api-client.readthedocs.io/en/latest/)] [[Releases](https://github.com/mintproject/model-catalog-python-api-client/releases)]
-- Desktop appliation for model execution (dame) [[Code](https://github.com/mintproject/dame_cli/)] [Documentation](https://dame-cli.readthedocs.io/en/latest/)] [[Releases](https://github.com/mintproject/dame_cli/releases)]
-- Model insertion checker (mic) [[Code](https://github.com/mintproject/mic)] [[Documentation](https://mic-cli.readthedocs.io/en/latest/)] [[Releases](https://github.com/mintproject/mic/releases)]
-
-The API relies on the Software Description Ontology for Models  [https://w3id.org/okn/o/sdm](https://w3id.org/okn/o/sdm)
-
-The MINT [Model Catalog API](https://api.models.mint.isi.edu/latest/ui/) supports:
-
-- Get a list of all resources (Model, ModelVersion, Parameters, Inputs, Variables and other classes). For example: get all the models in MINT.
-- Get the detailed information of a resource. For example: get the description of the model [Topoflow](https://dev.mint.isi.edu/south_sudan/models/explore/TOPOFLOW/topoflow_3.5/topoflow_cfg_simple/topoflow_cfg_simple_Guder)
-- Create, updates and deletes resources on the Model Catalog. For example, create a new model, delete or update an existing model.
-    
-## Transformation Services
+## Data Transformation Services
 The [MINT Data Transformation System](https://data-trans.mint.isi.edu/)  provides a list of supported transformations that can be used to transform datasets into different formats, which may be required by different models.
 
 The main idea of the transformation system is that we use smaller components (we refer to them as *adapters*) which we ’concatenate’ to form a transformation flow (a *pipeline*). This modular design allows us to reuse existing modules and wrap ready-scripts to create a language-and-format-independent module and pipeline.
@@ -105,6 +80,30 @@ The library, called CCUT, uses grammar tools to automatically parse the differen
 
 - Code: [https://github.com/basels/ccut](https://github.com/basels/ccut)
 - Python Package: [https://pypi.org/project/ccut/](https://pypi.org/project/ccut/)
+
+## Model Services
+
+The MINT Model Catalog provides detailed information about software models and metadata available in MINT. See an overview on the following [link](https://mintproject.readthedocs.io/en/latest/modelcatalog/).
+
+The models in the MINT Model Catalog can be **executed anywhere** through the [Desktop Application for Model Execution (DAME)](https://model-catalog-python-api-client.readthedocs.io/en/latest/example/). 
+
+New model descriptions **can be added to the MINT Model Catalog** through the the [model insertion checker wizard (MIC)](https://mic-cli.readthedocs.io/en/latest/). MIC also helps validating and guiding through the process of creating a new model configuration.
+
+### Relevant Pointers:
+
+- **Model catalog API** for adding/modifying/deleting model metadata: [[REST API](https://api.models.mint.isi.edu/latest)] [[Code](https://github.com/mintproject/model-catalog-api)] [[Documentation](https://model-catalog-python-api-client.readthedocs.io/en/latest/endpoints/)] [[Releases](https://github.com/mintproject/model-catalog-api/releases)]
+- **GUI** for exploring, configuring and editing models: [[Code](https://github.com/mintproject/mint-ui-lit)] [[Application (GUI)](https://models.mint.isi.edu/home)] [[Video of the main features](https://www.youtube.com/watch?v=C9rxGT2k9is)] [[Releases](https://github.com/mintproject/mint-ui-lit/releases)]
+- Model services **API client** and examples: [[Code](https://github.com/mintproject/model-catalog-python-api-client/)] [[Documentation](https://model-catalog-python-api-client.readthedocs.io/en/latest/)] [[Releases](https://github.com/mintproject/model-catalog-python-api-client/releases)]
+- **Desktop appliation for model execution (DAME)** [[Code](https://github.com/mintproject/dame_cli/)] [Documentation](https://dame-cli.readthedocs.io/en/latest/)] [[Releases](https://github.com/mintproject/dame_cli/releases)]
+- **Model insertion checker (MIC)** [[Code](https://github.com/mintproject/mic)] [[Documentation](https://mic-cli.readthedocs.io/en/latest/)] [[Releases](https://github.com/mintproject/mic/releases)]
+
+The API relies on the Software Description Ontology for Models  [https://w3id.org/okn/o/sdm](https://w3id.org/okn/o/sdm) and the Software Description Ontology [https://w3id.org/okn/o/sd](https://w3id.org/okn/o/sd).
+
+The MINT [Model Catalog API](https://api.models.mint.isi.edu/latest) supports:
+
+- Get a list of all resources (Model, ModelVersion, Parameters, Inputs, Variables and other classes). For example: get all the models in MINT.
+- Get the detailed information of a resource. For example: get the description of the model [Topoflow](https://dev.mint.isi.edu/south_sudan/models/explore/TOPOFLOW/topoflow_3.5/topoflow_cfg_simple/topoflow_cfg_simple_Guder)
+- Create, updates and deletes resources on the Model Catalog. For example, create a new model, delete or update an existing model.
 
 ## Execution Management Services
 

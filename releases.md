@@ -6,19 +6,19 @@ title: MINT Release updates
 *Last updated: 2020-05-05*
 
 ## May, 2020
-* Release DAME 5.0.0 (early month release)
+* Release [DAME 5.0.0](dame-cli.readthedocs.io/) (early month release)
   * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.0.0)
   * Run models using data stored locally
   * DAME will now run in Windows and MacOS environments using Docker instead of Singularity.
   * URLs are validated before submission
 
 ## April, 2020
-* Release DAME 4.1.3
+* Release [DAME 4.1.3](dame-cli.readthedocs.io/)
   * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/4.1.3)
   * Additional testing and bug fixes (Testing in OSX and Unix). DAME will ask for missing parameters and inputs, using defaults when provided.
   * Improvements to messages and logging in the UI. Now the singularity commands, inputs and Docker images are displayed, in case users want to execute models with their own means.
   * Improved documentation and examples
-* Release MIC 0.2.0
+* Release [MIC 0.2.0](https://mic-cli.readthedocs.io/en/latest/)
   * [Code](https://github.com/mintproject/mic/releases/tag/0.2.0)
   * Users can define and insert new models and model configurations.
   * Users can define input/outputs/parameters of model configurations.
@@ -47,27 +47,27 @@ title: MINT Release updates
 
 ## March, 2020
 
-* Release MINT-UI 4.3.4
+* Release [MINT-UI 4.3.4](https://mint.isi.edu/)
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.3.4)
     * Users can run their ModelConfigurations
 * Release [DAME 3.3.0](https://dame-cli.readthedocs.io/en/latest/) (Desktop Application for Model Execution).
     * Execute models from MINT on Desktop/Server
-* Release ModelCatalog v1.4.0
+* Release [ModelCatalog v1.4.0](https://github.com/mintproject/ModelCatalog/releases/tag/v1.4.0)
     * Users can insert their ModelConfigurations
     
 ## February, 2020
 
-* Release MINT-UI 4.3.0 (Feb 26)
+* Release [MINT-UI 4.3.0](https://mint.isi.edu/) (Feb 26)
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.3.0)
-* Release MINT-UI 4.2.1 (Feb 19)
+* Release [MINT-UI 4.2.1](https://mint.isi.edu/) (Feb 19)
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.2.1)
-* Release MINT-UI 4.2.0 (Feb 14)
+* Release [MINT-UI 4.2.0](https://mint.isi.edu/) (Feb 14)
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.2.0)
-* Release MINT-UI 4.1.0
+* Release [MINT-UI 4.1.0](https://mint.isi.edu/)
     * Fixing bugs and usability improvements [Release Release 4.1.0 · mintproject/mint-ui-lit](https://github.com/mintproject/mint-ui-lit/releases/tag/4.1.0)
 
 ## January, 2020
-* Release MINT-UI 4.0.0
+* Release [MINT-UI 4.0.0](https://mint.isi.edu/)
     * Fixing bugs and usability improvements [Release Release 4.0.0-0 · mintproject/mint-ui-lit](https://github.com/mintproject/mint-ui-lit/releases/tag/4.0.0-0)
 
 ## December, 2019
