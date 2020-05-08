@@ -1,4 +1,10 @@
-## Data Services
+---
+permalink: "/products/data/"
+layout: page
+title:  "Data Services"
+---
+
+### MINT Data Catalog
 
 The MINT Data Catalog (see [overview](https://mintproject.readthedocs.io/en/latest/datacatalog/)) provides access to a curated collection of a datasets in the MINT Data Catalog.
 
@@ -24,13 +30,13 @@ Upcoming and planned new features include:
 - Generate a pipeline to transform a dataset into a target format
 - Get all data transformations that use or generate a data format
 
-### Relevant Pointers
+#### Relevant Pointers
 - Code: [https://github.com/mintproject/MINT-DataCatalog-Public](https://github.com/mintproject/MINT-DataCatalog-Public)
 - Portal: [https://data-catalog.mint.isi.edu](https://data-catalog.mint.isi.edu)
 
 
     
-## Transformation Services
+### Transformation Services
 The [MINT Data Transformation System](https://data-trans.mint.isi.edu/)  provides a list of supported transformations that can be used to transform datasets into different formats, which may be required by different models.
 
 The main idea of the transformation system is that we use smaller components (we refer to them as *adapters*) which we ’concatenate’ to form a transformation flow (a *pipeline*). This modular design allows us to reuse existing modules and wrap ready-scripts to create a language-and-format-independent module and pipeline.

@@ -1,4 +1,12 @@
 
+---
+permalink: "/products/other"
+layout: page
+title:  "Other Services"
+---
+
+
+
 ## Scientific Variables
 
 The Scientific Variables Ontology Framework is a methodology for uniformly representing scientific variables. The required elements are an upper ontology consisting of a set of domain-independent categories and a set of design patterns for modular creation of complex variable representations. The customizable lower ontology can be populated with any collection of variables as necessitated by an application.
