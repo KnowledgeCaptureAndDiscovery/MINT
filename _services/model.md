@@ -4,20 +4,26 @@ layout: page
 title:  "Model Services"
 ---
 
-The [MINT Model Catalog](#model-catalog-api) provides detailed information about software models and metadata available in MINT. See an overview on the following [link](https://mintproject.readthedocs.io/en/latest/modelcatalog/).
+The [MINT Model Catalog](#model-catalog-api) provides detailed information about software models and metadata available in MINT. 
+A good overview about the concepts is available [here](https://mintproject.readthedocs.io/en/latest/modelcatalog/).
 
-You can:
-- Insert new models to the MINT Model Catalog through the [Model Insertion Checker (MIC)] 
-    - [Model Insertion Checker (MIC)](#model-insertion-checker-mic) inserts the information using [MINT Model Catalog](#model-catalog-api)
-- Browse avaialable models:
-    - Using our GUI [Model Catalog Explorer](#model-catalog-explorer)
-- Execute models:
-    - Using our GUI [Model Catalog Explorer](#model-catalog-explorer)
-    - Using [Desktop Application for Model Execution (DAME)](https://model-catalog-python-api-client.readthedocs.io/en/latest/example/).  
+## Overview
+
+We provide multiple services to add, modify, and browse models:
+1. Create and edit your models 
+    - [Model Insertion Checker (MIC)](#model-insertion-checker-mic) [CLI] encapsulates your code and add the your model using [MINT Model Catalog API](#model-catalog-api)
+    - [Model Catalog Explorer](#model-catalog-explorer) (GUI) modifies the contents of the MINT Model Catalog using [MINT Model Catalog API](#model-catalog-api)
+2. Browse avaialable models:
+    - [Model Catalog Explorer](#model-catalog-explorer) (GUI) shows the contents of the MINT Model Catalog using [MINT Model Catalog API](#model-catalog-api)
+3. Execute models:
+    - [MINT-UI](#model-catalog-explorer) obtains the details about the models using [MINT Model Catalog API](#model-catalog-api) and run it in your servers. 
+    - [Desktop Application for Model Execution (DAME)](https://model-catalog-python-api-client.readthedocs.io/en/latest/example/) obtains the details about the models using [MINT Model Catalog API](#model-catalog-api) and run it in your computer.
+
+## Services
 
 ### Model Catalog API 
 
-Model catalog API for adding/modifying/deleting model metadata. We provide the following clients to improve the experience to developers available [here](#model-service-api-clients)
+Model Catalog API for adding/modifying/deleting model metadata. We provide the following clients to improve the experience to developers available [here](#model-service-api-clients)
 
 [[RESTAPI](https://api.models.mint.isi.edu/latest)] [[Documentation](https://model-catalog-python-api-client.readthedocs.io/en/latest/endpoints/)] [[Code](https://github.com/mintproject/model-catalog-api)] [[Releases](https://github.com/mintproject/model-catalog-api/releases)]
 
@@ -27,7 +33,7 @@ GUI for exploring the contents of the model catalog
 
 [[Website](https://models.mint.isi.edu/home)] [[Demo](https://www.youtube.com/watch?v=C9rxGT2k9is)]
 
-In addition, a register user can add, edit and remove their models.
+Also, a registered user can add, edit, and remove their models.
 
 ### Model Insertion Checker (MIC)
 
@@ -40,13 +46,13 @@ Model Insertion CLI (MIC) is a command-line interface for adding models on a Mod
 
 #### Model Service API clients
 
-We provide the following clients to improve the experience to the developers.
+We provide the following clients to improve the experience of the developers.
 
 These clients support all the operations.
 
 - Get a list of all resources. For example: get all the models in MINT.
 - Get the details of a resource. For example: get the description of the model [CYCLES](https://models.mint.isi.edu/models/explore/CYCLES)
-- Create, updates and deletes resources on the Model Catalog. For example, create a new model, delete or update an existing model.
+- Create, updates, and deletes resources on the Model Catalog. For example, create a new model, delete or update an existing model.
 
 ##### Python
 
