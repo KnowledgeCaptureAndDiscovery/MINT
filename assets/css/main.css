@@ -4786,3 +4786,17 @@ figure figcaption {
     font-size: 0.8em;
     font-style: italic;
 }
+
+.anchor {
+    visibility: hidden;
+    color: #dfe2e5;
+  }
+  
+  h1:hover .anchor,
+  h2:hover .anchor,
+  h3:hover .anchor,
+  h4:hover .anchor,
+  h5:hover .anchor,
+  h6:hover .anchor {
+    visibility: visible;
+  }
