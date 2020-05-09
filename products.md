@@ -27,7 +27,7 @@ We provide multiple services to interact with the MINT Model Catalog.
 - [Clients]({{ '/products/model/' | absolute_url }}#model-service-api-clients) are provided to interact with [Model Catalog API]({{ '/products/model/' | absolute_url }}#model-catalog-api) easily.
 
 
-More information: [Model Services]({{ '/products/model.html' | absolute_url }})
+[Model Services - Overview ]({{ '/products/model.html' | absolute_url }}) shows the interaction of these services.
 
 ## Data Services
 
