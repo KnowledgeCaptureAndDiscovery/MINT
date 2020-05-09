@@ -12,7 +12,7 @@ This document provides links to public MINT products (APIs, software, data and s
 
 [MINT User Interface]({{ '/products/mint' | absolute_url }}) assists an analyst to easily use sophisticated simulation models and data in order to explore the role of weather and climate in water on food availability in select regions of the world. 
 
-To do that, the service interacts with the [Model](#model-services), [Data](#data-services) and [Execution](#execution-services) Services
+To do that, the [MINT User Interface]({{ '/products/mint' | absolute_url }}) interacts with the [Model](#model-services), [Data](#data-services) and [Execution](#execution-services) Services
 
 
 ## Model Services
