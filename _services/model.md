@@ -25,7 +25,7 @@ We provide multiple services to add, modify, and browse models:
 
 Model Catalog API for adding/modifying/deleting model metadata. We provide the following clients to improve the experience to developers available [here](#model-service-api-clients)
 
-[[RESTAPI](https://api.models.mint.isi.edu/latest)] [[Documentation](https://model-catalog-python-api-client.readthedocs.io/en/latest/endpoints/)] [[Code](https://github.com/mintproject/model-catalog-api)] [[Releases](https://github.com/mintproject/model-catalog-api/releases)]
+[[RESTAPI](https://api.models.mint.isi.edu/latest)] [[How to use it?](https://model-catalog-python-api-client.readthedocs.io/en/latest/endpoints/)] [[Code](https://github.com/mintproject/model-catalog-api)] [[Releases](https://github.com/mintproject/model-catalog-api/releases)]
 
 ### Model Catalog Explorer
 
@@ -39,7 +39,7 @@ Also, a registered user can add, edit, and remove their models.
 
 Model Insertion CLI (MIC) is a command-line interface for adding models on a Model Catalog Service using the previous service [Model Catalog API](#model-catalog-api).
 
-[[How to use it?](https://mic-cli.readthedocs.io/en/latest/)] [[Code](https://github.com/mintproject/mic)] [[Documentation](https://mic-cli.readthedocs.io/en/latest/)] [[Releases](https://github.com/mintproject/mic/releases)]
+[[How to use it?](https://mic-cli.readthedocs.io/en/latest/)] [[Code](https://github.com/mintproject/mic)] [[Releases](https://github.com/mintproject/mic/releases)]
 
 ### Desktop appliation for model execution (DAME)
 
@@ -69,4 +69,4 @@ These clients support all the operations.
 
 ##### JavaScript
 
-[[Code](https://github.com/mintproject/model-catalog-fetch-api-client)] [[Documentation](https://github.com/mintproject/model-catalog-fetch-api-client/blob/master/README.md)] [[Releases](https://github.com/mintproject/model-catalog-fetch-api-client/releases)]
+ [[How to use it?](https://github.com/mintproject/model-catalog-fetch-api-client/blob/master/README.md)]  [[Code](https://github.com/mintproject/model-catalog-fetch-api-client)][[Releases](https://github.com/mintproject/model-catalog-fetch-api-client/releases)]
