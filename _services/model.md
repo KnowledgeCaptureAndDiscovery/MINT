@@ -41,6 +41,13 @@ Model Insertion CLI (MIC) is a command-line interface for adding models on a Mod
 
 [[How to use it?](https://mic-cli.readthedocs.io/en/latest/)] [[Code](https://github.com/mintproject/mic)] [[Documentation](https://mic-cli.readthedocs.io/en/latest/)] [[Releases](https://github.com/mintproject/mic/releases)]
 
+### Desktop appliation for model execution (DAME)
+
+The Desktop Application for Model Execution (DAME) is an application for executing environmental models in any local environment or server through a command line interface.
+
+Given a model identifier (e.g., TopoFlow for the Awash region: topoflow36_2.1.0_Awash), DAME downloads the model container and its execution environment, and fetches the datasets needed (e.g., soil data, elevation data, etc). Then users can run the model with different input scenario
+
+[[How to use it?](https://dame-cli.readthedocs.io/en/latest/)] [[Code](https://github.com/mintproject/dame_cli/)] [[Releases](https://github.com/mintproject/dame_cli/releases)]
 
 ### Tools
 
