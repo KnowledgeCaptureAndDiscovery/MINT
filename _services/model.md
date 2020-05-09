@@ -25,7 +25,7 @@ We provide multiple services to add, modify, and browse models:
 
 Model Catalog API for adding/modifying/deleting model metadata. We provide the following clients to improve the experience to developers available [here](#model-service-api-clients)
 
-[[RESTAPI](https://api.models.mint.isi.edu/latest)] [[How to use it?](https://model-catalog-python-api-client.readthedocs.io/en/latest/endpoints/)] [[Code](https://github.com/mintproject/model-catalog-api)] [[Releases](https://github.com/mintproject/model-catalog-api/releases)]
+[[RESTAPI](https://api.models.mint.isi.edu/latest)] [[Documentation](https://model-catalog-python-api-client.readthedocs.io/en/latest/endpoints/)] [[Code](https://github.com/mintproject/model-catalog-api)] [[Releases](https://github.com/mintproject/model-catalog-api/releases)]
 
 ### Model Catalog Explorer
 
@@ -39,7 +39,7 @@ Also, a registered user can add, edit, and remove their models.
 
 Model Insertion CLI (MIC) is a command-line interface for adding models on a Model Catalog Service using the previous service [Model Catalog API](#model-catalog-api).
 
-[[How to use it?](https://mic-cli.readthedocs.io/en/latest/)] [[Code](https://github.com/mintproject/mic)] [[Releases](https://github.com/mintproject/mic/releases)]
+[[Documentation](https://mic-cli.readthedocs.io/en/latest/)] [[Code](https://github.com/mintproject/mic)] [[Releases](https://github.com/mintproject/mic/releases)]
 
 ### Desktop appliation for model execution (DAME)
 
@@ -47,7 +47,7 @@ The Desktop Application for Model Execution (DAME) is an application for executi
 
 Given a model identifier (e.g., TopoFlow for the Awash region: topoflow36_2.1.0_Awash), DAME downloads the model container and its execution environment, and fetches the datasets needed (e.g., soil data, elevation data, etc). Then users can run the model with different input scenario
 
-[[How to use it?](https://dame-cli.readthedocs.io/en/latest/)] [[Code](https://github.com/mintproject/dame_cli/)] [[Releases](https://github.com/mintproject/dame_cli/releases)]
+[[Documentation](https://dame-cli.readthedocs.io/en/latest/)] [[Code](https://github.com/mintproject/dame_cli/)] [[Releases](https://github.com/mintproject/dame_cli/releases)]
 
 ### Tools
 
@@ -63,10 +63,10 @@ These clients support all the operations.
 
 ##### Python
 
-[[How to use it?](https://model-catalog-python-api-client.readthedocs.io/en/latest/)] [[Code](https://github.com/mintproject/model-catalog-python-api-client/)] [[Releases](https://github.com/mintproject/model-catalog-python-api-client/releases)]
+[[Documentation](https://model-catalog-python-api-client.readthedocs.io/en/latest/)] [[Code](https://github.com/mintproject/model-catalog-python-api-client/)] [[Releases](https://github.com/mintproject/model-catalog-python-api-client/releases)]
 
 
 
 ##### JavaScript
 
- [[How to use it?](https://github.com/mintproject/model-catalog-fetch-api-client/blob/master/README.md)]  [[Code](https://github.com/mintproject/model-catalog-fetch-api-client)][[Releases](https://github.com/mintproject/model-catalog-fetch-api-client/releases)]
+ [[Documentation](https://github.com/mintproject/model-catalog-fetch-api-client/blob/master/README.md)]  [[Code](https://github.com/mintproject/model-catalog-fetch-api-client)][[Releases](https://github.com/mintproject/model-catalog-fetch-api-client/releases)]
