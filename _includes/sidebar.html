@@ -13,87 +13,25 @@
                 <h2>Menu</h2>
             </header>
             <ul>
-                <li><a href="{{ '/index.html' | absolute_url }}">Home</a></li>
-                <li><a href="{{ '/overview.html' | absolute_url }}">Overview</a></li>
-                <li><a href="{{ '/publications.html' | absolute_url }}">Publications</a></li>
-                <li><a href="{{ '/photos.html' | absolute_url }}">Photos</a></li>
-                <li><a href="{{ '/architecture.html' | absolute_url }}">Architecture</a></li>
-                <li><a href="{{ '/products.html' | absolute_url }}">Services and Software</a></li>
-                <li><a href="{{ '/releases.html' | absolute_url }}">Releases</a></li>
-                <li><a href="{{ '/models.html' | absolute_url }}">Models</a></li>
-                <li><a href="{{ '/demo.html' | absolute_url }}">Demos and Videos</a></li>
-                <li><a href="{{ '/notebooks.html' | absolute_url }}">Notebooks</a></li>
-                <li><a href="{{ '/testbeds.html' | absolute_url }}">Testbeds</a></li>
+                <ul>
+                    {% for my_page in site.navigation %} 
+                        {% if my_page.title %}
+                            <li >
+                                <a {% if my_page.url == page.url %} class="selected" {% endif %} href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}
+                                </a>
+                            </li>
+                        {% endif %} {% endfor %}
+                </ul>                
+
+
                 <li><a href="{{ '/team.html' | absolute_url }}">Team</a></li>
-                <!--<li><a href="{{ 'generic.html' | absolute_url }}">Generic</a></li>-->
-                <!--<li><a href="{{ 'elements.html' | absolute_url }}">Elements</a></li>-->
-                <!--<li>-->
-                <!--<span class="opener">Submenu</span>-->
-                <!--<ul>-->
-                <!--<li><a href="#">Lorem Dolor</a></li>-->
-                <!--<li><a href="#">Ipsum Adipiscing</a></li>-->
-                <!--<li><a href="#">Tempus Magna</a></li>-->
-                <!--<li><a href="#">Feugiat Veroeros</a></li>-->
-                <!--</ul>-->
-                <!--</li>-->
-                <!--<li><a href="#">Etiam Dolore</a></li>-->
-                <!--<li><a href="#">Adipiscing</a></li>-->
-                <!--<li>-->
+                <li><a href="{{ '/photos.html' | absolute_url }}">Photos</a></li>
+
             </ul>
         </nav>
 
-        <!-- Section -->
-        <!--<section>-->
-        <!--<header class="major">-->
-        <!--<h2>Ante interdum</h2>-->
-        <!--</header>-->
-        <!--<div class="mini-posts">-->
-        <!--<article>-->
-        <!--<a href="#" class="image"><img src="assets/images/pic07.jpg" alt=""/></a>-->
-        <!--<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>-->
-        <!--</article>-->
-        <!--<article>-->
-        <!--<a href="#" class="image"><img src="assets/images/pic08.jpg" alt=""/></a>-->
-        <!--<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>-->
-        <!--</article>-->
-        <!--<article>-->
-        <!--<a href="#" class="image"><img src="assets/images/pic09.jpg" alt=""/></a>-->
-        <!--<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>-->
-        <!--</article>-->
-        <!--</div>-->
-        <!--<ul class="actions">-->
-        <!--<li><a href="#" class="button">More</a></li>-->
-        <!--</ul>-->
-        <!--</section>-->
-
-        <!-- Section -->
-        <!--<section>-->
-        <!--<header class="major">-->
-        <!--<h2>Get in touch</h2>-->
-        <!--</header>-->
-        <!--<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem-->
-        <!--ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus-->
-        <!--aliquam.</p>-->
-        <!--<ul class="contact">-->
-        <!--<li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>-->
-        <!--<li class="fa-phone">{{ site.phone }}</li>-->
-        <!--<li class="fa-home">{{ site.street_address }}<br/>-->
-        <!--{{ site.city }}, {{ site.state }} {{ site.zip_code }}<br/>-->
-        <!--{{ site.country }}-->
-        <!--</li>-->
-        <!--</ul>-->
-        <!--</section>-->
-
-        <!-- Footer -->
         <footer id="footer">
             <p class="copyright">This project is funded by the Defense Advanced Research Projects Agency under award W911NF-18-1-0027.</p>
-            <!--<p class="copyright">&copy;2017 {{ site.title }}. All rights reserved.</p>-->
-            <!--<p class="copyright">This interdisciplinary project is led by the University of Southern California in-->
-                <!--collaboration with Pennsylvania State University, University of Colorado, University of Minnesota, and-->
-                <!--Virginia Tech.</p>-->
-            <!--<p class="copyright">-->
-                <!--Any opinions, findings, and conclusions or recommendations expressed in this material are those of the-->
-                <!--author(s) and do not necessarily reflect the views of the Defense Advanced Research Projects Agency.</p>-->
         </footer>
 
     </div>

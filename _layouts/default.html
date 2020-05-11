@@ -20,8 +20,7 @@
                 {% include header.html %}
                 {% include banner.html %}
 
-                {{ content }}
-
+                {% include anchor_headings.html html=content anchorBody="#" anchorClass="anchor"%}
             </div>
         </div>
 
