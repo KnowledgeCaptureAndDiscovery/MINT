@@ -1,10 +1,8 @@
-
 ---
-permalink: "/products/other"
+permalink: "/products/other/"
 layout: page
 title:  "Other Services"
 ---
-
 
 
 ## Scientific Variables

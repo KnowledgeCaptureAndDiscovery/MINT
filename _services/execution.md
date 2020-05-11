@@ -1,5 +1,5 @@
 ---
-permalink: "/products/execution"
+permalink: "/products/execution/"
 layout: page
 title:  "Execution Management Services"
 ---
@@ -7,6 +7,7 @@ title:  "Execution Management Services"
 
 ### Emulator APIs
 We are creating two separate APIs for MINT Emulators
+
 - **MINT Emulator Manager API:** to support search and discovery of emulators that are available in MINT
 - **MINT Emulator Data Services APIs:** to support retrieval and processing of data in MINT emulators
 

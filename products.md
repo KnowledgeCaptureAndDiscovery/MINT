@@ -32,22 +32,23 @@ We provide multiple services to interact with the MINT Model Catalog.
 
 ## Data Services
 
-[INSERT DATA SERVICE DESCRIPTION]
+The MINT Data Catalog is a system that provides a curated collection of datasets. Each dataset is a logical grouping of data about specific variables contained in one or more resources.
 
-- The [MINT Data Catalog]({{ '/products/data' | absolute_url }}#mint-data-catalog) access to a curated collection of a datasets in the MINT Data Catalog.
+- The [MINT Data Catalog]({{ '/products/data' | absolute_url }}#mint-data-catalog) provides access to a curated collection of a datasets in the MINT Data Catalog.
 - The [MINT Data Transformation System]({{ '/products/data' | absolute_url }}#transformation-services)  provides a list of supported transformations that can be used to transform datasets into different formats, which may be required by different models.
 
 
 ## Execution Services
 
-[INSERT DATA SERVICE DESCRIPTION]
-The [Execution Services]({{ '/products/execution' | absolute_url }}) provides 
-
-
+The MINT Execution Services allow the [MINT-UI]({{ '/products/' | absolute_url }}#mint-user-interface) to run models on servers. And store, and gather the results.
 
 - The [MINT Emulator API]({{ '/products/execution' | absolute_url }}#emulator-apis) access to a curated collection of a datasets in the MINT Data Catalog.
 - The [MINT  Ensemble Manager API]({{ '/products/execution' | absolute_url }}#ensemble-manager-api)  provides a list of supported transformations that can be used to transform datasets into different formats, which may be required by different models.
 
+## Other services
+
+- [The Scientific Variables Ontology Framework]({{ '/products/other' | absolute_url }}) is a methodology for uniformly representing scientific variables.
+- [Remote Sensing access](({{ '/products/other' | absolute_url }})) to observation data for calibration and validation is essential for building robust models.
 
 ## Release Page
 

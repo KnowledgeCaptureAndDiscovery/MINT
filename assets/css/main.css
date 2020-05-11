@@ -2586,7 +2586,7 @@ a {
     text-decoration: none;
 }
 
-a:hover {
+a.selected {
     border-bottom-color: #76a746;
     color: #76a746 !important;
 }

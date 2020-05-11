@@ -1,5 +1,5 @@
 ---
-permalink: "/products/mint"
+permalink: "/products/mint/"
 layout: page
 title:  "MINT User Interface"
 ---

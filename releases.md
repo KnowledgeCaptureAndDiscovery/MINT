@@ -6,7 +6,7 @@ title: MINT Release updates
 *Last updated: 2020-05-05*
 
 ## May, 2020
-* Release DAME 5.0.0
+* Release [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 5.0.0
   * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.0.0)
   * Run models using local data
   * Configure with custom ModelCatalog or user
@@ -16,17 +16,17 @@ title: MINT Release updates
 
 
 ## April, 2020
-* Release [DAME 4.1.3](dame-cli.readthedocs.io/)
+* Release [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 4.1.3
   * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/4.1.3)
   * Additional testing and bug fixes (Testing in OSX and Unix). DAME will ask for missing parameters and inputs, using defaults when provided.
   * Improvements to messages and logging in the UI. Now the singularity commands, inputs and Docker images are displayed, in case users want to execute models with their own means.
   * Improved documentation and examples
-* Release [MIC 0.2.0](https://mic-cli.readthedocs.io/en/latest/)
+* Release [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic)
   * [Code](https://github.com/mintproject/mic/releases/tag/0.2.0)
   * Users can define and insert new models and model configurations.
   * Users can define input/outputs/parameters of model configurations.
   * First [release of mic documentation](https://mic-cli.readthedocs.io/en/latest/)
-* Release MINT-Transformation system
+* Release [Data Transformation services]({{ '/products/data/' | absolute_url }}#transformation-services) system
   * Users can run the transformation pipeline through CLI, web service or Docker.
     * [Instructions](https://github.com/mintproject/MINT-Transformation)
   * Release predefined pipelines in form of configuration files for
@@ -45,32 +45,34 @@ title: MINT Release updates
   * uses Sentinel-2 imagery from available from Dec-2015 till Mar-2020. 
   * a csv for each river segment will be available for download from the data catalog. 
   
-* Release: Jupyter Notebook for Getting Started with TopoFlow
+* Release: [Jupyter Notebook for Getting Started with TopoFlow](/notebooks.html##jupyter-notebooks-for-use-with-the-topoflow-model)
     * [Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Getting_Started.ipynb) 
 
 ## March, 2020
 
-* Release [MINT-UI 4.3.4](https://mint.isi.edu/)
+* Release [MINT-UI 4.3.4]({{ '/products/mint/' | absolute_url }})
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.3.4)
     * Users can run their ModelConfigurations
-* Release [DAME 3.3.0](https://dame-cli.readthedocs.io/en/latest/) (Desktop Application for Model Execution).
+* Release [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 3.3.0
+    *[Changelog](https://github.com/mintproject/dame_cli/releases/tag/3.3.0)
     * Execute models from MINT on Desktop/Server
-* Release [ModelCatalog v1.4.0](https://github.com/mintproject/ModelCatalog/releases/tag/v1.4.0)
+* Release [Model Catalog API]({{ '/products/model/' | absolute_url }}#model-catalog-api) 1.4.0
+    * [Changelog](https://github.com/mintproject/ModelCatalog/releases/tag/v1.4.0)
     * Users can insert their ModelConfigurations
     
 ## February, 2020
 
-* Release [MINT-UI 4.3.0](https://mint.isi.edu/) (Feb 26)
+* Release  [MINT-UI 4.3.0]({{ '/products/mint/' | absolute_url }}) (Feb 26)
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.3.0)
-* Release [MINT-UI 4.2.1](https://mint.isi.edu/) (Feb 19)
+* Release  [MINT-UI 4.2.1]({{ '/products/mint/' | absolute_url }})) (Feb 19)
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.2.1)
-* Release [MINT-UI 4.2.0](https://mint.isi.edu/) (Feb 14)
+* Release  [MINT-UI 4.2.0]({{ '/products/mint/' | absolute_url }})) (Feb 14)
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.2.0)
-* Release [MINT-UI 4.1.0](https://mint.isi.edu/)
+* Release  [MINT-UI 4.1.0]({{ '/products/mint/' | absolute_url }})(https://mint.isi.edu/)
     * Fixing bugs and usability improvements [Release Release 4.1.0 · mintproject/mint-ui-lit](https://github.com/mintproject/mint-ui-lit/releases/tag/4.1.0)
 
 ## January, 2020
-* Release [MINT-UI 4.0.0](https://mint.isi.edu/)
+* Release  [MINT-UI 4.0.0]({{ '/products/mint/' | absolute_url }})
     * Fixing bugs and usability improvements [Release Release 4.0.0-0 · mintproject/mint-ui-lit](https://github.com/mintproject/mint-ui-lit/releases/tag/4.0.0-0)
 
 ## December, 2019

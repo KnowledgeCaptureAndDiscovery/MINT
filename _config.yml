@@ -13,21 +13,29 @@ zip_code:
 country:
 phone:
 include: ['_services']
-# Social settings
-#500px_url:
-#facebook_url:
-#github_url:
-#gitlab_url: https://gitlab.com/u/andrewbanchich
-#googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-#instagram_url: https://instagram.com
-#linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-#pinterest_url:
-#slack_url:
-#twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
 
+navigation:
+- title: Home
+  url: /index.html
+- title: Overview
+  url: /overview.html
+- title: Services and Software
+  url: /products.html
+- title: Publications
+  url: /publications.html
+- title: Demos and Videos
+  url: /demo.html
+- title: Releases
+  url: /releases.html
+- title: Models
+  url: /models.html
+- title: Testbeds
+  url: /testbeds.html
+- title: Notebooks
+  url: /notebooks.html
 kramdown:
   syntax_highlighter: rouge
   input: GFM
