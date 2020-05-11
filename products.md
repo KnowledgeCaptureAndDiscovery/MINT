@@ -17,7 +17,7 @@ To do that, the [MINT User Interface]({{ '/products/mint' | absolute_url }}) int
 
 ## Model Services
 
-The [MINT Model Catalog](#model-catalog-api) provides detailed information about software models and metadata available in MINT. 
+The [MINT Model Catalog]({{ '/products/model/' | absolute_url }}#model-catalog-api) provides detailed information about software models and metadata available in MINT. 
 We provide multiple services to interact with the MINT Model Catalog.
 
 - [Model Catalog API]({{ '/products/model/' | absolute_url }}#model-catalog-api) for adding/modifying/deleting model metadata. 

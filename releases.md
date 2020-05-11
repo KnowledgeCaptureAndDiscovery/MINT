@@ -34,17 +34,14 @@ title: MINT Release updates
     * Spatial transformations: [Cropping](https://github.com/mintproject/MINT-Transformation/blob/master/examples/cropping_weather_dataset.yml)
 * Release [MINT-Data-Sync](https://github.com/mintproject/MINT-Data-Sync) system
   * Monitor when new GLDAS data files become available, upload them to MINT Data Server, and register them in MINT Data Catalog
- 
 * Release [riverwidthEO version 1.0](https://github.com/mintproject/riverwidthEO)
   * process river segments using machine learning algorithms and satellite imagery (Sentinel-2) to create surface area timeseries.
   * uses descarteslabs API to download data for any given segment.
   * provides user with options to provide points on a river as input or just provide a region or country to select predefined points on the river. These predefined points are available for rivers (>100 meters in width) across the globe. 
-
 * Release [River Segment Surface Area Dataset version 1.0](https://mint.isi.edu/ethiopia/datasets/browse/da6b6d47-7672-4e6e-a455-7bbc7e7ceb99) for Ethiopia
   * process ~10,000 river segments (covering all of Ethiopia) using machine learning algorithms and satellite imagery to create surface area timeseries.
   * uses Sentinel-2 imagery from available from Dec-2015 till Mar-2020. 
   * a csv for each river segment will be available for download from the data catalog. 
-  
 * Release: [Jupyter Notebook for Getting Started with TopoFlow](/notebooks.html##jupyter-notebooks-for-use-with-the-topoflow-model)
     * [Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Getting_Started.ipynb) 
 
