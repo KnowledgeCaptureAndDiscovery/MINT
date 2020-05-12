@@ -20,5 +20,5 @@ The MINT Data Catalog (see [overview](https://mintproject.readthedocs.io/en/late
 
 The MINT [Data Catalog API](https://data-catalog.mint.isi.edu/documentation) provides a programmatic way of interacting with the datasets. Some of this functionality is demonstrated in the following:
 
-- [Python notebook](https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/demo/api_demo.ipynb) of registering a dataset using API
-- [Python notebook](https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/demo/CHIRPS_browse.ipynb) of searching for a dataset using API
+- [Python notebook](https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/demo/api_demo.ipynb) for registering a dataset using the MINT Data Catalog API
+- [Python notebook](https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/demo/CHIRPS_browse.ipynb) for searching for a dataset using the MINT Data Catalog API
