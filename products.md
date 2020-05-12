@@ -28,7 +28,7 @@ We provide multiple services to interact with the MINT Model Catalog.
 - [Desktop Application for Model Execution (DAME)]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) obtains the details about the models using MINT Model Catalog API and run it in your computer.
 - [Clients]({{ '/products/model/' | absolute_url }}#model-service-api-clients) are provided to interact with [Model Catalog API]({{ '/products/model/' | absolute_url }}#model-catalog-api) easily.
 
-See an overview and more details in the [MINT Model Services main page]({{ '/products/model' | absolute_url }}.
+See an overview and more details in the [MINT Model Services main page]{{ '/products/model' | absolute_url }}.
 
 ## Data Services
 
@@ -37,7 +37,7 @@ The MINT Data Services provides access to a curated collection of datasets. Each
 - The [MINT Data Catalog]({{ '/products/data' | absolute_url }}#mint-data-catalog) provides access to a curated collection of a datasets in the MINT Data Catalog.
 - The [MINT Data Transformation System]({{ '/products/data' | absolute_url }}#transformation-services)  provides a list of supported transformations that can be used to transform datasets into different formats, which may be required by different models.
 
-See an overview and more details in the [MINT Data Services main page]({{ '/products/data' | absolute_url }}#mint-data-catalog.
+See an overview and more details in the [MINT Data Services main page]{{ '/products/data' | absolute_url }}.
 
 ## Execution Services
 
@@ -48,6 +48,6 @@ The MINT Execution Services support the execution of single models and model ens
 
 ## Other services
 
-- [The Scientific Variables Ontology Framework]({{ '/products/other' | absolute_url }}) is a methodology for uniformly representing scientific variables.
+- [The Scientific Variables Ontology Framework]{{ '/products/other' | absolute_url }} is a methodology for uniformly representing scientific variables.
 
-- [Unique datasets extracted from remote sensing data](({{ '/products/other' | absolute_url }})) for calibration and validation of models.
+- [Unique datasets extracted from remote sensing data]{{ '/products/other' | absolute_url }} for calibration and validation of models.
