@@ -42,8 +42,8 @@ title: MINT Release updates
   * process ~10,000 river segments (covering all of Ethiopia) using machine learning algorithms and satellite imagery to create surface area timeseries.
   * uses Sentinel-2 imagery from available from Dec-2015 till Mar-2020. 
   * a csv for each river segment will be available for download from the data catalog. 
-* Release of [Jupyter Notebook for Getting Started with TopoFlow](/notebooks.html##jupyter-notebooks-for-use-with-the-topoflow-model)
-    * [Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Getting_Started.ipynb) 
+* Release of a [Jupyter Notebook for the TopoFlow model](/notebooks.html##jupyter-notebooks-for-use-with-the-topoflow-model) with an overview and introduction to new users
+    * [TopoFlow Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Getting_Started.ipynb) 
 
 ## March, 2020
 
