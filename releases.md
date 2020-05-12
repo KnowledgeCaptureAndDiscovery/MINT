@@ -6,7 +6,7 @@ title: MINT Release updates
 *Last updated: 2020-05-05*
 
 ## May, 2020
-* Release [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 5.0.0
+* Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 5.0.0
   * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.0.0)
   * Run models using local data
   * Configure with custom ModelCatalog or user
@@ -16,67 +16,67 @@ title: MINT Release updates
 
 
 ## April, 2020
-* Release [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 4.1.3
+* Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 4.1.3
   * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/4.1.3)
   * Additional testing and bug fixes (Testing in OSX and Unix). DAME will ask for missing parameters and inputs, using defaults when provided.
   * Improvements to messages and logging in the UI. Now the singularity commands, inputs and Docker images are displayed, in case users want to execute models with their own means.
   * Improved documentation and examples
-* Release [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic)
+* Initial release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 0.2.0
   * [Code](https://github.com/mintproject/mic/releases/tag/0.2.0)
   * Users can define and insert new models and model configurations.
   * Users can define input/outputs/parameters of model configurations.
   * First [release of mic documentation](https://mic-cli.readthedocs.io/en/latest/)
-* Release [Data Transformation services]({{ '/products/data/' | absolute_url }}#transformation-services) system
+* Release of [Data Transformation services]({{ '/products/data/' | absolute_url }}#transformation-services) system
   * Users can run the transformation pipeline through CLI, web service or Docker.
     * [Instructions](https://github.com/mintproject/MINT-Transformation)
   * Release predefined pipelines in form of configuration files for
     * Model-specific transformations: [Topoflow](https://github.com/mintproject/MINT-Transformation/blob/master/examples/topoflow4/topoflow_climate.yml)
     * Spatial transformations: [Cropping](https://github.com/mintproject/MINT-Transformation/blob/master/examples/cropping_weather_dataset.yml)
-* Release [MINT-Data-Sync](https://github.com/mintproject/MINT-Data-Sync) system
+* Release of [MINT-Data-Sync](https://github.com/mintproject/MINT-Data-Sync) system
   * Monitor when new GLDAS data files become available, upload them to MINT Data Server, and register them in MINT Data Catalog
-* Release [riverwidthEO version 1.0](https://github.com/mintproject/riverwidthEO)
-  * process river segments using machine learning algorithms and satellite imagery (Sentinel-2) to create surface area timeseries.
-  * uses descarteslabs API to download data for any given segment.
-  * provides user with options to provide points on a river as input or just provide a region or country to select predefined points on the river. These predefined points are available for rivers (>100 meters in width) across the globe. 
-* Release [River Segment Surface Area Dataset version 1.0](https://mint.isi.edu/ethiopia/datasets/browse/da6b6d47-7672-4e6e-a455-7bbc7e7ceb99) for Ethiopia
+* Release of [riverwidthEO version 1.0](https://github.com/mintproject/riverwidthEO)
+  * Process river segments using machine learning algorithms and satellite imagery (Sentinel-2) to create surface area timeseries.
+  * Uses descarteslabs API to download data for any given segment.
+  * Provides user with options to provide points on a river as input or just provide a region or country to select predefined points on the river. These predefined points are available for rivers (>100 meters in width) across the globe. 
+* Initial release of [River Segment Surface Area Dataset version 1.0](https://mint.isi.edu/ethiopia/datasets/browse/da6b6d47-7672-4e6e-a455-7bbc7e7ceb99) for Ethiopia
   * process ~10,000 river segments (covering all of Ethiopia) using machine learning algorithms and satellite imagery to create surface area timeseries.
   * uses Sentinel-2 imagery from available from Dec-2015 till Mar-2020. 
   * a csv for each river segment will be available for download from the data catalog. 
-* Release: [Jupyter Notebook for Getting Started with TopoFlow](/notebooks.html##jupyter-notebooks-for-use-with-the-topoflow-model)
+* Release of [Jupyter Notebook for Getting Started with TopoFlow](/notebooks.html##jupyter-notebooks-for-use-with-the-topoflow-model)
     * [Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Getting_Started.ipynb) 
 
 ## March, 2020
 
-* Release [MINT-UI 4.3.4]({{ '/products/mint/' | absolute_url }})
+* Release of [MINT-UI 4.3.4]({{ '/products/mint/' | absolute_url }})
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.3.4)
     * Users can run their ModelConfigurations
-* Release [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 3.3.0
-    *[Changelog](https://github.com/mintproject/dame_cli/releases/tag/3.3.0)
+* Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 3.3.0
+    * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/3.3.0)
     * Execute models from MINT on Desktop/Server
-* Release [Model Catalog API]({{ '/products/model/' | absolute_url }}#model-catalog-api) 1.4.0
+* Release of [Model Catalog API]({{ '/products/model/' | absolute_url }}#model-catalog-api) 1.4.0
     * [Changelog](https://github.com/mintproject/ModelCatalog/releases/tag/v1.4.0)
     * Users can insert their ModelConfigurations
     
 ## February, 2020
 
-* Release  [MINT-UI 4.3.0]({{ '/products/mint/' | absolute_url }}) (Feb 26)
+* Release of [MINT-UI 4.3.0]({{ '/products/mint/' | absolute_url }}) (Feb 26)
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.3.0)
-* Release  [MINT-UI 4.2.1]({{ '/products/mint/' | absolute_url }})) (Feb 19)
+* Release of [MINT-UI 4.2.1]({{ '/products/mint/' | absolute_url }})) (Feb 19)
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.2.1)
-* Release  [MINT-UI 4.2.0]({{ '/products/mint/' | absolute_url }})) (Feb 14)
+* Release of [MINT-UI 4.2.0]({{ '/products/mint/' | absolute_url }})) (Feb 14)
     * [Changelog](https://github.com/mintproject/mint-ui-lit/releases/tag/4.2.0)
-* Release  [MINT-UI 4.1.0]({{ '/products/mint/' | absolute_url }})(https://mint.isi.edu/)
+* Release of [MINT-UI 4.1.0]({{ '/products/mint/' | absolute_url }})(https://mint.isi.edu/)
     * Fixing bugs and usability improvements [Release Release 4.1.0 · mintproject/mint-ui-lit](https://github.com/mintproject/mint-ui-lit/releases/tag/4.1.0)
 
 ## January, 2020
-* Release  [MINT-UI 4.0.0]({{ '/products/mint/' | absolute_url }})
-    * Fixing bugs and usability improvements [Release Release 4.0.0-0 · mintproject/mint-ui-lit](https://github.com/mintproject/mint-ui-lit/releases/tag/4.0.0-0)
+* Release of [MINT-UI 4.0.0]({{ '/products/mint/' | absolute_url }})
+    * Bug fixes and usability improvements [Release Release 4.0.0-0 · mintproject/mint-ui-lit](https://github.com/mintproject/mint-ui-lit/releases/tag/4.0.0-0)
 
 ## December, 2019
 
 #### MINT Data Catalog
 
-*   Release of MINT Data Catalog UI
+*   Releases of MINT Data Catalog UI
     *   It is now possible to browse MINT Data Catalog from a [browser](https://data-catalog.mint.isi.edu/)
     *   You can view API documentation [here](https://data-catalog.mint.isi.edu/documentation)
 *   MINT Data Catalog [Github repository](https://github.com/mintproject/MINT-DataCatalog-Public). Specifically,
@@ -92,23 +92,23 @@ title: MINT Release updates
     *   Update to use [the Software Description Ontology v1.4.0](https://w3id.org/okn/o/sd/1.4.0)    
     *   Add custom SPARQL queries
 
-
-#### Ingestion API:
-
-* Release [1.1.0](https://ingestion.mint.isi.edu/v1.1.0/ui):
-    * Gather model ensemble execution results
-
 ### Ensemble Manager API
 
 * Release [1.0.0](https://ensemble.mint.isi.edu/v1/api-docs):
     * Execute models using singularity
-    * Include parallelism option in config
-    * Adding DELETE request to executionsLocal to delete cache of execution
+    * Include parallelism option in config to do multiple model runs
+    * Adding DELETE request to executions
+    * Local delete for cache of execution
 
+#### Ingestion API:
+
+* Release [1.1.0](https://ingestion.mint.isi.edu/v1.1.0/ui):
+    * Take model execution data and ingest into a database to enable interactive dashboards
+    * Gather model ensemble execution results
+    
 ## November, 2019
 
-#### MINT NetCDF
-
+#### MINT NetCDF Convention
 
 *   Release of MINT NetCDF convention
     *   We propose a self-describing data format for structured gridded datasets for MINT data catalog and visualization based on the NetCDF and the CF convention. Check [here](https://github.com/mintproject/MINT-NetCDF-Convention) for the lastest document. Please open new issues on [GitHub](https://github.com/mintproject/MINT-NetCDF-Convention/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) or on [Google doc](https://docs.google.com/spreadsheets/d/1eT_Z51R4VwVen-qx7XGtNjoHuc2sMlYmmxbi5acumx0/edit#gid=0) for comments.
@@ -121,7 +121,7 @@ title: MINT Release updates
 #### Data Catalog
 
 
-*   Release D-REPR: a library for reading heterogeneous datasets into common representations. Check its [GitHub](https://github.com/usc-isi-i2/d-repr) for more information.
+*   Release of D-REPR: a library for reading heterogeneous datasets into common representations. Check its [GitHub](https://github.com/usc-isi-i2/d-repr) for more information.
 
 
 ## May, 2019
