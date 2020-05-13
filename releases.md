@@ -31,7 +31,6 @@ title: MINT Release updates
     * [Instructions](https://github.com/mintproject/MINT-Transformation)
   * Release predefined pipelines in form of configuration files for
     * Model-specific transformations: [Topoflow](https://github.com/mintproject/MINT-Transformation/blob/master/examples/topoflow4/topoflow_climate.yml)
-    * Spatial transformations: [Cropping](https://github.com/mintproject/MINT-Transformation/blob/master/examples/cropping_weather_dataset.yml)
 * Release of [MINT-Data-Sync](https://github.com/mintproject/MINT-Data-Sync) system
   * Monitor when new GLDAS data files become available, upload them to MINT Data Server, and register them in MINT Data Catalog
 * Release of [River Segment Surface Area Dataset version 1.0](https://mint.isi.edu/ethiopia/datasets/browse/da6b6d47-7672-4e6e-a455-7bbc7e7ceb99) for Ethiopia
