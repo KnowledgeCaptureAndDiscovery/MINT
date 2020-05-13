@@ -39,7 +39,7 @@ title: MINT Release updates
   * Uses Sentinel-2 imagery available from December 2015 until March 2020. 
   * A csv with surface area timeseries for each river segment is available for download from the MINT Data Catalog. 
 * Release of [riverwidthEO version 1.0](https://github.com/mintproject/riverwidthEO)
-  * Process river segments using machine learning algorithms and satellite imagery (Sentinel-2) to create surface area timeseries.
+  * A python package that processes river segments using machine learning algorithms and satellite imagery (Sentinel-2) to create surface area timeseries (delivered as a csv file).
   * Uses descarteslabs API to download data for any given segment.
   * Provides user with options to provide points on a river as input or just provide a region or country to select predefined points on the river. These predefined points are available for rivers (>100 meters in width) across the globe. 
 * Release of a [Jupyter Notebook for the TopoFlow model](/notebooks.html##jupyter-notebooks-for-use-with-the-topoflow-model) with an overview and introduction to new users
