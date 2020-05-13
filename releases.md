@@ -26,11 +26,11 @@ title: MINT Release updates
   * Users can define and insert new models and model configurations.
   * Users can define input/outputs/parameters of model configurations.
   * First BETA [release of mic documentation](https://mic-cli.readthedocs.io/en/latest/)
-* Release of [Data Transformation services]({{ '/products/data/' | absolute_url }}#transformation-services) system
+* Release of [Data Transformation services v1.0]({{ '/products/data/' | absolute_url }}#transformation-services) system
   * Users can run the transformation pipeline through CLI, web service or Docker.
     * [Instructions](https://github.com/mintproject/MINT-Transformation)
   * Release predefined pipelines in form of configuration files for
-    * Model-specific transformations: [Topoflow](https://github.com/mintproject/MINT-Transformation/blob/master/examples/topoflow4/topoflow_climate.yml)
+    * Model-specific transformations: [Topoflow](https://github.com/mintproject/MINT-Transformation/wiki/Transformation-Adapters)
 * Release of [MINT-Data-Sync](https://github.com/mintproject/MINT-Data-Sync) system
   * Monitor when new GLDAS data files become available, upload them to MINT Data Server, and register them in MINT Data Catalog
 * Release of [River Segment Surface Area Dataset version 1.0](https://mint.isi.edu/ethiopia/datasets/browse/da6b6d47-7672-4e6e-a455-7bbc7e7ceb99) for Ethiopia
