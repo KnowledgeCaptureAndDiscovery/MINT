@@ -23,8 +23,8 @@ title: MINT Release updates
   * Improved documentation and examples
 * Initial release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 0.2.0 - BETA
   * [Code](https://github.com/mintproject/mic/releases/tag/0.2.0)
-  * Users can define and insert new models and model configurations.
-  * Users can define input/outputs/parameters of model configurations.
+  * Users can define and insert metadata about new models and model configurations.
+  * Users can define metadata about input/outputs/parameters of model configurations.
   * First BETA [release of mic documentation](https://mic-cli.readthedocs.io/en/latest/)
 * Release of [Data Transformation services v1.0]({{ '/products/data/' | absolute_url }}#transformation-services)
   * Users can run the transformation pipeline through CLI, web service or Docker.
