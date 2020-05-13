@@ -26,7 +26,7 @@ title: MINT Release updates
   * Users can define and insert new models and model configurations.
   * Users can define input/outputs/parameters of model configurations.
   * First BETA [release of mic documentation](https://mic-cli.readthedocs.io/en/latest/)
-* Release of [Data Transformation services v1.0]({{ '/products/data/' | absolute_url }}#transformation-services) system
+* Release of [Data Transformation services v1.0]({{ '/products/data/' | absolute_url }}#transformation-services)
   * Users can run the transformation pipeline through CLI, web service or Docker.
     * [Instructions](https://github.com/mintproject/MINT-Transformation)
   * Release predefined pipelines in form of configuration files for
