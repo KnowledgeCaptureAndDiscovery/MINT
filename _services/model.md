@@ -11,7 +11,7 @@ A good overview about the concepts is available [here](https://mintproject.readt
 
 We provide multiple services to add, modify, and browse models:
 1. Create and edit your models 
-    - [Model Insertion Checker (MIC)](#model-insertion-checker-mic) [CLI] encapsulates your code and add the your model using [MINT Model Catalog API](#model-catalog-api)
+    - [Model Insertion Checker (MIC) - BETA](#model-insertion-checker-mic) [CLI] encapsulates your code and add the your model using [MINT Model Catalog API](#model-catalog-api)
     - [Model Catalog Explorer](#model-catalog-explorer) (GUI) modifies the contents of the MINT Model Catalog using [MINT Model Catalog API](#model-catalog-api)
 2. Browse avaialable models:
     - [Model Catalog Explorer](#model-catalog-explorer) (GUI) shows the contents of the MINT Model Catalog using [MINT Model Catalog API](#model-catalog-api)

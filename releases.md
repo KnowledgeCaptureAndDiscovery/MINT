@@ -21,7 +21,7 @@ title: MINT Release updates
   * Additional testing and bug fixes (Testing in OSX and Unix). DAME will ask for missing parameters and inputs, using defaults when provided.
   * Improvements to messages and logging in the UI. Now the singularity commands, inputs and Docker images are displayed, in case users want to execute models with their own means.
   * Improved documentation and examples
-* Initial release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 0.2.0
+* Initial release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 0.2.0 - BETA
   * [Code](https://github.com/mintproject/mic/releases/tag/0.2.0)
   * Users can define and insert new models and model configurations.
   * Users can define input/outputs/parameters of model configurations.
