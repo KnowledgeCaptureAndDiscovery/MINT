@@ -35,7 +35,7 @@ GUI for exploring the contents of the model catalog
 
 Also, a registered user can add, edit, and remove their models.
 
-### Model Insertion Checker (MIC)
+### Model Insertion Checker (MIC) - BETA
 
 Model Insertion CLI (MIC) is a command-line interface for adding models on a Model Catalog Service using the previous service [Model Catalog API](#model-catalog-api).
 
