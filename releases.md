@@ -27,8 +27,8 @@ title: MINT Release updates
   * First BETA [release of mic documentation](https://mic-cli.readthedocs.io/en/latest/)
 * Release of [Data Transformation services v1.0]({{ '/products/data/' | absolute_url }}#transformation-services)
   * Users can run the transformation pipeline through CLI, web service or Docker.
-    * [Instructions](https://github.com/mintproject/MINT-Transformation)
-  * Release predefined pipelines in form of configuration files for
+    * [Instructions](https://github.com/mintproject/MINT-Transformation) 
+  * Release predefined pipelines in form of configuration files for:
     * Model-specific transformations: [Topoflow](https://github.com/mintproject/MINT-Transformation/wiki/Transformation-Adapters)
 * Release of [MINT-Data-Sync](https://github.com/mintproject/MINT-Data-Sync) system
   * Monitor when new GLDAS data files become available, upload them to MINT Data Server, and register them in MINT Data Catalog
