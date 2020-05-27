@@ -6,6 +6,13 @@ title: MINT Release updates
 *Last updated: 2020-05-05*
 
 ## May, 2020
+* Release of [DSI](https://github.com/mintproject/droughtIndices) v1.1.0
+ * [Changelog](https://github.com/mintproject/droughtIndices/releases/tag/1.1.0)
+ * Configuration of the model using a JSON file
+ * Add support to ECMWF
+ * Add support to run globally
+ * Improve compatibility with xarray (performance improvement)
+
 * Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 5.0.0
   * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.0.0)
   * Run models using local data
