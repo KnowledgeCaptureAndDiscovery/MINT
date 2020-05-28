@@ -20,6 +20,10 @@ title: MINT Release updates
   * Support Docker on Windows, Linux and macOS (Beta)
   * Validation of URLs
   * List and show model configurations and setups
+  
+* Release of [Data Transformation services v1.1]({{ '/products/data/' | absolute_url }}#transformation-services)
+  * Add new adapter to support [GLDAS2Cycles transformation](https://github.com/mintproject/MINT-Transformation/wiki/Transformation-Adapters#3--gldas2cyclesfunc)
+  * Design a procedure to quickly [import external transformation libraries](https://github.com/mintproject/MINT-Transformation/wiki/Importing-External-Transformations) (e.g. Topoflow transformation notebooks)
 
 
 ## April, 2020
