@@ -25,7 +25,14 @@ title: MINT Release updates
   * Add new adapter to support [GLDAS2Cycles transformation](https://github.com/mintproject/MINT-Transformation/wiki/Transformation-Adapters#3--gldas2cyclesfunc)
   * Design a procedure to quickly [import external transformation libraries](https://github.com/mintproject/MINT-Transformation/wiki/Importing-External-Transformations) (e.g. Topoflow transformation notebooks)
 
-
+* Release of [riverwidthEO version 1.1](https://github.com/mintproject/riverwidthEO)
+  * updated the methodology to detect cloudy pixels.
+  * updated the methodology to use clustering and classification together to handle hazy images (that are missed by cloud filters)
+  * updated the classification model by adding more training images.
+  
+* Release of [River Segment Surface Area Dataset version 1.1](https://mint.isi.edu/ethiopia/datasets/browse/da6b6d47-7672-4e6e-a455-7bbc7e7ceb99) for Ethiopia
+  * updated the results for 5 basins in Ethopia using the updated model. 
+  
 ## April, 2020
 * Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 4.1.3
   * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/4.1.3)
