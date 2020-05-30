@@ -34,7 +34,15 @@ title: MINT Release updates
   
 * Release of [River Segment Surface Area Dataset version 1.1](https://mint.isi.edu/ethiopia/datasets/browse/da6b6d47-7672-4e6e-a455-7bbc7e7ceb99) for Ethiopia
   * updated the results for 5 basins in Ethopia using the updated model. 
-  
+
+* Release of three new [Jupyter Notebooks for the TopoFlow model](/notebooks.html##jupyter-notebooks-for-use-with-the-topoflow-model), and three updates to existing notebooks:
+    * New: [TopoFlow Rainfall Inputs](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Rainfall_Inputs.ipynb)
+    * New: [TopoFlow Flood Modeling](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Flood_Modeling.ipynb)
+    * New: [TopoFlow Calibration Gauge Data](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Calibration_Gauge_Data.ipynb) 
+    * Update: [TopoFlow Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Getting_Started.ipynb) 
+    * Update: [TopoFlow Utils Demo1](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Utils_Demo1.ipynb)
+    * Update: [TopoFlow Visualization v2](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Visualization_v2.ipynb) 
+    
 ## April, 2020
 * Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 4.1.3
   * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/4.1.3)
