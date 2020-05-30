@@ -35,7 +35,7 @@ title: MINT Release updates
 * Release of [River Segment Surface Area Dataset version 1.1](https://mint.isi.edu/ethiopia/datasets/browse/da6b6d47-7672-4e6e-a455-7bbc7e7ceb99) for Ethiopia
   * updated the results for 5 basins in Ethopia using the updated model. 
 
-* Release of three new [Jupyter Notebooks for the TopoFlow model](/notebooks.html##jupyter-notebooks-for-use-with-the-topoflow-model), and three updates to existing notebooks:
+* Release of three new Jupyter Notebooks for the TopoFlow model, and three updates to existing notebooks:
     * New: [TopoFlow Rainfall Inputs](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Rainfall_Inputs.ipynb)
     * New: [TopoFlow Flood Modeling](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Flood_Modeling.ipynb)
     * New: [TopoFlow Calibration Gauge Data](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Calibration_Gauge_Data.ipynb) 
