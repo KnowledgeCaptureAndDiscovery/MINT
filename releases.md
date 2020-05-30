@@ -21,7 +21,7 @@ title: MINT Release updates
   * Validation of URLs
   * List and show model configurations and setups
   
-* Release of [Data Transformation services v1.1]({{ '/products/data/' | absolute_url }}#transformation-services)
+* Release of [Data Transformation service v1.1]({{ '/products/data/' | absolute_url }}#transformation-services)
   * Support data streaming 
   * Add new pipeline/adapter to support [GLDAS2Cycles transformation](https://github.com/mintproject/MINT-Transformation/wiki/Transformation-Adapters#3--gldas2cyclesfunc)
   * Add new pipeline/adapter to support [variable aggregation in GLDAS data by both time and woreda](https://github.com/mintproject/MINT-Transformation/tree/master/examples/aggregation)
@@ -45,7 +45,7 @@ title: MINT Release updates
   * [Code](https://github.com/mintproject/mic/releases/tag/0.2.0)
   * Users can define and insert an initial subset of metadata about new models.
   * First BETA [release of mic documentation](https://mic-cli.readthedocs.io/en/latest/)
-* Release of [Data Transformation services v1.0]({{ '/products/data/' | absolute_url }}#transformation-services)
+* Release of [Data Transformation service v1.0]({{ '/products/data/' | absolute_url }}#transformation-services)
   * Users can run the transformation pipeline through CLI, web service or Docker.
     * [Instructions](https://github.com/mintproject/MINT-Transformation) 
   * Release predefined pipelines in form of configuration files for:
