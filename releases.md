@@ -22,7 +22,9 @@ title: MINT Release updates
   * List and show model configurations and setups
   
 * Release of [Data Transformation services v1.1]({{ '/products/data/' | absolute_url }}#transformation-services)
-  * Add new adapter to support [GLDAS2Cycles transformation](https://github.com/mintproject/MINT-Transformation/wiki/Transformation-Adapters#3--gldas2cyclesfunc)
+  * Support data streaming 
+  * Add new pipeline/adapter to support [GLDAS2Cycles transformation](https://github.com/mintproject/MINT-Transformation/wiki/Transformation-Adapters#3--gldas2cyclesfunc)
+  * Add new pipeline/adapter to support variable aggregation in GLDAS data by both time and woreda (https://github.com/mintproject/MINT-Transformation/tree/master/examples/aggregation)
   * Design a procedure to quickly [import external transformation libraries](https://github.com/mintproject/MINT-Transformation/wiki/Importing-External-Transformations) (e.g. Topoflow transformation notebooks)
 
 * Release of [riverwidthEO version 1.1](https://github.com/mintproject/riverwidthEO)
