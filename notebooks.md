@@ -23,3 +23,7 @@ The MINT [Data Catalog API](https://data-catalog.mint.isi.edu/documentation) pro
 * A [Python notebook](https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/demo/api_demo.ipynb) for registering a dataset using the MINT Data Catalog API
 
 * A [Python notebook](https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/demo/CHIRPS_browse.ipynb) for searching for a dataset using the MINT Data Catalog API
+
+## Scientific Variables
+
+* A [Python notebook](https://github.com/mariutzica/Scientific-Variable-Exploration-Tools/blob/master/Variable%20Report.ipynb) for performing scientific variable searches/exploration and generating SVO-compatible knowledge graphs grounded to SVO variables and WM indicators.
