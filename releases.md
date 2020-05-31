@@ -41,7 +41,10 @@ title: MINT Release updates
     * New: [TopoFlow Calibration Gauge Data](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Calibration_Gauge_Data.ipynb) 
     * Update: [TopoFlow Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Getting_Started.ipynb) 
     * Update: [TopoFlow Utils Demo1](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Utils_Demo1.ipynb)
-    * Update: [TopoFlow Visualization v2](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Visualization_v2.ipynb) 
+    * Update: [TopoFlow Visualization v2](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Visualization_v2.ipynb)
+    
+* Release of notebook and Python tools for performing scientific variable exploration and grounding to Scientific Variables Ontology (SVO) variables and entries in the World Modelers Indicators (WMI) list:
+    * New: [Scientific Variable Exploration and Grounding](https://github.com/mariutzica/Scientific-Variable-Exploration-Tools/blob/master/Variable%20Report.ipynb)
     
 ## April, 2020
 * Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 4.1.3
