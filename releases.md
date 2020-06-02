@@ -13,13 +13,21 @@ title: MINT Release updates
  * Add support to run globally
  * Improve compatibility with xarray (performance improvement)
 
-* Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 5.0.0
-  * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.0.0)
+* Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 5.1.1
+  * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.1.1)
   * Run models using local data
   * Configure with custom ModelCatalog or user
   * Support Docker on Windows, Linux and macOS (Beta)
   * Validation of URLs
   * List and show model configurations and setups
+  * Integration of data transformations for TopoFlow Data (Weather)
+
+* New release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 0.4.1 - ALPHA
+  * End-to-end encapsulation of model components.
+  * Provides templates for creating components.
+  * Enables testing through Docker images (locally)
+  * Create a snapshot of a model component, saving code in GitHub and Docker image in DockerHub.
+  * After testing, pushes changes to model catalog.
   
 * Release of [Data Transformation service v1.1]({{ '/products/data/' | absolute_url }}#transformation-services)
   * Support data streaming 
@@ -52,7 +60,7 @@ title: MINT Release updates
   * Additional testing and bug fixes (Testing in OSX and Unix). DAME will ask for missing parameters and inputs, using defaults when provided.
   * Improvements to messages and logging in the UI. Now the singularity commands, inputs and Docker images are displayed, in case users want to execute models with their own means.
   * Improved documentation and examples
-* Initial release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 0.2.0 - BETA
+* Initial release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 0.2.0 - ALPHA
   * [Code](https://github.com/mintproject/mic/releases/tag/0.2.0)
   * Users can define and insert an initial subset of metadata about new models.
   * First BETA [release of mic documentation](https://mic-cli.readthedocs.io/en/latest/)
