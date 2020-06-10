@@ -1,4 +1,19 @@
 - title: "OKG-Soft: An Open Knowledge Graph with Machine Readable Scientific Software Metadata"
+  authors: "Gil,Y.; Garijo, D.; Khider, D.; Knoblock, C.A.; Ratnakar, V.; Osorio, M.; Vargas, H.; Pham,M.; Pujara, J.; Shbita, B. Vu, B; Chiang, Y.; Feldman, D.; Lin, Y.; Song, H.; Kumar, V.; Khandelwal, A.; Steinbach, M.; Tayal, K.; Xu, S.; Pierce, S.A.; Pearson, L.; Hardesty-Lewis, D.; Deelman, E.; Ferreira da Silva, R.;  Mayani, R.; Kemanian, A.R.; Shi, Y.; Leonard, L.; Peckham, S.; Stoica, M.; Cobourn, K.; Zhang, Z.; Duffy, C.; and Shu, L."
+  link: ""
+  description: "Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making (Submitted to ACM Transactions on Interactive Intelligent Systems)"
+  
+- title: "OBA: An Ontology-Based Framework for Creating REST APIs for Knowledge Graphs"
+  authors: "Garijo, D. and Osorio M."
+  link: ""
+  description: "Submitted to the 2020 International Semantic Web Conference"
+  
+- title: "FAIR Computational Workflows"
+  authors: "Goble, C.; Cohen-Boulakia, S.; Soiland-Reyes, S.; Garijo, D.; Gil, Y.; Crusoe, M. R.; Peters, K.; and Schober, D"
+  link: "https://www.mitpressjournals.org/doi/pdf/10.1162/dint_a_00033"
+  description: "Data Intelligence, 0(0): 108-121. 2020"
+
+- title: "OKG-Soft: An Open Knowledge Graph with Machine Readable Scientific Software Metadata"
   authors: "D. Garijo, M. Osorio, D. Khider, V. Ratnakar, and Y. Gil"
   link: "/assets/publications/garijo-etal-escience19.pdf"
   description: "15th eScience Conference, 2019"
@@ -13,11 +28,6 @@
   link: "/assets/publications/stoica-peckham_escience19_abstract.pdf"
   description: "Workshop on Advanced Knowledge Technologies for Science in a FAIR World, 2019"
 
-- title: "The Scientific Variables Ontology: A Blueprint for Custom Manual and Autpmated Creation and Alignment of Machine-Iterpretable Qualitative and Quanitative Variable Concepts"
-  authors: "Stoica M., and S. D. Peckham"
-  link: "/assets/publications/stoica-peckham-cwm19.pdf"
-  description: "Modeling the World's Systems, 2019"
-
 - title: "Parsing, Representing and Transforming Units of Measure"
   authors: "Shbita B., A. Rajendran, J. Pujara, and C. Knoblock"
   link: "/assets/publications/shbita-etal-cwm19.pdf"
@@ -30,12 +40,12 @@
 
 - title: "The Scientific Variables Ontology: A Blueprint for Custom Manual and Autpmated Creation and Alignment of Machine-Iterpretable Qualitative and Quanitative Variable Concepts"
   authors: "M. Stoica and S. D. Peckham"
-  link: ""
+  link: "http://mint-project.info/assets/publications/stoica-peckham-cwm19.pdf"
   description: "Modeling the World's Systems Conference, 2019"
 
 - title: "A Semantic Model Registry to Support Comparison and Reuse"
   authors: "D. Garijo, D. Khider, Y. Gil, L. Carvalho, B. Essawy, S. Pierce, D. H. Lewis, V. Ratnakar, S. D. Peckham, C. Duffy, and J. Goodall"
-  link: ""
+  link: " http://dgarijo.com/papers/IEMSs2018-OntoSoft.pdf"
   description: "9th International Congress on Environmental Modelling and Software, 2018"
 
 - title: "Towards Model Integration via Abductive Workflow Composition and Multi-Method Scalable Model Execution"
@@ -45,7 +55,7 @@
 
 - title: "Principle-based, Semi-automatic Ontology Generation to Support Cross-Domain Interoperability of Data Sets and Models"
   authors: "S. D. Peckham, and M. Stoica"
-  link: ""
+  link: "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=4314&context=iemssconference"
   description: "9th International Congress on Environmental Modelling and Software, 2018"
 
 - title: "MINT: Model Integration Through Knowledge-Powered Data and Process Composition"
