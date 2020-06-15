@@ -73,6 +73,16 @@
   link: "https://dl.acm.org/doi/10.1145/3360901.3364449"
   description: "K-CAP '19: Proceedings of the 10th International Conference on Knowledge Capture"
 
+- title: "Learning Semantic Models of Data Sources Using Probabilistic Graphical Models"
+  authors: "B. Vu, C. Knoblock, and J. Pujara"
+  link: "https://doi.org/10.1145/3308558.3313711"
+  description: "WWW '19: The World Wide Web Conference"
+
+- title: "A Common Framework for Developing Table Understanding Models"
+  authors: "J. Pujara, A. Rajendran, M. Ghasemi-Gol, and P. Szekely"
+  link: "http://ceur-ws.org/Vol-2456/paper35.pdf"
+  description: "International Semantic Web Conference, 2019 (Posters)"
+
 #- title: ""
 #  authors: ""
 #  link: ""
