@@ -7,12 +7,12 @@
 - title: "Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making"
   authors: "Gil,Y.; Garijo, D.; Khider, D.; Knoblock, C.A.; Ratnakar, V.; Osorio, M.; Vargas, H.; Pham,M.; Pujara, J.; Shbita, B. Vu, B; Chiang, Y.; Feldman, D.; Lin, Y.; Song, H.; Kumar, V.; Khandelwal, A.; Steinbach, M.; Tayal, K.; Xu, S.; Pierce, S.A.; Pearson, L.; Hardesty-Lewis, D.; Deelman, E.; Ferreira da Silva, R.;  Mayani, R.; Kemanian, A.R.; Shi, Y.; Leonard, L.; Peckham, S.; Stoica, M.; Cobourn, K.; Zhang, Z.; Duffy, C.; and Shu, L."
   link: ""
-  description: "Under review"
+  description: "[Under review]"
   
 - title: "OBA: An Ontology-Based Framework for Creating REST APIs for Knowledge Graphs"
   authors: "Garijo, D. and Osorio M."
   link: ""
-  description: "Under review"
+  description: "[Under review]"
   
 - title: "FAIR Computational Workflows"
   authors: "Goble, C.; Cohen-Boulakia, S.; Soiland-Reyes, S.; Garijo, D.; Gil, Y.; Crusoe, M. R.; Peters, K.; and Schober, D"
@@ -88,4 +88,6 @@
   authors: "Y. Gil, K. Cobourn, E. Deelman, C. Duffy, R. Ferreira da Silva, A. Kemanian, C. Knoblock, V. Kumar, S. Peckham, L. Carvalho, Y. Chiang, D. Garijo, D. Khider, A. Khandelwal, M. Pahm, J. Pujara, V. Ratnakar, M. Stoica, and B. Vu"
   link: "https://www.isi.edu/~gil/papers/gil-etal-iemss18.pdf"
   description: "Proceedings of the 9th International Congress on Environmental Modelling and Software, 2018"
+
+
 
