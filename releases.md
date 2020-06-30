@@ -5,13 +5,21 @@ title: MINT Release updates
 
 *Last updated: 2020-05-05*
 
+## June, 2020
+* Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api) v0.1 to support automatic data cleaning
+  * Add Web API for [outlier detection](http://data-trans.mint.isi.edu:10011/detect).
+  * Add [Jupyter notebook](https://github.com/mintproject/byod-cleaning-api/blob/master/ocde_demo.ipynb) to interact with service.
+* Release of [Semantic Modeling API](https://github.com/mintproject/semantic-modeling-api) v0.1 to support automatic data modeling
+  * Add Web API for [source modeling](http://mira.isi.edu:41728).
+  * Add [Jupyter notebook](https://github.com/mintproject/semantic-modeling-api/blob/master/demo.ipynb) to interact with service.
+ 
 ## May, 2020
 * Release of [DSI](https://github.com/mintproject/droughtIndices) v1.1.0
- * [Changelog](https://github.com/mintproject/droughtIndices/releases/tag/1.1.0)
- * Configuration of the model using a JSON file
- * Add support to ECMWF
- * Add support to run globally
- * Improve compatibility with xarray (performance improvement)
+  * [Changelog](https://github.com/mintproject/droughtIndices/releases/tag/1.1.0)
+  * Configuration of the model using a JSON file
+  * Add support to ECMWF
+  * Add support to run globally
+  * Improve compatibility with xarray (performance improvement)
 
 * Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 5.1.1
   * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.1.1)
