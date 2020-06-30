@@ -10,7 +10,7 @@ title: MINT Release updates
   * Add Web API for [outlier detection](http://data-trans.mint.isi.edu:10011/detect).
   * Add [Jupyter notebook](https://github.com/mintproject/byod-cleaning-api/blob/master/ocde_demo.ipynb) to interact with service.
 * Release of [Semantic Modeling API](https://github.com/mintproject/semantic-modeling-api) v0.1 to support automatic data modeling
-  * Add Web API for [source modeling](http://mira.isi.edu:41728).
+  * Add Web API for [source modeling](http://mira.isi.edu:8000).
   * Add [Jupyter notebook](https://github.com/mintproject/semantic-modeling-api/blob/master/demo.ipynb) to interact with service.
  
 ## May, 2020
