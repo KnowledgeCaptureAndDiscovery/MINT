@@ -7,7 +7,7 @@ title: MINT Release updates
 
 ## June, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api) v0.1 to support automatic data cleaning
-  * Add Web API for [outlier detection](http://data-trans.mint.isi.edu:10011/detect).
+  * Add Web API for [outlier detection](https://bclean.mint.isi.edu/detect).
   * Add [Jupyter notebook](https://github.com/mintproject/byod-cleaning-api/blob/master/ocde_demo.ipynb) to interact with service.
 * Release of [Semantic Modeling API](https://github.com/mintproject/semantic-modeling-api) v0.1 to support automatic data modeling
   * Add Web API for [source modeling](http://mira.isi.edu:8000).
