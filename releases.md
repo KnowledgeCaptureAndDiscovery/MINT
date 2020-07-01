@@ -23,6 +23,12 @@ title: MINT Release updates
   * Creation a Linux environment using Docker
   * MIC can now trace commands and automatically detect configuration files, inputs and outputs
 
+* Release of [riverwidthEO version 1.2](https://github.com/mintproject/riverwidthEO)
+  * updated the classification model by adding ~3,000 labeled and 90,000 unlabeled images.
+  
+* Release of [River Segment Surface Area Dataset version 1.2](https://mint.isi.edu/ethiopia/datasets/browse/da6b6d47-7672-4e6e-a455-7bbc7e7ceb99) for Ethiopia
+  * updated the results for all of Ethopia using the updated model. 
+
  
 ## May, 2020
 * Release of [DSI](https://github.com/mintproject/droughtIndices) v1.1.0
