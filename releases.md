@@ -7,11 +7,11 @@ title: MINT Project Releases
 
 ## June, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api) v0.1 to support automatic data cleaning
-  * Add Web API for [outlier detection](https://bclean.mint.isi.edu/detect).
-  * Add [Jupyter notebook](https://github.com/mintproject/byod-cleaning-api/blob/master/ocde_demo.ipynb) to interact with service.
+  * Added Web API for [outlier detection](https://bclean.mint.isi.edu/detect).
+  * Added [Jupyter notebook](https://github.com/mintproject/byod-cleaning-api/blob/master/ocde_demo.ipynb) to interact with service.
 * Release of [Semantic Modeling API](https://github.com/mintproject/semantic-modeling-api) v0.1 to support automatic data modeling
-  * Add Web API for [source modeling](http://mira.isi.edu:8000).
-  * Add [Jupyter notebook](https://github.com/mintproject/semantic-modeling-api/blob/master/demo.ipynb) to interact with service.
+  * Added Web API for [source modeling](http://mira.isi.edu:8000).
+  * Added [Jupyter notebook](https://github.com/mintproject/semantic-modeling-api/blob/master/demo.ipynb) to interact with service.
 * Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 5.2.0
   *  [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.1.1)
   *  Added changes so users can specify their own parameter values instead of defaults.
