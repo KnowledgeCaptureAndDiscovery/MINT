@@ -12,6 +12,16 @@ title: MINT Release updates
 * Release of [Semantic Modeling API](https://github.com/mintproject/semantic-modeling-api) v0.1 to support automatic data modeling
   * Add Web API for [source modeling](http://mira.isi.edu:8000).
   * Add [Jupyter notebook](https://github.com/mintproject/semantic-modeling-api/blob/master/demo.ipynb) to interact with service.
+* Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 5.2.0
+  *  [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.1.1)
+  *  Added changes so users can specify their own parameter values instead of defaults.
+* Release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 1.0.0
+  * Now users can start from their model folder (no requirements for data organization)
+  * Automatic detection the framework/language used by the model component (python, conda, java, general)
+  * Automated extraction of dependencies according to the framework/language (pip is supported)
+  * Creation a Linux environment using Docker
+  * MIC can now trace commands and automatically detect configuration files, inputs and outputs
+
  
 ## May, 2020
 * Release of [DSI](https://github.com/mintproject/droughtIndices) v1.1.0
