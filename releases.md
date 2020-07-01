@@ -16,6 +16,7 @@ title: MINT Release updates
   *  [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.1.1)
   *  Added changes so users can specify their own parameter values instead of defaults.
 * Release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 1.0.0
+  * [Changelog](https://github.com/mintproject/mic/releases/tag/1.0.0)
   * Now users can start from their model folder (no requirements for data organization)
   * Automatic detection the framework/language used by the model component (python, conda, java, general)
   * Automated extraction of dependencies according to the framework/language (pip is supported)
