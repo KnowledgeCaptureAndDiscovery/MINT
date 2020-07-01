@@ -29,6 +29,15 @@ title: MINT Project Releases
 * Release of [River Segment Surface Area Dataset version 1.2](https://mint.isi.edu/ethiopia/datasets/browse/da6b6d47-7672-4e6e-a455-7bbc7e7ceb99) for Ethiopia
   * updated the results for all of Ethopia using the updated model. 
 
+* Release of two new Jupyter Notebooks for the TopoFlow model, and updates to several existing notebooks:
+    * New: [TopoFlow Calibration Remote Sensing](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Calibration_Remote_Sensing.ipynb)
+    * New: [TopoFlow Water Scarcity](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Water_Scarcity_Demo.ipynb)
+    * Update: [TopoFlow Rainfall Inputs](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Rainfall_Inputs.ipynb)
+    * Update: [TopoFlow Flood Modeling](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Flood_Modeling.ipynb)
+    * Update: [TopoFlow Calibration Gauge Data](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Calibration_Gauge_Data.ipynb) 
+    * Update: [TopoFlow Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Getting_Started.ipynb) 
+    * Update: [TopoFlow Utils Demo1](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Utils_Demo1.ipynb)
+    * Update: [TopoFlow Visualization v2](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Visualization_v2.ipynb)
  
 ## May, 2020
 * Release of [DSI](https://github.com/mintproject/droughtIndices) v1.1.0
