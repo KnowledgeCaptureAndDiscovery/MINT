@@ -3,7 +3,7 @@ layout: page
 title: MINT Release updates
 ---
 
-*Last updated: 2020-05-05*
+*Last updated: 2020-06-30*
 
 ## June, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api) v0.1 to support automatic data cleaning
