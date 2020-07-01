@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MINT Release updates
+title: MINT Project Releases
 ---
 
 *Last updated: 2020-06-30*
