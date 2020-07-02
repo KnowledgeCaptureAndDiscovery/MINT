@@ -43,7 +43,7 @@ Model Insertion CLI (MIC) - BETA is a command-line interface for adding models o
 
 ### Desktop appliation for model execution (DAME)
 
-The Desktop Application for Model Execution (DAME) is an application for executing environmental models in any local environment or server through a command line interface.
+The Desktop Application for Model Execution (DAME) is a command line interface to execute model components in any local host or server.
 
 Given a model identifier (e.g., TopoFlow for the Awash region: topoflow36_2.1.0_Awash), DAME downloads the model container and its execution environment, and fetches the datasets needed (e.g., soil data, elevation data, etc). Then users can run the model with different input scenario
 
