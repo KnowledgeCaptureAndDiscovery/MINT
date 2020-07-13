@@ -5,6 +5,13 @@ title: MINT Project Releases
 
 *Last updated: 2020-06-30*
 
+## July, 2020
+
+* Release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 1.2.0
+  * [Changelog](https://github.com/mintproject/mic/releases/tag/1.2.0)
+  * Improve usability and fix bugs
+
+
 ## June, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api) v0.1 to support automatic data cleaning
   * Added Web API for [outlier detection](https://bclean.mint.isi.edu/detect).
