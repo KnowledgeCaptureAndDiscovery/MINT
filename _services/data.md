@@ -64,3 +64,4 @@ The library, called CCUT, uses grammar tools to automatically parse the differen
 
 - Code: [https://github.com/basels/ccut](https://github.com/basels/ccut)
 - Python Package: [https://pypi.org/project/ccut/](https://pypi.org/project/ccut/)
+- Wrapper Web UI for the CCUT API service: [https://github.com/basels/ccut-wrapper](https://github.com/basels/ccut-wrapper)
