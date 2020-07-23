@@ -3,13 +3,15 @@ layout: page
 title: MINT Project Releases
 ---
 
-*Last updated: 2020-06-30*
+*Last updated: 2020-07-23*
 
 ## July, 2020
 
 * Release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 1.2.0
   * [Changelog](https://github.com/mintproject/mic/releases/tag/1.2.0)
   * Improve usability and fix bugs
+* Release of [CCUT-Wrapper](https://github.com/basels/ccut-wrapper) 1.0.0
+  * We are releasing a beta version of the wrapper UI for [CCUT 1.0.0](https://pypi.org/project/ccut/). This is an interactive web application that suggests semantic types for units of measurement, supports their transformations, and allows working with spreadsheet files.
 
 
 ## June, 2020
