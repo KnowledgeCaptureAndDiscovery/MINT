@@ -12,7 +12,7 @@ title: MINT Project Releases
   * Improve usability and fix bugs
 * Release of [CCUT-Wrapper](https://github.com/basels/ccut-wrapper) 1.0.0
   * We are releasing a beta version of the wrapper UI for [CCUT 1.0.0](https://pypi.org/project/ccut/). This is an interactive web application that suggests semantic types for units of measurement, supports their transformations, and allows working with spreadsheet files.
-* Release of B-Clean API(https://github.com/mintproject/byod-cleaning-api) v0.2 to support automatic data cleaning
+* Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api) v0.2 to support automatic data cleaning
   * Increase training data: include ~1M web tables with ~7M attributes and ~200M cell values.
   * Support outlier detection based on n-gram uncommonness instead of whole string uncommonness 
 
