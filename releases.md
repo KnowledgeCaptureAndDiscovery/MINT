@@ -3,7 +3,7 @@ layout: page
 title: MINT Project Releases
 ---
 
-*Last updated: 2020-07-23*
+*Last updated: 2020-07-30*
 
 ## July, 2020
 
@@ -15,6 +15,8 @@ title: MINT Project Releases
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api) v0.2 to support automatic data cleaning
   * Increase training data: include ~1M web tables with ~7M attributes and ~200M cell values.
   * Support outlier detection based on n-gram uncommonness instead of whole string uncommonness 
+* Release of [Semantic Modeling API](https://github.com/mintproject/semantic-modeling-api) v0.2
+  * The new model leverages available data on Wikidata and WebTables to improve performance on domains with little training data
 
 ## June, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api) v0.1 to support automatic data cleaning
