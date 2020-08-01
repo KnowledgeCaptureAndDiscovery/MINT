@@ -3,13 +3,24 @@ layout: page
 title: MINT Project Releases
 ---
 
-*Last updated: 2020-07-30*
+*Last updated: 2020-07-31*
 
 ## July, 2020
 
-* Release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 1.2.0
-  * [Changelog](https://github.com/mintproject/mic/releases/tag/1.2.0)
-  * Improve usability and fix bugs
+* Release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 1.3.1
+  * [Changelog](https://github.com/mintproject/mic/releases/tag/1.3.1)
+  * Better capture of dependencies (starting from own image, committing image after user edits)
+  * Auto-detection of parameters and inputs when encapsulating component.
+  * Support for uploading data transformations.
+  * Usability bugs and testing
+  * Improved documentation
+* Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 5.3.1
+  * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.3.1)
+  * Improve errors in singularity image detection and minor bugs
+  * Users can execute data transformations from DAME.
+* Release of [Model Catalog API]({{ '/products/model/' | absolute_url }}#model-catalog-api) 1.5.0
+  * [Changelog](https://github.com/mintproject/ModelCatalog/releases/tag/v1.5.0)
+  * Model description fixes, improved model export functionality.
 * Release of [CCUT-Wrapper](https://github.com/basels/ccut-wrapper) 1.0.0
   * We are releasing a beta version of the wrapper UI for [CCUT 1.0.0](https://pypi.org/project/ccut/). This is an interactive web application that suggests semantic types for units of measurement, supports their transformations, and allows working with spreadsheet files.
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api) v0.2 to support automatic data cleaning
