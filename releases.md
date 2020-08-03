@@ -28,6 +28,12 @@ title: MINT Project Releases
   * Support outlier detection based on n-gram uncommonness instead of whole string uncommonness 
 * Release of [Semantic Modeling API](https://github.com/mintproject/semantic-modeling-api) v0.2
   * The new model leverages available data on Wikidata and WebTables to improve performance on domains with little training data
+* Release of new Jupyter Notebook for the TopoFlow model, and updates to existing notebooks and underlying code:
+    * Troubleshooting large discrepancies between the GLDAS and GPM rainfall datasets (TopoFlow input data)
+    * Calibration with new daily discharge data for the Baro River at Masha.
+    * New: [TopoFlow_Calibration_Baro_at_Masha](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Calibration_Baro_at_Masha.ipynb)
+    * Update: [TopoFlow Calibration Remote Sensing](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Calibration_Remote_Sensing.ipynb)
+    * Update: [TopoFlow Water Scarcity](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Water_Scarcity_Demo.ipynb)
 
 ## June, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api) v0.1 to support automatic data cleaning
