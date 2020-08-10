@@ -16,29 +16,29 @@ This demo focuses on the use of hydrology models for flooding in the Baro region
 
 3. Running more complex models to get detailed predictions 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K3F1lneJsLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/K3F1lneJsLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XGcQXfxnQ-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/XGcQXfxnQ-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## HIGH-LEVEL DEMO STORYBOARD
+## High-level demo storyboard
 The 3 demo segments illustrate how to use MINT capabilities to:
-- Understand a region: 
+- **Understand a region**: 
   
-  **User goals:** The user looks around to see what data is available from gauges, then looks for virtual gauges from remote sensing
+  **_User goals_:** The user looks around to see what data is available from gauges, then looks for virtual gauges from remote sensing
 
-  **User takeaways:** The user sees that is areas where water fluctuates a lot and has potential for flooding
-- Do an initial rough assessment of flooding: 
+  **_User takeaways_:** The user sees that is areas where water fluctuates a lot and has potential for flooding
+- **Do an initial rough assessment of flooding**: 
 
-  **User goals**: The user looks for a simple model that gives then an initial idea of the extent of the flooding, finds HAND (NOTE: the user does not run the model but instead just sees that the results are available, as in emulator model products), 
+  **_User goals_**: The user looks for a simple model that gives then an initial idea of the extent of the flooding, finds HAND (NOTE: the user does not run the model but instead just sees that the results are available, as in emulator model products), 
 
-  **User takeaways**: The user looks at HAND results and sees the scope of the area vulnerable to flooding.  But HAND uses no weather predictions so it always gives the same result, so the user now wants more detail and wants predictions with the amount, and timing of the flooding.
+  **_User takeaways_**: The user looks at HAND results and sees the scope of the area vulnerable to flooding.  But HAND uses no weather predictions so it always gives the same result, so the user now wants more detail and wants predictions with the amount, and timing of the flooding.
 
-- Get more detailed predictions:
+- **Get more detailed predictions**:
   
-  **User goals**: The user looks for a model that can generate more details.  The user finds TopoFlow, which can generate flood depth for any location of interest daily.  This model will quantify the magnitude and timing of the flooding.  
-  
-  **User takeaways**: The user looks at TopoFlow results and sees a detailed visualization (a movie) showing for any given location  in what hours/days/weeks there is clear risk of flooding at how high the water will be.
+  **_User goals_**: The user looks for a model that can generate more details.  The user finds TopoFlow, which can generate flood depth for any location of interest daily.  This model will quantify the magnitude and timing of the flooding.  
 
-## ACKNOWLEDGEMENT
+  **_User takeaways_**: The user looks at TopoFlow results and sees a detailed visualization (a movie) showing for any given location  in what hours/days/weeks there is clear risk of flooding at how high the water will be.
+
+## Acknowledgement
 We would like to thank Dr. Belete Berhanu and Kidist Assefa Legesse Addis Institute of Technology for a very fruitful collaboration.
 

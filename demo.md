@@ -3,6 +3,8 @@ layout: page
 title: Demos and Videos
 ---
 
+See our August 2020 demo videos by clicking on [this link]({{ '/demo_aug_2020.html' | absolute_url }})
+
 ## MINT User Interface
 
 The MINT QuickStart User Guide that gives an introduction and overview of the capabilities of MINT.
