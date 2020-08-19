@@ -70,3 +70,14 @@ These clients support all the operations.
 ##### JavaScript
 
  [[Documentation](https://github.com/mintproject/model-catalog-fetch-api-client/blob/master/README.md)]  [[Code](https://github.com/mintproject/model-catalog-fetch-api-client)][[Releases](https://github.com/mintproject/model-catalog-fetch-api-client/releases)]
+
+
+### Ontologies
+We have developed two main ontologies to help structure the metadata and contents of the model catalog:
+
+#### Software Description Ontology (SD)
+Ontology used to capture the overall metadata of scientific software, including its versions, functionality, inputs, outputs, etc. SD extends popular ontologies such as [Schema.org](https://schema.org/). [[Documentation](https://w3id.org/okn/o/sd)] [[Download](https://github.com/KnowledgeCaptureAndDiscovery/SoftwareDescriptionOntology)]
+
+
+#### Software Description Ontology for Models (SDM)
+Extension of the Software Description Ontology to capture metadata particulat to models (e.g., the region where they are valid, their spatial grid, their temporal interval, etc.). [[Documentation](https://w3id.org/okn/o/sdm/)] [[Download](https://github.com/mintproject/Mint-ModelCatalog-Ontology)]
