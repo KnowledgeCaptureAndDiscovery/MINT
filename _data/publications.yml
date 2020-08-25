@@ -4,6 +4,11 @@
 #  link: ""
 #  description: ""
 
+- title: "Integrating physics-based modeling with machine learning: A survey"
+  authors: "Willard, J.; Jia, X.; Xu, S.; Steinbach, M.;  and Kumar, V."
+  link: "https://arxiv.org/abs/2003.04919"
+  description: "Preprint"
+  
 - title: "Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making"
   authors: "Gil,Y.; Garijo, D.; Khider, D.; Knoblock, C.A.; Ratnakar, V.; Osorio, M.; Vargas, H.; Pham,M.; Pujara, J.; Shbita, B. Vu, B; Chiang, Y.; Feldman, D.; Lin, Y.; Song, H.; Kumar, V.; Khandelwal, A.; Steinbach, M.; Tayal, K.; Xu, S.; Pierce, S.A.; Pearson, L.; Hardesty-Lewis, D.; Deelman, E.; Ferreira da Silva, R.;  Mayani, R.; Kemanian, A.R.; Shi, Y.; Leonard, L.; Peckham, S.; Stoica, M.; Cobourn, K.; Zhang, Z.; Duffy, C.; and Shu, L."
   link: ""
