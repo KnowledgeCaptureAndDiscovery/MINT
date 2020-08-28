@@ -40,5 +40,5 @@ The 3 demo segments illustrate how to use MINT capabilities to:
   **_User takeaways_**: The user looks at TopoFlow results and sees a detailed visualization (a movie) showing for any given location  in what hours/days/weeks there is clear risk of flooding at how high the water will be.
 
 ## Acknowledgement
-We would like to thank Dr. Belete Berhanu and Kidist Assefa Legesse from the  Addis Ababa Institute of Technology for a very fruitful collaboration.
+We would like to thank Dr. Belete Berhanu and Kidist Assefa Legesse from the Addis Ababa Institute of Technology for a very fruitful collaboration.
 
