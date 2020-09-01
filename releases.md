@@ -8,6 +8,12 @@ title: MINT Project Releases
 ## August, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api/tree/v0.3) v0.3 to support automatic data cleaning
   * Add deep learning model for few-shot data cleaning
+* Applications of the TopoFlow hydrologic model:
+  * Comparisons of TopoFlow model output to remote sensing time series.
+  * Comparisons of TopoFlow model output to daily discharge data at gauges.
+  * Improvements to the TopoFlow model calibration module.
+  * Improvements to TopoFlow Jupyter notebooks.
+  * Testing of MIC with the TopoFlow model.
 
 ## July, 2020
 
