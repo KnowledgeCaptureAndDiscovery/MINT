@@ -12,8 +12,10 @@ title: MINT Project Releases
   * Comparisons of TopoFlow model output to remote sensing time series.
   * Comparisons of TopoFlow model output to daily discharge data at gauges.
   * Improvements to the TopoFlow model calibration module.
+  * New model runs with 6-hourly CHIRPS rainfall data.
   * Improvements to TopoFlow Jupyter notebooks.
   * Testing of MIC with the TopoFlow model.
+  * New script to auto-generate TopoFlow visualizations.
 
 ## July, 2020
 
