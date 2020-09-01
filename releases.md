@@ -6,7 +6,7 @@ title: MINT Project Releases
 *Last updated: 2020-08-31*
 
 ## August, 2020
-* Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api) v0.3 to support automatic data cleaning
+* Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api/tree/v0.3) v0.3 to support automatic data cleaning
   * Add deep learning model for few-shot data cleaning
 
 ## July, 2020
