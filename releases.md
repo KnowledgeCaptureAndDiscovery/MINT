@@ -16,6 +16,11 @@ title: MINT Project Releases
   * Improvements to TopoFlow Jupyter notebooks.
   * Testing of MIC with the TopoFlow model.
   * New script to auto-generate TopoFlow visualizations.
+* Release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 1.3.3
+  * [Changelog](https://github.com/mintproject/mic/releases/tag/1.3.3)
+  * Bug fixes (errors in Windows executions, errors with double quotes in parameters)
+* Paper accepted at the 2020 International Semantic Web Conference
+  * OBA: An Ontology-Based Framework for Creating REST APIs for Knowledge Graphs. Garijo, D.; and Osorio, M. In To appear in The Semantic Web – ISWC 2020, 2020. Springer, Cham. [pdf] (http://dgarijo.com/papers/OBA__Ontology_Based_APIs.pdf)
 
 ## July, 2020
 
