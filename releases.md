@@ -47,9 +47,9 @@ title: MINT Project Releases
 * Release of new Jupyter Notebook for the TopoFlow model, and updates to existing notebooks and underlying code:
     * Troubleshooting large discrepancies between the GLDAS and GPM rainfall datasets (TopoFlow input data)
     * Calibration with new daily discharge data for the Baro River at Masha.
-    * New: [TopoFlow_Calibration_Baro_at_Masha](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Calibration_Baro_at_Masha.ipynb)
-    * Update: [TopoFlow Calibration Remote Sensing](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Calibration_Remote_Sensing.ipynb)
-    * Update: [TopoFlow Water Scarcity](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Water_Scarcity_Demo.ipynb)
+    * New: [TopoFlow_Calibration_Baro_at_Masha](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Calibration_Baro_at_Masha.ipynb)
+    * Update: [TopoFlow Calibration Remote Sensing](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Calibration_Remote_Sensing.ipynb)
+    * Update: [TopoFlow Water Scarcity](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Water_Scarcity_Demo.ipynb)
 
 ## June, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api) v0.1 to support automatic data cleaning
@@ -76,14 +76,14 @@ title: MINT Project Releases
   * updated the results for all of Ethopia using the updated model. 
 
 * Release of two new Jupyter Notebooks for the TopoFlow model, and updates to several existing notebooks:
-    * New: [TopoFlow Calibration Remote Sensing](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Calibration_Remote_Sensing.ipynb)
-    * New: [TopoFlow Water Scarcity](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Water_Scarcity_Demo.ipynb)
-    * Update: [TopoFlow Rainfall Inputs](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Rainfall_Inputs.ipynb)
-    * Update: [TopoFlow Flood Modeling](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Flood_Modeling.ipynb)
-    * Update: [TopoFlow Calibration Gauge Data](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Calibration_Gauge_Data.ipynb) 
-    * Update: [TopoFlow Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Getting_Started.ipynb) 
-    * Update: [TopoFlow Utils Demo1](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Utils_Demo1.ipynb)
-    * Update: [TopoFlow Visualization v2](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Visualization_v2.ipynb)
+    * New: [TopoFlow Calibration Remote Sensing](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Calibration_Remote_Sensing.ipynb)
+    * New: [TopoFlow Water Scarcity](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Water_Scarcity_Demo.ipynb)
+    * Update: [TopoFlow Rainfall Inputs](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Rainfall_Inputs.ipynb)
+    * Update: [TopoFlow Flood Modeling](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Flood_Modeling.ipynb)
+    * Update: [TopoFlow Calibration Gauge Data](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Calibration_Gauge_Data.ipynb) 
+    * Update: [TopoFlow Getting Started](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Getting_Started.ipynb) 
+    * Update: [TopoFlow Prepare_Input_Data](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Prepare_Input_Data.ipynb)
+    * Update: [TopoFlow Visualization](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Visualization.ipynb)
  
 ## May, 2020
 * Release of [DSI](https://github.com/mintproject/droughtIndices) v1.1.0
@@ -124,12 +124,12 @@ title: MINT Project Releases
   * updated the results for 5 basins in Ethopia using the updated model. 
 
 * Release of three new Jupyter Notebooks for the TopoFlow model, and three updates to existing notebooks:
-    * New: [TopoFlow Rainfall Inputs](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Rainfall_Inputs.ipynb)
-    * New: [TopoFlow Flood Modeling](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Flood_Modeling.ipynb)
-    * New: [TopoFlow Calibration Gauge Data](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Calibration_Gauge_Data.ipynb) 
-    * Update: [TopoFlow Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Getting_Started.ipynb) 
-    * Update: [TopoFlow Utils Demo1](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Utils_Demo1.ipynb)
-    * Update: [TopoFlow Visualization v2](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Visualization_v2.ipynb)
+    * New: [TopoFlow Rainfall Inputs](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Rainfall_Inputs.ipynb)
+    * New: [TopoFlow Flood Modeling](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Flood_Modeling.ipynb)
+    * New: [TopoFlow Calibration Gauge Data](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Calibration_Gauge_Data.ipynb) 
+    * Update: [TopoFlow Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Getting_Started.ipynb) 
+    * Update: [TopoFlow Prepare Input Data](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Prepare_Input_Data.ipynb)
+    * Update: [TopoFlow Visualization](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Visualization.ipynb)
     
 * Release of notebook and Python tools for performing scientific variable exploration and grounding to Scientific Variables Ontology (SVO) variables and entries in the World Modelers Indicators (WMI) list:
     * New: [Scientific Variable Exploration and Grounding](https://github.com/mariutzica/Scientific-Variable-Exploration-Tools/blob/master/Variable%20Report.ipynb)
@@ -160,7 +160,7 @@ title: MINT Project Releases
   * Uses descarteslabs API to download data for any given segment.
   * Provides user with options to provide points on a river as input or just provide a region or country to select predefined points on the river. These predefined points are available for rivers (>100 meters in width) across the globe. 
 * Release of a [Jupyter Notebook for the TopoFlow model](/notebooks.html##jupyter-notebooks-for-use-with-the-topoflow-model) with an overview and introduction to new users
-    * [TopoFlow Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/TopoFlow_Getting_Started.ipynb) 
+    * [TopoFlow Getting Started Notebook](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Getting_Started.ipynb) 
 
 ## March, 2020
 
