@@ -3,7 +3,11 @@ layout: page
 title: MINT Project Releases
 ---
 
-*Last updated: 2020-08-31*
+*Last updated: 2020-09-29*
+
+## September, 2020
+ * Release of [Data Transformation service v1.2]({{ '/products/data/' | absolute_url }}#transformation-services)
+   * Now support CHIRPS dataset download with temporal and spatial cropping.
 
 ## August, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api/tree/v0.3) v0.3 to support automatic data cleaning
