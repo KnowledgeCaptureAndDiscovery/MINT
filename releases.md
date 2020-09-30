@@ -7,7 +7,8 @@ title: MINT Project Releases
 
 ## September, 2020
  * Release of [Data Transformation service v1.2]({{ '/products/data/' | absolute_url }}#transformation-services)
-   * Now support CHIRPS dataset download with temporal and spatial cropping.
+   * Now support CHIRPS dataset download with temporal and spatial cropping ([example](https://github.com/mintproject/MINT-Transformation/tree/master/examples/chirps)).
+ * Release a [draft dataset](https://drive.google.com/drive/folders/1ot6d4do1oLGXzAIIppx5j9ECDxzHkB-4?usp=sharing) of ~1M semantic models of Wikipedia tables to Wikidata and an [UI](https://github.com/binh-vu/semantic-modeling-ui) to create and curate semantic models
 
 ## August, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api/tree/v0.3) v0.3 to support automatic data cleaning
