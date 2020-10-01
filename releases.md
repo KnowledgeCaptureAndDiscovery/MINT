@@ -9,6 +9,15 @@ title: MINT Project Releases
  * Release of [Data Transformation service v1.2]({{ '/products/data/' | absolute_url }}#transformation-services)
    * Now support CHIRPS dataset download with temporal and spatial cropping ([example](https://github.com/mintproject/MINT-Transformation/tree/master/examples/chirps)).
  * Release a [draft dataset](https://drive.google.com/drive/folders/1ot6d4do1oLGXzAIIppx5j9ECDxzHkB-4?usp=sharing) of ~1M semantic models of Wikipedia tables to Wikidata and an [UI](https://github.com/binh-vu/semantic-modeling-ui) to create and curate semantic models
+ * Release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 1.3.4
+    * [Changelog](https://github.com/mintproject/mic/releases/tag/1.3.4)
+    * Bug fixes and tests (error in automated parameter detection, errors in hyphens in the main configuration, etc.)
+  * Release of the [Software Description Ontology v1.8.0](https://w3id.org/okn/o/sd/1.8.0)
+    * [Changelog](https://knowledgecaptureanddiscovery.github.io/SoftwareDescriptionOntology/release/1.8.0/index-en.html#changes)
+    * Support for additional properties for describing results of a transformation.
+  * Release of the [Software Description Ontology for Models v1.7.0](https://w3id.org/okn/o/sd/1.7.0)
+    * [Changelog](https://mintproject.github.io/Mint-ModelCatalog-Ontology/release/1.7.0/index-en.html#changes)
+    * Suppot for model categories and description of coupled models.
 
 ## August, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api/tree/v0.3) v0.3 to support automatic data cleaning
