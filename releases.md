@@ -15,7 +15,7 @@ title: MINT Project Releases
   * Release of the [Software Description Ontology v1.8.0](https://w3id.org/okn/o/sd/1.8.0)
     * [Changelog](https://knowledgecaptureanddiscovery.github.io/SoftwareDescriptionOntology/release/1.8.0/index-en.html#changes)
     * Support for additional properties for describing results of a transformation.
-  * Release of the [Software Description Ontology for Models v1.7.0](https://w3id.org/okn/o/sd/1.7.0)
+  * Release of the [Software Description Ontology for Models v1.7.0](https://w3id.org/okn/o/sdm/1.7.0)
     * [Changelog](https://mintproject.github.io/Mint-ModelCatalog-Ontology/release/1.7.0/index-en.html#changes)
     * Suppot for model categories and description of coupled models.
 
