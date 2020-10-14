@@ -41,7 +41,7 @@ The Model Insertion Checker (MIC) is a command-line interface for encapsulating 
 
 [[Documentation](https://mic-cli.readthedocs.io/en/latest/)] [[Code](https://github.com/mintproject/mic)] [[Releases](https://github.com/mintproject/mic/releases)]
 
-### Desktop appliation for model execution (DAME)
+### Desktop application for model execution (DAME)
 
 The Desktop Application for Model Execution (DAME) is a command line interface designed to execute model components in any local host or server.
 

@@ -25,7 +25,7 @@ We provide multiple services to interact with the MINT Model Catalog.
 - [Model Catalog API]({{ '/products/model/' | absolute_url }}#model-catalog-api) for adding/modifying/deleting model metadata. 
 - [Model Catalog Explorer]({{ '/products/model/' | absolute_url }}#model-catalog-explorer) is graphical user interface (GUI) for exploring the contents of the model catalog. Also, a registered user can add, edit, and remove their Model Configuration Setups.
 - [Model Insertion CLI (MIC)]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) is a command-line interface for adding models on a Model Catalog Service using the [Model Catalog API](#model-catalog-api)
-- [Desktop Application for Model Execution (DAME)]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) obtains the details about the models using MINT Model Catalog API and run it in your computer.
+- [Desktop Application for Model Execution (DAME)]({{ '/products/model/' | absolute_url }}#desktop-application-for-model-execution-dame) obtains the details about the models using MINT Model Catalog API and run it in your computer.
 - [Clients]({{ '/products/model/' | absolute_url }}#model-service-api-clients) are provided to interact with [Model Catalog API]({{ '/products/model/' | absolute_url }}#model-catalog-api) easily.
 
 See an overview and more details in the [MINT Model Services main page]({{ '/products/model' | absolute_url }}).
