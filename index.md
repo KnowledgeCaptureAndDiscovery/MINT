@@ -374,7 +374,7 @@ layout: default
             <img src="assets/images/team/karpatne.jpg"/>
             <div class="content">
                 <h3><a href="https://www-users.cs.umn.edu/~karpa009/" target="_blank">Anuj Karpatne</a></h3>
-                <p>Postdoctoral Associate in the Department of Computer Science and Engineering University of Minnesota – Twin Cities
+                <p>Postdoctoral Associate in the Department of Computer Science and Engineering University of Minnesota (Twin Cities)
                 <br /><i class="label red">Model Calibration</i></p>
             </div>
         </member>
