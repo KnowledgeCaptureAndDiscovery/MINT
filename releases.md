@@ -3,7 +3,12 @@ layout: page
 title: MINT Project Releases
 ---
 
-*Last updated: 2020-09-29*
+*Last updated: 2020-10-30*
+## October, 2020
+* Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api/tree/v0.4) v0.4 to support automatic data cleaning
+  * Improve performance of deep learning model
+  * Support user curation in active learning fashion
+  * Provide datasets for system evaluation
 
 ## September, 2020
  * Release of [Data Transformation service v1.2]({{ '/products/data/' | absolute_url }}#transformation-services)
