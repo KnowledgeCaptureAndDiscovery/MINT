@@ -9,6 +9,11 @@ title: MINT Project Releases
   * Improve performance of deep learning model
   * Support user curation in active learning fashion
   * Provide datasets for system evaluation
+* Release of the [Model Catalog 1.6.0](https://github.com/mintproject/ModelCatalog/releases/tag/v1.6.0)
+  * Upgraded contents to [Software Description Ontology v1.8.0](https://w3id.org/okn/o/sd/1.8.0)  and [Software Description Ontology for Models v1.7.0](https://w3id.org/okn/o/sdm/1.7.0)
+  * Fixed errors and data cleaning
+  * Added new properties and model categories
+  * Improved documentation and export/import process
 
 ## September, 2020
  * Release of [Data Transformation service v1.2]({{ '/products/data/' | absolute_url }}#transformation-services)
