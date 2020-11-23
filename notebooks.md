@@ -7,7 +7,7 @@ title: Notebooks
 
 ## Jupyter Notebooks for Use with the TopoFlow Model
 
-#### Note: Please do not view these notebooks in GitHub, which is slow and does not work well.  Instead, paste their complete URL into the box at: https://nbviewer.jupyter.org.  There, notebooks render correctly and very quickly.  Both internal and external links will also work!
+#### <b>Note</b>: Please do not view these notebooks in GitHub, which is slow and does not work well.  Instead, paste their complete URL into the box at: https://nbviewer.jupyter.org.  There, notebooks render correctly and very quickly.  Both internal and external links will also work!
 
  * A notebook with an overview and introduction for new users.  [TopoFlow Getting Started Notebook]
  (https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Getting_Started.ipynb)
