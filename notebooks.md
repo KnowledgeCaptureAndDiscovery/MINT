@@ -23,7 +23,7 @@ title: Notebooks
   
   * A comparison of multiple, global, remotely-sensed rainfall products (GPM, GLDAS, CHIRPS). [TopoFlow_Rainfall_Inputs](https://github.com/peckhams/topoflow36/blob/master/notebooks/TopoFlow_Rainfall_Inputs.ipynb)
   
-  * Several other notebooks can be found in the [TopoFlow Notebooks Folder](https://github.com/peckhams/topoflow36/tree/master/notebooks)
+  * Several other notebooks can be found in the [TopoFlow Notebooks Folder](https://github.com/peckhams/topoflow36/tree/master/notebooks).  These notebooks show how to use numerous utilities in the TopoFlow 3.6 Python package.
   
 ## Data Services
 
