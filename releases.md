@@ -3,7 +3,10 @@ layout: page
 title: MINT Project Releases
 ---
 
-*Last updated: 2020-10-30*
+*Last updated: 2020-11-30*
+## November, 2020
+* Release the first version of an evaluation [dataset](https://drive.google.com/drive/u/1/folders/1ot6d4do1oLGXzAIIppx5j9ECDxzHkB-4) for Semantic Modeling that contains 500 Wikipedia Tables manually mapped to Wikidata.
+
 ## October, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api/tree/v0.4) v0.4 to support automatic data cleaning
   * Improve performance of deep learning model
