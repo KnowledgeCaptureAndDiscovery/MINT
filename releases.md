@@ -7,6 +7,7 @@ title: MINT Project Releases
 ## November, 2020
 * Release of the [Model Catalog API](https://github.com/mintproject/model-catalog-api/releases/tag/1.6.0) 1.6.0
 * Release of the [Model Catalog Python client](https://github.com/mintproject/model-catalog-python-api-client/releases/tag/6.0.0) 6.0.0
+* Release of the [Model Catalog NPM client](https://github.com/mintproject/model-catalog-fetch-api-client/releases/tag/6.0.0) 6.0.0
 * Release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 1.3.7
     * [Changelog](https://github.com/mintproject/mic/releases/tag/1.3.7)
     * Update to new model catalog API
