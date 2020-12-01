@@ -3,7 +3,19 @@ layout: page
 title: MINT Project Releases
 ---
 
-*Last updated: 2020-10-30*
+*Last updated: 2020-12-01*
+## November, 2020
+* Release of the [Model Catalog API](https://github.com/mintproject/model-catalog-api/releases/tag/1.6.0) 1.6.0
+* Release of the [Model Catalog Python client](https://github.com/mintproject/model-catalog-python-api-client/releases/tag/6.0.0) 6.0.0
+* Release of [MIC]({{ '/products/model/' | absolute_url }}#model-insertion-checker-mic) 1.3.7
+    * [Changelog](https://github.com/mintproject/mic/releases/tag/1.3.7)
+    * Update to new model catalog API
+* Release of [DAME]({{ '/products/model/' | absolute_url }}#desktop-appliation-for-model-execution-dame) 5.4.5
+  * [Changelog](https://github.com/mintproject/dame_cli/releases/tag/5.4.5)
+  * Update to use the new model catalog API
+* New version of the [Drought indices model](https://models.mint.isi.edu/models/explore/DSI/dsi_1.2.0/dsi_1.2.0_cfg) (1.2.0)
+* New forecasting model for drought indices, [DroughtPredict 1.0.0](https://models.mint.isi.edu/models/explore/1a0e8797-5ef0-4e96-ad05-0dc129c60f4c/20b92d72-8e5f-48f6-9730-2ff98ef6a4e2/6a2beb78-7872-48ce-ad9e-1245e06063b9) 
+
 ## October, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api/tree/v0.4) v0.4 to support automatic data cleaning
   * Improve performance of deep learning model
