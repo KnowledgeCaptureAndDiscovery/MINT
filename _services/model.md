@@ -7,7 +7,7 @@ title:  "Model Services"
 The [MINT Model Catalog](#model-catalog-api) provides detailed information about software models and metadata available in MINT. 
 A summary of all the concepts used in the model catalog is available [here](https://mintproject.readthedocs.io/en/latest/modelcatalog/). The following figure presents a high level overview of MINT Model Services:
 
-<img src="https://mintproject.readthedocs.io/en/latest/figures/insertion.png" alt="Overview image of the model catalog" width="700"/>
+<img src="https://mintproject.readthedocs.io/en/latest/figures/insertion.png" alt="Overview image of the model catalog" width="800"/>
 
 ## Overview
 
