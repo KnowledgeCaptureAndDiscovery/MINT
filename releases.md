@@ -3,7 +3,13 @@ layout: page
 title: MINT Project Releases
 ---
 
-*Last updated: 2020-12-01*
+*Last updated: 2021-01-01*
+
+## December, 2020
+ * Release of [B-Clean](https://github.com/minhptx/B-clean-public) v0. to support semi-automatic data cleaning
+   * Better error detection performance
+   * Full evaluation on different datasets
+ 
 ## November, 2020
 * Release of the [Model Catalog API](https://github.com/mintproject/model-catalog-api/releases/tag/1.6.0) 1.6.0
 * Release of the [Model Catalog Python client](https://github.com/mintproject/model-catalog-python-api-client/releases/tag/6.0.0) 6.0.0
