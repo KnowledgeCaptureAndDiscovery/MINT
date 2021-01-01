@@ -6,9 +6,11 @@ title: MINT Project Releases
 *Last updated: 2021-01-01*
 
 ## December, 2020
- * Release of [B-Clean](https://github.com/minhptx/B-clean-public) v0. to support semi-automatic data cleaning
+ * Release of [B-Clean](https://github.com/minhptx/B-clean-public) v0.5 to support semi-automatic data cleaning
    * Better error detection performance
    * Full evaluation on different datasets
+ * Release of [Semantic Modeling API]( https://github.com/mintproject/semantic-modeling-api) v0.3 to support mapping linked tables to Wikidata
+
  
 ## November, 2020
 * Release of the [Model Catalog API](https://github.com/mintproject/model-catalog-api/releases/tag/1.6.0) 1.6.0
@@ -25,6 +27,7 @@ title: MINT Project Releases
   * Provides example usage of T2WML and KGTK for transforming data
 * New version of the [Drought indices model](https://models.mint.isi.edu/models/explore/DSI/dsi_1.2.0/dsi_1.2.0_cfg) (1.2.0)
 * New forecasting model for drought indices, [DroughtPredict 1.0.0](https://models.mint.isi.edu/models/explore/1a0e8797-5ef0-4e96-ad05-0dc129c60f4c/20b92d72-8e5f-48f6-9730-2ff98ef6a4e2/6a2beb78-7872-48ce-ad9e-1245e06063b9) 
+* Release the first version of an evaluation [dataset](https://drive.google.com/drive/u/1/folders/1ot6d4do1oLGXzAIIppx5j9ECDxzHkB-4) for Semantic Modeling that contains 500 Wikipedia Tables manually mapped to Wikidata.
 
 ## October, 2020
 * Release of [B-Clean API](https://github.com/mintproject/byod-cleaning-api/tree/v0.4) v0.4 to support automatic data cleaning
