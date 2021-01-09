@@ -9,7 +9,9 @@ title: MINT Project Releases
  * Release of [B-Clean](https://github.com/minhptx/B-clean-public) v0.5 to support semi-automatic data cleaning
    * Better error detection performance
    * Full evaluation on different datasets
- * Release of [Semantic Modeling API]( https://github.com/mintproject/semantic-modeling-api) v0.3 to support mapping linked tables to Wikidata
+ * Release of [Semantic Modeling API](https://github.com/mintproject/semantic-modeling-api) v0.3 to support mapping linked tables to Wikidata
+ * Release of the [Model Catalog 1.7.0](https://github.com/mintproject/ModelCatalog/releases/tag/1.7.0) to support defining local SVO names 
+ * Reelease of the [MINT UI 6.0.5](https://github.com/mintproject/mint-ui-lit/releases/tag/6.0.5) fixing usability bugs.
 
  
 ## November, 2020
