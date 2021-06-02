@@ -3,7 +3,22 @@ layout: page
 title: MINT Project Releases
 ---
 
-*Last updated: 2021-01-01*
+*Last updated: 2021-06-02*
+
+## May, 2021
+
+ * Acquired and mosaicked MERIT DEMs for Horn of Africa
+ * Acquired ISRIC Soil Grids 2017 1km data for globe
+ * Set up DAKOTA on TACC (test runs, DataX Portal; Corral for storage)
+ * Data Inventory
+ * Release of [MIC 2.1.0](https://github.com/mintproject/mic/releases/tag/2.1.0): Remove github dependency to store the MINT components. 
+ * New [Data Transformation repository](https://github.com/mintproject/dt_collection/): A repository with Data Transformation ready to run using [cwltool](https://github.com/common-workflow-language/cwltool):
+ * New [MINT installation repository](https://github.com/mintproject/installation_public): Contains `docker-compose` files to run MINT on cloud or servers.
+
+## April, 2021
+
+ * Release of [Model constraint checking 0.0.1](https://github.com/mintproject/cromo/)
+ * Release of [MIC 2.0.0](https://github.com/mintproject/mic/releases/tag/2.0.0): Convert Ipython notebooks to model components + improved documentation for modelers.
 
 ## December, 2020
  * Release of [B-Clean](https://github.com/minhptx/B-clean-public) v0.5 to support semi-automatic data cleaning
@@ -11,7 +26,7 @@ title: MINT Project Releases
    * Full evaluation on different datasets
  * Release of [Semantic Modeling API](https://github.com/mintproject/semantic-modeling-api) v0.3 to support mapping linked tables to Wikidata
  * Release of the [Model Catalog 1.7.0](https://github.com/mintproject/ModelCatalog/releases/tag/1.7.0) to support defining local SVO names 
- * Reelease of the [MINT UI 6.0.5](https://github.com/mintproject/mint-ui-lit/releases/tag/6.0.5) fixing usability bugs.
+ * Release of the [MINT UI 6.0.5](https://github.com/mintproject/mint-ui-lit/releases/tag/6.0.5) fixing usability bugs.
 
  
 ## November, 2020
