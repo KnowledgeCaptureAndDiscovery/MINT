@@ -14,6 +14,7 @@ title: MINT Project Releases
  * Release of [MIC 2.1.0](https://github.com/mintproject/mic/releases/tag/2.1.0): Remove github dependency to store the MINT components. 
  * New [Data Transformation repository](https://github.com/mintproject/dt_collection/): A repository with Data Transformation ready to run using [cwltool](https://github.com/common-workflow-language/cwltool)
  * New [MINT installation repository](https://github.com/mintproject/installation_public): Contains `docker-compose` files to run MINT on cloud or servers.
+ * Release of [SPADE 1.0.0](https://github.com/minhptx/spade) (Old name: B-Clean). 
 
 ## April, 2021
 
