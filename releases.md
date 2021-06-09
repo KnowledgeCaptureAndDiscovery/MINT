@@ -15,6 +15,7 @@ title: MINT Project Releases
  * New [Data Transformation repository](https://github.com/mintproject/dt_collection/): A repository with Data Transformation ready to run using [cwltool](https://github.com/common-workflow-language/cwltool)
  * New [MINT installation repository](https://github.com/mintproject/installation_public): Contains `docker-compose` files to run MINT on cloud or servers.
  * Release of [SPADE 1.0.0](https://github.com/minhptx/spade) (Newer version of B-Clean). 
+ * Release of [Semantic Modeling 1.0.0](https://github.com/binh-vu/mint-sm): Build semantic models of tables.
 
 ## April, 2021
 
