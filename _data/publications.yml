@@ -11,8 +11,8 @@
   
 - title: "Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making"
   authors: "Gil,Y.; Garijo, D.; Khider, D.; Knoblock, C.A.; Ratnakar, V.; Osorio, M.; Vargas, H.; Pham,M.; Pujara, J.; Shbita, B. Vu, B; Chiang, Y.; Feldman, D.; Lin, Y.; Song, H.; Kumar, V.; Khandelwal, A.; Steinbach, M.; Tayal, K.; Xu, S.; Pierce, S.A.; Pearson, L.; Hardesty-Lewis, D.; Deelman, E.; Ferreira da Silva, R.;  Mayani, R.; Kemanian, A.R.; Shi, Y.; Leonard, L.; Peckham, S.; Stoica, M.; Cobourn, K.; Zhang, Z.; Duffy, C.; and Shu, L."
-  link: ""
-  description: "[Under review]"
+  link: "https://www.isi.edu/~gil/papers/gil-etal-tiis2021.pdf"
+  description: "ACM Transactions on Interactive Intelligent Systems (TiiS), 11(2). 2021"
   
 - title: "OBA: An Ontology-Based Framework for Creating REST APIs for Knowledge Graphs"
   authors: "Garijo, D. and Osorio M."
