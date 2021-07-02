@@ -4,6 +4,11 @@
 #  link: ""
 #  description: ""
 
+- title: "SPADE: A Semi-supervised Probabilistic Approach for Detecting Errors in Tables"
+  authors: "Pham, M.; Knoblock, C.A.; Chen, M.; Vu, B.; Pujara, J."
+  link: "https://minhptx.github.io/files/ijcai2021.pdf"
+  description: "Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021"
+
 - title: "A Graph-based Approach for Inferring Semantic Descriptions of Wikipedia Tables"
   authors: "Vu, B.; Knoblock, C.A.; Szekely, P.; Pham, M.; Pujara, J."
   link: "https://www.dropbox.com/s/7i6k2opqmkojywn/ISWC2021_paper_205.pdf?dl=0"
