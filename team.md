@@ -314,7 +314,7 @@ title: The MINT Team
 			</div>
 		</member>
         <member>
-			<img src="assets/images/team/bisrat.png"/>
+			<img src="assets/images/team/default.jpg"/>
 			<div class="content">
 				<h3>Ethiopia Bisrat</h3>
 				<p>  PhD Student at Florida International University 
@@ -349,7 +349,8 @@ title: The MINT Team
             <img src="assets/images/institution/tacc.png"/>
         </institution>
 
-	</div>
+    </div>
+
 </section>
 
 <!-- Section -->
