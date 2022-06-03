@@ -360,7 +360,7 @@ title: The MINT Team
 	</header>
 	<div class="team" style="margin-left: 0em">
 	    <institution>
-            <img src="assets/images/instgitution/aait.png"/>
+            <img src="assets/images/institution/aait.png"/>
         </institution>
 	    <institution>
             <img src="assets/images/institution/usgs.png"/>
