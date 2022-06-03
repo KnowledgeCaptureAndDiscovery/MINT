@@ -82,6 +82,14 @@ title: The MINT Team
 			</div>
 		</member>
 		<member>
+			<img src="assets/images/team/kemanian.jpg"/>
+			<div class="content">
+				<h3><a href="http://plantscience.psu.edu/research/labs/kemanian" target="_blank">Armen Kemanian</a></h3>
+				<p><strong>co-PI</strong>. Associate Professor in the Department of Plant Science at Penn State University
+				<br /><i class="label orange">Modeling</i></p>
+			</div>
+		</member>
+		<member>
             <img src="assets/images/team/pierce.jpg"/>
             <div class="content">
                 <h3><a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce" target="_blank">Suzanne Pierce</a></h3>
@@ -297,9 +305,24 @@ title: The MINT Team
                 <br /><i class="label grey">Collaborator</i></p>
             </div>
         </member>
+        <member>
+			<img src="assets/images/team/birhanu.jpg"/>
+			<div class="content">
+				<h3>Belete Birhanu</h3>
+				<p>Associate Professor at Addis Ababa Institute of Technology · Addis Ababa University
+				<br /><i class="label red">Model Calibration</i></p>
+			</div>
+		</member>
+        <member>
+			<img src="assets/images/team/bisrat.jpg"/>
+			<div class="content">
+				<h3>Ethiopia Bisrat</h3>
+				<p>MsC student
+				<br /><i class="label red">Model Calibration</i></p>
+			</div>
+		</member>
     </div>
 </section>
-
 
 <!-- Section -->
 <section>
@@ -325,9 +348,9 @@ title: The MINT Team
         <institution>
             <img src="assets/images/institution/tacc.png"/>
         </institution>
+
 	</div>
 </section>
-
 
 <!-- Section -->
 <section>
@@ -335,6 +358,9 @@ title: The MINT Team
 		<h2>Collaborating Institutions</h2>
 	</header>
 	<div class="team" style="margin-left: 0em">
+	    <institution>
+            <img src="assets/images/institution/aait.png"/>
+        </institution>
 	    <institution>
             <img src="assets/images/institution/usgs.png"/>
         </institution>
@@ -355,7 +381,6 @@ title: The MINT Team
         </institution>
 	</div>
 </section>
-
 
 <!-- Section -->
 <section>
