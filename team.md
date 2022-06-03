@@ -306,19 +306,19 @@ title: The MINT Team
             </div>
         </member>
         <member>
-			<img src="assets/images/team/birhanu.jpg"/>
+			<img src="assets/images/team/default.jpg"/>
 			<div class="content">
 				<h3>Belete Birhanu</h3>
 				<p>Associate Professor at Addis Ababa Institute of Technology · Addis Ababa University
-				<br /><i class="label red">Model Calibration</i></p>
+				<br /><i class="label orange">Modeling</i></p>
 			</div>
 		</member>
         <member>
 			<img src="assets/images/team/bisrat.jpg"/>
 			<div class="content">
 				<h3>Ethiopia Bisrat</h3>
-				<p>MsC student
-				<br /><i class="label red">Model Calibration</i></p>
+				<p>  PhD Student at Florida International University 
+				<br /><i class="label orange">Modeling</i></p>
 			</div>
 		</member>
     </div>
