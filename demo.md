@@ -3,6 +3,9 @@ layout: page
 title: Demos and Videos
 ---
 
+See the [latest MINT User Interface demo videos here](https://www.youtube.com/watch?v=QaGohriTMGU&list=PLY6kyuesE2jObCA30wXF3mWnuCgsbbZAw)
+
+
 See our August 2020 demo videos by clicking on [this link]({{ '/demo_aug_2020.html' | absolute_url }})
 
 ## MINT User Interface
