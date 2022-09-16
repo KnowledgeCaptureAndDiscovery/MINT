@@ -109,5 +109,8 @@
   link: "https://www.isi.edu/~gil/papers/gil-etal-iemss18.pdf"
   description: "Proceedings of the 9th International Congress on Environmental Modelling and Software, 2018"
 
+- title: "Integrating Scientific Knowledge with Machine Learning for Engineering and Environmental Systems"
+  authors: "J. Willard, X. Jia, S. Xu, M. Steinbach, and V. Kumar"
+  link: "https://arxiv.org/pdf/2003.04919.pdf"
 
 
