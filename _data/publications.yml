@@ -4,6 +4,12 @@
 #  link: ""
 #  description: ""
 
+- title: "A framework for the broad dissemination of hydrological models for non-expert users"
+  authors: "Timo Schaffhauser, Daniel Garijo, Maximiliano Osorio, Daniel Bittner, Suzanne Pierce, Hernan Vargas, Markus Disse, Yolanda Gil"
+  link: "https://kcap.isi.edu/publication/schaffhauser-2023105695/"
+  description: "Environmental Modelling & Software"
+
+
 - title: "An AI Approach to Integrating Climate, Hydrology, and Agriculture Models"
   authors: "Berhanu, B.; Bisrat, E.; Gil, Y.; Khider, D.; Osorio, M.; Ratnakar, V.; and Vargas, H."
   link: "http://www.isi.edu/~gil/papers/berhanu-etal-siaia-2022.pdf"
