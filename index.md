@@ -12,10 +12,156 @@ layout: default
 			<img src="assets/images/team/gil.png"/>
 			<div class="content">
 				<h3><a href="https://www.isi.edu/~gil/" target="_blank">Yolanda Gil</a></h3>
-				<p><strong>PI</strong>. Research Professor in the Computer Science Department at University of Southern California 
+				<p><strong>PI</strong>. Research Professor in the Computer Science Department at University of Southern California
 				<br /><i class="label">Workflow Composition</i></p>
 			</div>
 		</member>
+        <member>
+			<img src="assets/images/team/khider.jpg"/>
+			<div class="content">
+				<h3><a href="http://earth.usc.edu/~khider/" target="_blank">Deborah Khider</a></h3>
+				<p>Data Scientist in the Information Sciences Institute of the University of Southern California
+				<br /><i class="label">Workflow Composition</i></p>
+			</div>
+		</member>
+		<member>
+			<img src="assets/images/team/ratnakar.jpg"/>
+			<div class="content">
+				<h3>Varun Ratnakar</h3>
+				<p>Director of Karya and R&D Consultant for the Information Sciences Institute at University of Southern California
+				<br /><i class="label">Workflow Composition</i></p>
+			</div>
+		</member>
+        <member>
+            <img src="assets/images/team/osorio.jpg"/>
+            <div class="content">
+                <h3>Maximiliano Osorio</h3>
+                <p>MetaLearn SPA Consultant for the Information Sciente Institute at University of Southern California
+                <br /><i class="label yellow">Backend and services</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/vargas.jpg"/>
+            <div class="content">
+                <h3>Hernan Vargas</h3>
+                <p>Consultant for the Information Sciences Institute at University of Southern California
+                <br /><i class="label pink">User Interface</i></p>
+            </div>
+        </member>
+    </div>
+</section>
+
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Collaborators</h2>
+	</header>
+	<div class="team">
+		<member>
+            <img src="assets/images/team/pierce.jpg"/>
+            <div class="content">
+                <h3><a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce" target="_blank">Suzanne Pierce</a></h3>
+                <p><strong>co-PI</strong>. Research Scientist at Texas Advanced Computing Center
+                <br /><i class="label pink">User Interface</i></p>
+            </div>
+        </member>
+		<member>
+			<img src="assets/images/team/altinas.jpg"/>
+			<div class="content">
+				<h3>İlkay Altıntaş</h3>
+                <p>Cheif Data Science Officer at the San Diego Supercomputer Center</p>
+			</div>
+		</member>
+        <member>
+            <img src="assets/images/team/default.jpg">
+            <div class="content">
+                <h3>Belete Berhanu</h3>
+                <p>Addis Ababa Institute of Technology, Addis Ababa University
+				<br /><i class="label">Workflow Composition</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/bisrat.png">
+            <div class="content">
+                <h3>Ethiopia Bisrat </h3>
+                <p>Florida Internation University
+				<br /><i class="label">Workflow Composition</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/default.jpg"/>
+            <div class="content">
+                <h3>Daniel Hardesty-Lewis</h3>
+                <p> Research Engineering Scientist Associate I at Texas Advanced Computing Center
+                <br /><i class="label blue">Workflow Composition</i></p>
+            </div>
+        </member>
+    </div>
+</section>
+
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Partner Institutions</h2>
+	</header>
+	<div class="team" style="margin-left: 0em">
+	    <institution>
+            <img src="assets/images/institution/usc-isi.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/pennstate.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/ucolorado-boulder.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/minnesota.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/virginia-tech.png" style="height: 3em"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/tacc.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/aait.png"/>
+            </institution>
+	</div>
+</section>
+
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Collaborating Institutions</h2>
+	</header>
+	<div class="team" style="margin-left: 0em">
+	    <institution>
+            <img src="assets/images/institution/usgs.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/utep.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/ku.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/virginia.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/unicamp.png"/>
+        </institution>
+        <institution>
+            <img src="assets/images/institution/uscd.png"/>
+        </institution>
+	</div>
+</section>
+
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Past Collaborators</h2>
+	</header>
+	<div class="team" style="margin-left: 0em">
 		<member>
 			<img src="assets/images/team/knoblock.jpg"/>
 			<div class="content">
@@ -81,14 +227,6 @@ layout: default
 			</div>
 		</member>
 		<member>
-            <img src="assets/images/team/pierce.jpg"/>
-            <div class="content">
-                <h3><a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce" target="_blank">Suzanne Pierce</a></h3>
-                <p><strong>co-PI</strong>. Research Scientist at Texas Advanced Computing Center
-                <br /><i class="label pink">User Interface</i></p>
-            </div>
-        </member>
-		<member>
 			<img src="assets/images/team/chiang.jpg"/>
 			<div class="content">
 				<h3><a href="http://www.yoyoi.info/" target="_blank">Yao-Yi Chiang</a></h3>
@@ -109,22 +247,6 @@ layout: default
 			<div class="content">
 				<h3><a href="http://dgarijo.com" target="_blank">Daniel Garijo</a></h3>
 				<p>Computer Scientist in the Information Sciences Institute of the University of Southern California
-				<br /><i class="label">Workflow Composition</i></p>
-			</div>
-		</member>     
-        <member>
-			<img src="assets/images/team/khider.jpg"/>
-			<div class="content">
-				<h3><a href="http://earth.usc.edu/~khider/" target="_blank">Deborah Khider</a></h3>
-				<p>Data Scientist in the Information Sciences Institute of the University of Southern California
-				<br /><i class="label">Workflow Composition</i></p>
-			</div>
-		</member>    
-		<member>
-			<img src="assets/images/team/ratnakar.jpg"/>
-			<div class="content">
-				<h3>Varun Ratnakar</h3>
-				<p>Director of Karya and R&D Consultant for the Information Sciences Institute at University of Southern California
 				<br /><i class="label">Workflow Composition</i></p>
 			</div>
 		</member>
@@ -149,30 +271,6 @@ layout: default
             <div class="content">
                 <h3>Rajiv Mayani</h3>
                 <p>Research Programmer II in the Information Sciences Institute at University of Southern California
-                <br /><i class="label blue">Workflow Execution</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/osorio.jpg"/>
-            <div class="content">
-                <h3>Maximiliano Osorio</h3>
-                <p>Research Analyst in the Information Sciences Institute at University of Southern California
-                <br /><i class="label yellow">Backend and services</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/vargas.jpg"/>
-            <div class="content">
-                <h3>Hernan Vargas</h3>
-                <p>Consultant for the Information Sciences Institute at University of Southern California
-                <br /><i class="label pink">User Interface</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/default.jpg"/>
-            <div class="content">
-                <h3>Daniel Hardesty-Lewis</h3>
-                <p> Research Engineering Scientist Associate I at Texas Advanced Computing Center
                 <br /><i class="label blue">Workflow Execution</i></p>
             </div>
         </member>
@@ -247,7 +345,7 @@ layout: default
                 <p>Research Assistant Professor, Institutes of Energy and the Environment at Penn State University
                 <br /><i class="label orange">Modeling</i></p>
             </div>
-        </member>	
+        </member>
 		<member>
             <img src="assets/images/team/zhang.jpg"/>
             <div class="content">
@@ -263,7 +361,7 @@ layout: default
                 <p>PhD student in the Computer Science Department at University of Southern California
                 <br /><i class="label green">Data Extraction and Integration</i></p>
             </div>
-        </member>	
+        </member>
         <member>
             <img src="assets/images/team/default.jpg"/>
             <div class="content">
@@ -271,7 +369,7 @@ layout: default
                 <p>PhD student in the Computer Science Department at University of Southern California
                 <br /><i class="label green">Data Extraction and Integration</i></p>
             </div>
-        </member>			
+        </member>
         <member>
 			<img src="assets/images/team/dimitropoulou.jpg"/>
 			<div class="content">
@@ -296,72 +394,6 @@ layout: default
                 <br /><i class="label grey">Collaborator</i></p>
             </div>
         </member>
-    </div>
-</section>
-
-
-<!-- Section -->
-<section>
-	<header class="major">
-		<h2>Partner Institutions</h2>
-	</header>
-	<div class="team" style="margin-left: 0em">
-	    <institution>
-            <img src="assets/images/institution/usc-isi.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/pennstate.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/ucolorado-boulder.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/minnesota.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/virginia-tech.png" style="height: 3em"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/tacc.png"/>
-        </institution>
-	</div>
-</section>
-
-
-<!-- Section -->
-<section>
-	<header class="major">
-		<h2>Collaborating Institutions</h2>
-	</header>
-	<div class="team" style="margin-left: 0em">
-	    <institution>
-            <img src="assets/images/institution/usgs.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/utep.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/ku.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/virginia.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/unicamp.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/bgs.png" style="padding-left: 1em"/>
-        </institution>
-	</div>
-</section>
-
-
-<!-- Section -->
-<section>
-	<header class="major">
-		<h2>Past Collaborators</h2>
-	</header>
-	<div class="team" style="margin-left: 0em">
 	    <member>
             <img src="assets/images/team/rynge.png"/>
             <div class="content">
