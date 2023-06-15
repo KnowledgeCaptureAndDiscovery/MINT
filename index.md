@@ -16,14 +16,6 @@ layout: default
 				<br /><i class="label">Workflow Composition</i></p>
 			</div>
 		</member>
-		<member>
-            <img src="assets/images/team/pierce.jpg"/>
-            <div class="content">
-                <h3><a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce" target="_blank">Suzanne Pierce</a></h3>
-                <p><strong>co-PI</strong>. Research Scientist at Texas Advanced Computing Center
-                <br /><i class="label pink">User Interface</i></p>
-            </div>
-        </member>
         <member>
 			<img src="assets/images/team/khider.jpg"/>
 			<div class="content">
@@ -62,6 +54,54 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
+		<h2>Collaborators</h2>
+	</header>
+	<div class="team">
+		<member>
+            <img src="assets/images/team/pierce.jpg"/>
+            <div class="content">
+                <h3><a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce" target="_blank">Suzanne Pierce</a></h3>
+                <p><strong>co-PI</strong>. Research Scientist at Texas Advanced Computing Center
+                <br /><i class="label pink">User Interface</i></p>
+            </div>
+        </member>
+		<member>
+			<img src="assets/images/team/altinas.jpg"/>
+			<div class="content">
+				<h3>İlkay Altıntaş</h3>
+                <p>Cheif Data Science Officer at the San Diego Supercomputer Center</p>
+			</div>
+		</member>
+        <member>
+            <img src="assets/images/team/default.jpg">
+            <div class="content">
+                <h3>Belete Berhanu</h3>
+                <p>Addis Ababa Institute of Technology, Addis Ababa University
+				<br /><i class="label">Workflow Composition</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/bisrat.png">
+            <div class="content">
+                <h3>Ethiopia Bisrat </h3>
+                <p>Florida Internation University
+				<br /><i class="label">Workflow Composition</i></p>
+            </div>
+        </member>
+        <member>
+            <img src="assets/images/team/default.jpg"/>
+            <div class="content">
+                <h3>Daniel Hardesty-Lewis</h3>
+                <p> Research Engineering Scientist Associate I at Texas Advanced Computing Center
+                <br /><i class="label blue">Workflow Composition</i></p>
+            </div>
+        </member>
+    </div>
+</section>
+
+<!-- Section -->
+<section>
+	<header class="major">
 		<h2>Partner Institutions</h2>
 	</header>
 	<div class="team" style="margin-left: 0em">
@@ -83,6 +123,9 @@ layout: default
         <institution>
             <img src="assets/images/institution/tacc.png"/>
         </institution>
+        <institution>
+            <img src="assets/images/institution/aait.png"/>
+            </institution>
 	</div>
 </section>
 
@@ -108,7 +151,7 @@ layout: default
             <img src="assets/images/institution/unicamp.png"/>
         </institution>
         <institution>
-            <img src="assets/images/institution/bgs.png" style="padding-left: 1em"/>
+            <img src="assets/images/institution/uscd.png"/>
         </institution>
 	</div>
 </section>
@@ -228,14 +271,6 @@ layout: default
             <div class="content">
                 <h3>Rajiv Mayani</h3>
                 <p>Research Programmer II in the Information Sciences Institute at University of Southern California
-                <br /><i class="label blue">Workflow Execution</i></p>
-            </div>
-        </member>
-        <member>
-            <img src="assets/images/team/default.jpg"/>
-            <div class="content">
-                <h3>Daniel Hardesty-Lewis</h3>
-                <p> Research Engineering Scientist Associate I at Texas Advanced Computing Center
                 <br /><i class="label blue">Workflow Execution</i></p>
             </div>
         </member>
