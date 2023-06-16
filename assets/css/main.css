@@ -3600,6 +3600,10 @@ button:disabled,
     margin-left: 1.5em;
 }
 
+features article:nth-last-child(1), .features article:nth-last-child(2) {
+    margin-bottom: 0;
+}
+
 .features article .icon {
     -moz-flex-grow: 0;
     -webkit-flex-grow: 0;
@@ -4576,10 +4580,6 @@ button:disabled,
 
 .team member:nth-child(2n) {
     margin-left: 0.5em;
-}
-
-.team member:nth-last-child(1), .team member:nth-last-child(2) {
-    margin-bottom: 0;
 }
 
 .team member h3 {
