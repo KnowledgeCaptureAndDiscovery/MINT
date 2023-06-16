@@ -126,6 +126,9 @@ layout: default
         <institution>
             <img src="assets/images/institution/aait.png"/>
             </institution>
+        <institution>
+            <img src="assets/images/institution/uscd.png"/>
+        </institution>
 	</div>
 </section>
 
@@ -149,9 +152,6 @@ layout: default
         </institution>
         <institution>
             <img src="assets/images/institution/unicamp.png"/>
-        </institution>
-        <institution>
-            <img src="assets/images/institution/uscd.png"/>
         </institution>
 	</div>
 </section>
